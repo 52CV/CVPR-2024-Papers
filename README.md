@@ -1,5 +1,5 @@
 # CVPR-2024-Papers
-[Alt text](file:///d%253A/WeChat%2520Files/WeChat%2520Files/wxid_uq1fmtv8bf3e12/FileStorage/Temp/557963539cd338cc0937d1a505b3433.jpg)
+![homepage_image](https://github.com/52CV/CVPR-2024-Papers/assets/62801906/41a45750-bca8-4cb8-89dc-a04b0bbe7b2c)
 
 ## 官网链接：https://cvpr.thecvf.com/
 

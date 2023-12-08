@@ -25,9 +25,15 @@
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
 
+
+
 * 对抗
   * [Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights](https://arxiv.org/abs/2311.15994)
 
+<a name="1"/>
+
+## 1.其它
+* [SurfaceAug: Closing the Gap in Multimodal Ground Truth Sampling](https://arxiv.org/abs/2312.03808)
 
 <a name="0"/>
 

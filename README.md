@@ -34,6 +34,7 @@
 
 ## 1.其它
 * [SurfaceAug: Closing the Gap in Multimodal Ground Truth Sampling](https://arxiv.org/abs/2312.03808)
+* [Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion](https://arxiv.org/abs/2401.00391)
 
 <a name="0"/>
 

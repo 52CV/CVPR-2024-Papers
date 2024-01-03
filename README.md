@@ -30,6 +30,10 @@
 * 对抗
   * [Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights](https://arxiv.org/abs/2311.15994)
 
+
+## Human action recognition
+* [Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence](https://arxiv.org/abs/2401.00921)<br>:star:[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)
+
 <a name="1"/>
 
 ## 1.其它

@@ -3,8 +3,8 @@
 
 ## 官网链接：https://cvpr.thecvf.com/
 
-### 研讨会:bell:：6 月 17-18 日<br>
-### 主会:bell:：6 月 19-21 日
+### 研讨会 :bell:：6 月 17-18 日<br>
+### 主会: bell:：6 月 19-21 日
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 

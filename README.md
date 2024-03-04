@@ -25,32 +25,17 @@
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
 
-## 2月29日更新25篇，共计36+25篇。
-* [DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models](http://arxiv.org/abs/2402.19481v1)<br>:house:[project](https://hanlab.mit.edu/blog/distrifusion)<br>:house:[project](https://hanlab.mit.edu/projects/distrifusion)<br>:star:[code](https://github.com/mit-han-lab/distrifuser)
-* [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](http://arxiv.org/abs/2402.19479v1)<br>:star:[code](https://snap-research.github.io/Panda-70M)
-* [SeMoLi: What Moves Together Belongs Together](http://arxiv.org/abs/2402.19463v1)
-* [PEM: Prototype-based Efficient MaskFormer for Image Segmentation](http://arxiv.org/abs/2402.19422v1)
-* [Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction](http://arxiv.org/abs/2402.19326v1)
-* [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly](http://arxiv.org/abs/2402.19302v1)<br>:star:[code](https://github.com/IIT-PAVIS/DiffAssemble)
-* [Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing](http://arxiv.org/abs/2402.19298v1)<br>:star:[code](https://github.com/OMGGGGG/mmdg)
-* [CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](http://arxiv.org/abs/2402.19231v1)<br>:star:[code](https://github.com/Lu-Feng/CricaVPR)
-* [MemoNav: Working Memory Model for Visual Navigation](http://arxiv.org/abs/2402.19161v1)
-* [VideoMAC: Video Masked Autoencoders Meet ConvNets](http://arxiv.org/abs/2402.19082v1)
-* [Theoretically Achieving Continuous Representation of Oriented Bounding Boxes](http://arxiv.org/abs/2402.18975v1)<br>:star:[code](https://github.com/Jittor/JDet)
-* [OHTA: One-shot Hand Avatar via Data-driven Implicit Priors](http://arxiv.org/abs/2402.18969v1)<br>:star:[code](https://zxz267.github.io/OHTA)
-* [WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concepts](http://arxiv.org/abs/2402.18956v1)
-* [Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration](http://arxiv.org/abs/2402.18933v1)
-* [Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation](http://arxiv.org/abs/2402.18920v1)
-* [SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting](http://arxiv.org/abs/2402.18848v1)<br>:house:[project](https://www.beeble.ai/)
-* [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](http://arxiv.org/abs/2402.18842v1)<br>:star:[code](https://wi-sc.github.io/ViewFusion.github.io/)
-* [Gradient Alignment for Cross-Domain Face Anti-Spoofing](http://arxiv.org/abs/2402.18817v1)<br>:star:[code](https://github.com/leminhbinh0209/CVPR24-FAS)
-* [OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition](http://arxiv.org/abs/2402.18786v1)
-* [NARUTO: Neural Active Reconstruction from Uncertain Target Observations](http://arxiv.org/abs/2402.18771v1)
-* [Towards Generalizable Tumor Synthesis](http://arxiv.org/abs/2402.19470v1)
-* [SeD: Semantic-Aware Discriminator for Image Super-Resolution](http://arxiv.org/abs/2402.19387v1)
-* [CAMixerSR: Only Details Need More "Attention"](http://arxiv.org/abs/2402.19289v1)
-* [Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts](http://arxiv.org/abs/2402.19215v1)
-* [Rethinking Multi-domain Generalization with A General Learning Objective](http://arxiv.org/abs/2402.18853v1)
+## 3月4日更新10篇，共计61+10篇。
+* [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
+* [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](http://arxiv.org/abs/2403.00644v1)
+* [Rethinking Few-shot 3D Point Cloud Semantic Segmentation](http://arxiv.org/abs/2403.00592v1)<br>:star:[code](https://github.com/ZhaochongAn/COSeg)
+* [SURE: SUrvey REcipes for building reliable and robust deep networks](http://arxiv.org/abs/2403.00543v1)<br>:star:[code](https://yutingli0606.github.io/SURE/)
+* [Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching](http://arxiv.org/abs/2403.00486v1)<br>:star:[code](https://github.com/Windsrain/Selective-Stereo)
+* [RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization](http://arxiv.org/abs/2403.00483v1)<br>:star:[code](https://corleone-huang.github.io/realcustom/)
+* [Deformable One-shot Face Stylization via DINO Semantic Guidance](http://arxiv.org/abs/2403.00459v1)<br>:star:[code](https://github.com/zichongc/DoesFS)
+* [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
+* [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](http://arxiv.org/abs/2403.00274v1)
+* [Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval](http://arxiv.org/abs/2403.00272v1)
 
 
 ## Information Security(信息安全)
@@ -81,6 +66,9 @@
 ## Optical Flow Estimation(光流估计)
 * 3D 场景流估计
   * [3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling](http://arxiv.org/abs/2402.18146v1)
+
+## Object Pose
+* [Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval](http://arxiv.org/abs/2403.00272v1)
 
 ## (机器人)
 * VPR
@@ -114,11 +102,18 @@
   * 3D
     * [Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting](http://arxiv.org/abs/2402.18330v1)
 
+## Video
+* [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
+
 ## 3D
 * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
 * 三维形状
   * [TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding](https://arxiv.org/abs/2402.18490)<br>:star:[code](https://alanzhangcs.github.io/tamm-page)
   * [Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation](http://arxiv.org/abs/2402.18920v1)
+* Stereo Matching
+  * [Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching](http://arxiv.org/abs/2403.00486v1)<br>:star:[code](https://github.com/Windsrain/Selective-Stereo)
+* 表面法线估计
+  * [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
 
 
 ## Medical Image Progress(医学影响处理)
@@ -139,8 +134,12 @@
   * [Gradient Alignment for Cross-Domain Face Anti-Spoofing](http://arxiv.org/abs/2402.18817v1)<br>:star:[code](https://github.com/leminhbinh0209/CVPR24-FAS)
 * 说话头合成
   * [Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](http://arxiv.org/abs/2402.17364v1)
+  * [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](http://arxiv.org/abs/2403.00274v1)
 * 人脸识别(抑郁症识别)
   * [OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition](http://arxiv.org/abs/2402.18786v1)
+* 人脸合成
+  * [Deformable One-shot Face Stylization via DINO Semantic Guidance](http://arxiv.org/abs/2403.00459v1)<br>:star:[code](https://github.com/zichongc/DoesFS)
+
 
 ## Image Synthesis
 * 扩散
@@ -151,10 +150,14 @@
 * 图像合成
   * [One-Shot Structure-Aware Stylized Image Synthesis](http://arxiv.org/abs/2402.17275v1)
   * [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](http://arxiv.org/abs/2402.18842v1)<br>:star:[code](https://wi-sc.github.io/ViewFusion.github.io/)
+  * [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](http://arxiv.org/abs/2403.00644v1)
 * 图像拼接
   * [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly](http://arxiv.org/abs/2402.19302v1)<br>:star:[code](https://github.com/IIT-PAVIS/DiffAssemble)
 * 姿势引导的人体图像合成
   * [Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis](https://arxiv.org/abs/2402.18078)<br>:star:[code](https://github.com/YanzuoLu/CFLD)
+* 文本-图像
+  * [RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization](http://arxiv.org/abs/2403.00483v1)<br>:star:[code](https://corleone-huang.github.io/realcustom/)
+
 
 
 ## Image Portrait Relighting(图像重照光)
@@ -174,14 +177,19 @@
 * [Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts](http://arxiv.org/abs/2402.19215v1)
 
 
-## Image(图像分类)
+## Image Classification(图像分类)
 * [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](http://arxiv.org/abs/2402.18133v1)
+* [SURE: SUrvey REcipes for building reliable and robust deep networks](http://arxiv.org/abs/2403.00543v1)<br>:star:[code](https://yutingli0606.github.io/SURE/)
+
 
 ## Image Segmentation(图像分割)
 * [VRP-SAM: SAM with Visual Reference Prompt](http://arxiv.org/abs/2402.17726v1)
 * [PEM: Prototype-based Efficient MaskFormer for Image Segmentation](http://arxiv.org/abs/2402.19422v1)
 * 视频分割
   * [UniVS: Unified and Universal Video Segmentation with Prompts as Queries](http://arxiv.org/abs/2402.18115v1)<br>:star:[code](https://github.com/MinghanLi/UniVS)
+* 语义分割
+  * 点云语义分割
+    * [Rethinking Few-shot 3D Point Cloud Semantic Segmentation](http://arxiv.org/abs/2403.00592v1)<br>:star:[code](https://github.com/ZhaochongAn/COSeg)
 
 <a name="1"/>
 

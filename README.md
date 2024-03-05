@@ -33,7 +33,7 @@
 |[25.Avatar(虚拟建模)](#25)|[26.Information Security(信息安全)](#25)|
 
 ## 3月5日更新篇，共计71+篇。
-* [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:paper:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
+* [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:hundred_points:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
 
 <a name="26"/>
 
@@ -136,7 +136,7 @@
 ## 11.3D
 * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
 * 三维重建
-  * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:paper:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
+  * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:hundred_points:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
 * 三维形状
   * [TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding](https://arxiv.org/abs/2402.18490)<br>:star:[code](https://alanzhangcs.github.io/tamm-page)
   * [Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation](http://arxiv.org/abs/2402.18920v1)

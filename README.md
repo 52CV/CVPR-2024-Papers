@@ -32,17 +32,8 @@
 |[21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#21)|[22.Deepfake Detection](#22)|[23.Sound(语音处理)](#23)|[24.ML(机器学习)](#24)|
 |[25.Avatar(虚拟建模)](#25)|[26.Information Security(信息安全)](#25)|
 
-## 3月4日更新10篇，共计61+10篇。
-* [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
-* [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](http://arxiv.org/abs/2403.00644v1)
-* [Rethinking Few-shot 3D Point Cloud Semantic Segmentation](http://arxiv.org/abs/2403.00592v1)<br>:star:[code](https://github.com/ZhaochongAn/COSeg)
-* [SURE: SUrvey REcipes for building reliable and robust deep networks](http://arxiv.org/abs/2403.00543v1)<br>:star:[code](https://yutingli0606.github.io/SURE/)
-* [Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching](http://arxiv.org/abs/2403.00486v1)<br>:star:[code](https://github.com/Windsrain/Selective-Stereo)
-* [RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization](http://arxiv.org/abs/2403.00483v1)<br>:star:[code](https://corleone-huang.github.io/realcustom/)
-* [Deformable One-shot Face Stylization via DINO Semantic Guidance](http://arxiv.org/abs/2403.00459v1)<br>:star:[code](https://github.com/zichongc/DoesFS)
-* [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
-* [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](http://arxiv.org/abs/2403.00274v1)
-* [Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval](http://arxiv.org/abs/2403.00272v1)
+## 3月5日更新篇，共计71+篇。
+* [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:paper:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
 
 <a name="26"/>
 
@@ -144,6 +135,8 @@
 
 ## 11.3D
 * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
+* 三维重建
+  * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:paper:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
 * 三维形状
   * [TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding](https://arxiv.org/abs/2402.18490)<br>:star:[code](https://alanzhangcs.github.io/tamm-page)
   * [Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation](http://arxiv.org/abs/2402.18920v1)

@@ -25,15 +25,47 @@
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
 |[1.其它(other)](#1)|[2.Image Segmentation(图像分割)](#2)|[3.Image Classification(图像分类)](#3)|[4.Image/Video Super-Resolution(图像超分辨率)](#4)|
-|[5.Image/Video Compression(图像/视频压缩)](#5)|[6.Image/Video Captioning(图像/视频字幕)](#6)|[7.Image Portrait Relighting(图像重照光)](#7)|[8.Image Synthesis(图像生成)](#8)|
+|[5.Image/Video Compression(图像/视频压缩)](#5)|[6.Image/Video Captioning(图像/视频字幕)](#6)|[7.Image Progress(图像处理)](#7)|[8.Image Synthesis(图像生成)](#8)|
 |[9.Face(人脸)](#9)|[10.Medical Image Progress(医学影响处理)](#10)|[11.3D](#11)|[12.Video](#12)|
 |[13.HPE(人体姿态估计)](#13)|[14.HAR(人体动作识别检测)](#14)|[15.Object Detection(目标检测)](#15)|[16.Point Cloud(点云)](#16)|
 |[17.Automated Driving(自动驾驶)](#17)|[18.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)(机器人)](#18)|[19.Object Pose Estimation(物体姿态估计)](#19)|[20.Optical Flow Estimation(光流估计)](#20)|
 |[21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#21)|[22.Deepfake Detection](#22)|[23.Sound(语音处理)](#23)|[24.ML(机器学习)](#24)|
-|[25.Avatar(虚拟建模)](#25)|[26.Information Security(信息安全)](#25)|
+|[25.Avatar(虚拟建模)](#25)|[26.Information Security(信息安全)](#25)|[27.Vision-Language(视觉语言)](#27)|[28.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#28)|
 
-## 3月5日更新篇，共计71+篇。
+## 3月5日更新18篇，共计71+18篇。
 * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:thumbsup:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
+* [Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships](https://arxiv.org/abs/2402.12259)<br>:house:[project](https://kochsebastian.com/open3dsg)
+* [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)
+* [InstanceDiffusion: Instance-level Control for Image Generation](https://arxiv.org/abs/2402.03290)<br>:star:[code](https://github.com/frank-xwang/InstanceDiffusion)<br>:house:[project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)
+* [Video ReCap: Recursive Captioning of Hour-Long Videos](https://arxiv.org/abs/2402.13250)<br>:star:[code](https://github.com/md-mohaiminul/VideoRecap)<br>:house:[project](https://sites.google.com/view/vidrecap)<br>:sunflower:[dataset](https://github.com/md-mohaiminul/VideoRecap/blob/master/datasets.md)
+* [The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective](https://arxiv.org/abs/2312.12870)<br>:house:[project](https://vjwq.github.io/AV-CONV/)
+* [Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741)<br>:star:[code](https://github.com/muskie82/MonoGS)<br>:house:[project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
+* [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](https://arxiv.org/pdf/2311.17049.pdf)<br>:star:[code](https://github.com/apple/ml-mobileclip)
+* [CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation](https://arxiv.org/pdf/2402.14795.pdf)<br>:house:[project](https://cyber-demo.github.io/)
+* [Learning Continuous 3D Words for Text-to-Image Generation](https://ttchengab.github.io/continuous_3d_words/c3d_words.pdf)<br>:star:[code](https://github.com/ttchengab/continuous_3d_words_code/)<br>:house:[project](https://ttchengab.github.io/continuous_3d_words/)
+* [Do Vision and Language Encoders Represent the World Similarly?](https://arxiv.org/abs/2401.05224)
+* [Equivariant plug-and-play image reconstruction](https://arxiv.org/abs/2312.01831)<br>:star:[code](https://github.com/matthieutrs/EquivariantPnP)
+* [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://arxiv.org/pdf/2401.17879.pdf)
+* [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)<br>:star:[code](https://github.com/opendilab/LMDrive)<br>:house:[project](https://hao-shao.com/projects/lmdrive.html)
+* [ZeroShape: Regression-based Zero-shot Shape Reconstruction](https://zixuanh.com/projects/zeroshape/paper.pdf)<br>:star:[code](https://github.com/zxhuang1698/ZeroShape)<br>:house:[project](https://zixuanh.com/projects/zeroshape.html)
+* [GaussianEditor:Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037)<br>:house:[project](https://gaussianeditor.github.io/)
+* [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476)
+* [MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video](https://arxiv.org/abs/2312.00778)<br>:star:[code](https://github.com/HengyiWang/MorpheuS)<br>:house:[project](https://hengyiwang.github.io/projects/morpheus)
+
+
+
+
+<a name="28"/>
+
+## 28.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
+* 遥感
+  * [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)
+
+<a name="27"/>
+
+## 27.Vision-Language(视觉语言)
+* [Do Vision and Language Encoders Represent the World Similarly?](https://arxiv.org/abs/2401.05224)
+* [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476)
 
 <a name="26"/>
 
@@ -59,6 +91,8 @@
 
 ## 23.Sound
 * [Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners](http://arxiv.org/abs/2402.17723v1)<br>:star:[code](https://yzxing87.github.io/Seeing-and-Hearing/)
+* 视听对话
+  * [The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective](https://arxiv.org/abs/2312.12870)<br>:house:[project](https://vjwq.github.io/AV-CONV/)
 
 <a name="22"/>
 
@@ -90,11 +124,16 @@
 * 导航
   * [MemoNav: Working Memory Model for Visual Navigation](http://arxiv.org/abs/2402.19161v1)
 * SLAM
+  * [Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741)<br>:star:[code](https://github.com/muskie82/MonoGS)<br>:house:[project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
   * [NARUTO: Neural Active Reconstruction from Uncertain Target Observations](http://arxiv.org/abs/2402.18771v1)
+* 机器人
+  * [CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation](https://arxiv.org/pdf/2402.14795.pdf)<br>:house:[project](https://cyber-demo.github.io/)
 
 <a name="17"/>
 
 ## 17.Automated Driving(自动驾驶)
+* 自动驾驶
+  * [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)<br>:star:[code](https://github.com/opendilab/LMDrive)<br>:house:[project](https://hao-shao.com/projects/lmdrive.html)
 * 车道线检测
   * [Lane2Seq: Towards Unified Lane Detection via Sequence Generation](http://arxiv.org/abs/2402.17172v1)
 
@@ -113,7 +152,7 @@
 
 <a name="14"/>
 
-## 14.Human action recognition
+## 14.Human Action Recognition(人体动作识别)
 * [Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence](https://arxiv.org/abs/2401.00921)<br>:star:[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)
 
 <a name="13"/>
@@ -129,21 +168,28 @@
 <a name="12"/>
 
 ## 12.Video
-* [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
+* 视频理解
+  * [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
 
 <a name="11"/>
 
 ## 11.3D
-* [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
 * 三维重建
   * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:thumbsup:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
+  * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
+* [ZeroShape: Regression-based Zero-shot Shape Reconstruction](https://zixuanh.com/projects/zeroshape/paper.pdf)<br>:star:[code](https://github.com/zxhuang1698/ZeroShape)<br>:house:[project](https://zixuanh.com/projects/zeroshape.html)
+* 表面重建
+  * [MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video](https://arxiv.org/abs/2312.00778)<br>:star:[code](https://github.com/HengyiWang/MorpheuS)<br>:house:[project](https://hengyiwang.github.io/projects/morpheus)
 * 三维形状
   * [TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding](https://arxiv.org/abs/2402.18490)<br>:star:[code](https://alanzhangcs.github.io/tamm-page)
   * [Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation](http://arxiv.org/abs/2402.18920v1)
+  * [Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships](https://arxiv.org/abs/2402.12259)<br>:house:[project](https://kochsebastian.com/open3dsg)
 * Stereo Matching
   * [Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching](http://arxiv.org/abs/2403.00486v1)<br>:star:[code](https://github.com/Windsrain/Selective-Stereo)
 * 表面法线估计
   * [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
+* 3D 场景编辑
+  * [GaussianEditor:Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037)<br>:house:[project](https://gaussianeditor.github.io/)
 
 <a name="10"/>
 
@@ -175,6 +221,8 @@
 <a name="8"/>
 
 ## 8.Image Synthesis(图像生成)
+* [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](https://arxiv.org/pdf/2311.17049.pdf)<br>:star:[code](https://github.com/apple/ml-mobileclip)
+* [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://arxiv.org/pdf/2401.17879.pdf)
 * 扩散
   * [Structure-Guided Adversarial Training of Diffusion Models](http://arxiv.org/abs/2402.17563v1)
   * [Accelerating Diffusion Sampling with Optimized Time Steps](http://arxiv.org/abs/2402.17376v1)
@@ -184,24 +232,31 @@
   * [One-Shot Structure-Aware Stylized Image Synthesis](http://arxiv.org/abs/2402.17275v1)
   * [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](http://arxiv.org/abs/2402.18842v1)<br>:star:[code](https://wi-sc.github.io/ViewFusion.github.io/)
   * [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](http://arxiv.org/abs/2403.00644v1)
+* 图像生成
+  * [InstanceDiffusion: Instance-level Control for Image Generation](https://arxiv.org/abs/2402.03290)<br>:star:[code](https://github.com/frank-xwang/InstanceDiffusion)<br>:house:[project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)
 * 图像拼接
   * [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly](http://arxiv.org/abs/2402.19302v1)<br>:star:[code](https://github.com/IIT-PAVIS/DiffAssemble)
 * 姿势引导的人体图像合成
   * [Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis](https://arxiv.org/abs/2402.18078)<br>:star:[code](https://github.com/YanzuoLu/CFLD)
 * 文本-图像
   * [RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization](http://arxiv.org/abs/2403.00483v1)<br>:star:[code](https://corleone-huang.github.io/realcustom/)
-
+  * [Learning Continuous 3D Words for Text-to-Image Generation](https://ttchengab.github.io/continuous_3d_words/c3d_words.pdf)<br>:star:[code](https://github.com/ttchengab/continuous_3d_words_code/)<br>:house:[project](https://ttchengab.github.io/continuous_3d_words/)
 
 <a name="7"/>
 
-## 7.Image Portrait Relighting(图像重照光)
-* [SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting](http://arxiv.org/abs/2402.18848v1)<br>:house:[project](https://www.beeble.ai/)
+## 7.Image Progress(图像处理)
+* 去噪
+  * [Equivariant plug-and-play image reconstruction](https://arxiv.org/abs/2312.01831)<br>:star:[code](https://github.com/matthieutrs/EquivariantPnP)
+* Image Portrait Relighting(图像重照光)
+  * [SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting](http://arxiv.org/abs/2402.18848v1)<br>:house:[project](https://www.beeble.ai/)
 
 <a name="6"/>
 
 ## 6.Image/Video Captioning(图像/视频字幕)
 * [Polos: Multimodal Metric Learning from Human Feedback for Image Captioning](http://arxiv.org/abs/2402.18091v1)
 * [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](http://arxiv.org/abs/2402.19479v1)<br>:star:[code](https://snap-research.github.io/Panda-70M)
+* 视频描述
+  * [Video ReCap: Recursive Captioning of Hour-Long Videos](https://arxiv.org/abs/2402.13250)<br>:star:[code](https://github.com/md-mohaiminul/VideoRecap)<br>:house:[project](https://sites.google.com/view/vidrecap)<br>:sunflower:[dataset](https://github.com/md-mohaiminul/VideoRecap/blob/master/datasets.md)
 
 <a name="5"/>
 

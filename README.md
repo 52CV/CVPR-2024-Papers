@@ -30,7 +30,7 @@
 |[13.HPE(人体姿态估计)](#13)|[14.HAR(人体动作识别检测)](#14)|[15.Object Detection(目标检测)](#15)|[16.Point Cloud(点云)](#16)|
 |[17.Automated Driving(自动驾驶)](#17)|[18.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)(机器人)](#18)|[19.Object Pose Estimation(物体姿态估计)](#19)|[20.Optical Flow Estimation(光流估计)](#20)|
 |[21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#21)|[22.Deepfake Detection](#22)|[23.Sound(语音处理)](#23)|[24.ML(机器学习)](#24)|
-|[25.Avatar(虚拟建模)](#25)|[26.Information Security(信息安全)](#25)|[27.Vision-Language(视觉语言)](#27)|[28.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#28)|
+|[25.Object Tracking(目标跟踪)](#25)|[26.Information Security(信息安全)](#25)|[27.Vision-Language(视觉语言)](#27)|[28.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#28)|
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
@@ -83,10 +83,6 @@
 ## Retrieval
 * 跨模态检索
   * [Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval](http://arxiv.org/abs/2403.05105v1)<br>:star:[code](https://github.com/hhc1997/L2RM)
-
-## Object Tracking(目标跟踪)
-* 多目标跟踪
-  * [Delving into the Trajectory Long-tail Distribution for Muti-object Tracking](http://arxiv.org/abs/2403.04700v1)<br>:star:[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)
 
 <a name="35"/>
 
@@ -166,10 +162,9 @@
 
 <a name="25"/>
 
-## 25.Avatar(虚拟建模)
-* [OHTA: One-shot Hand Avatar via Data-driven Implicit Priors](http://arxiv.org/abs/2402.18969v1)<br>:star:[code](https://zxz267.github.io/OHTA)
-* [SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting]论文未公开<br>:star:[code](https://github.com/initialneil/SplattingAvatar)<br>:tv:[video](https://www.youtube.com/watch?v=IzC-fLvdntA)
-* [Real-Time Simulated Avatar from Head-Mounted Sensors](http://arxiv.org/abs/2403.06862v1)<br>:house:[project](https://www.zhengyiluo.com/SimXR/)
+## 25.Object Tracking(目标跟踪)
+* 多目标跟踪
+  * [Delving into the Trajectory Long-tail Distribution for Muti-object Tracking](http://arxiv.org/abs/2403.04700v1)<br>:star:[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)
 
 <a name="8"/>
 
@@ -238,6 +233,10 @@
   * [Learning to navigate efficiently and precisely in real environments](https://arxiv.org/abs/2401.14349)
   * [CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation](https://arxiv.org/pdf/2402.14795.pdf)<br>:house:[project](https://cyber-demo.github.io/)
   * [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](http://arxiv.org/abs/2403.03890v1)<br>:star:[code](https://yusufma03.github.io/projects/hdp/)
+* Avatar(虚拟建模)
+  * [OHTA: One-shot Hand Avatar via Data-driven Implicit Priors](http://arxiv.org/abs/2402.18969v1)<br>:star:[code](https://zxz267.github.io/OHTA)
+  * [SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting]论文未公开<br>:star:[code](https://github.com/initialneil/SplattingAvatar)<br>:tv:[video](https://www.youtube.com/watch?v=IzC-fLvdntA)
+  * [Real-Time Simulated Avatar from Head-Mounted Sensors](http://arxiv.org/abs/2403.06862v1)<br>:house:[project](https://www.zhengyiluo.com/SimXR/)
 
 <a name="17"/>
 

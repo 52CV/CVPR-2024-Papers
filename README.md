@@ -34,7 +34,7 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 3月13日更新22篇，共计178+22篇。
+## 3月13日更新23篇，共计178+23篇。
 * [Beyond Text: Frozen Large Language Models in Visual Signal Comprehension](http://arxiv.org/abs/2403.07874v1)<br>:star:[code](https://github.com/zh460045050/V2L-Tokenizer)
 * [MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric](http://arxiv.org/abs/2403.07839v1)
 * [SemCity: Semantic Scene Generation with Triplane Diffusion](http://arxiv.org/abs/2403.07773v1)<br>:star:[code](https://github.com/zoomin-lee/SemCity)
@@ -57,6 +57,8 @@
 * [Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers](http://arxiv.org/abs/2403.07214v1)<br>:star:[code](https://subhadeepkoley.github.io/DiffusionZSSBIR/)
 * [How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?](http://arxiv.org/abs/2403.07203v1)<br>:star:[code](https://subhadeepkoley.github.io/AbstractAway)
 * [Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684)<br>:star:[code](https://github.com/scott-yjyang/DiffTTA)
+* [Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.07630)<br>:star:[code](https://github.com/Barrett-python/CPAL)
+* [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://arxiv.org/pdf/2311.16510.pdf)<br>:star:[code](https://github.com/tntek/source-free-domain-adaptation)
 
 <br>:star:[code]()<br>:house:[project]()
 
@@ -208,6 +210,7 @@
 * DA
   * [LEAD: Learning Decomposition for Source-free Universal Domain Adaptation](http://arxiv.org/abs/2403.03421v1)<br>:star:[code](https://github.com/ispc-lab/LEAD)
   * [Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation](http://arxiv.org/abs/2403.06946v1)<br>:star:[code](https://github.com/TL-UESTC/UniMoS)
+  * [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://arxiv.org/pdf/2311.16510.pdf)<br>:star:[code](https://github.com/tntek/source-free-domain-adaptation)
 * FSL
   * [Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning](http://arxiv.org/abs/2403.04492v1)<br>:star:[code](https://github.com/rashindrie/DIPA)
 
@@ -480,6 +483,8 @@
   * 半监督语义分割
     * [AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2403.01818v1)<br>:star:[code](https://github.com/xmed-lab/AllSpark)
     * [Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation](http://arxiv.org/abs/2403.06462v1)<br>:star:[code](https://github.com/Gavinwxy/DDFP) 
+  * 弱监督语义分割
+    * [Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.07630)<br>:star:[code](https://github.com/Barrett-python/CPAL)
   * 域泛化语义分割
     * [Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning](http://arxiv.org/abs/2403.06122v1)
   * 开放世界语义分割

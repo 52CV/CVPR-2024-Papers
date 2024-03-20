@@ -36,7 +36,7 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 3月19日更新12篇，共计276+12篇。
+## 3月19日更新13篇，共计276+13篇。
 * [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1)<br>:house:[project](https://www.mmlab-ntu.com/project/fresco/)<br>:star:[code](https://github.com/williamyang1991/FRESCO)
 * [TexTile: A Differentiable Metric for Texture Tileability](http://arxiv.org/abs/2403.12961v1)<br>:house:[project](https://mslab.es/projects/TexTile/)
 * [Zero-Reference Low-Light Enhancement via Physical Quadruple Priors](http://arxiv.org/abs/2403.12933v1)<br>:star:[code](http://daooshee.github.io/QuadPrior-Website/)
@@ -49,9 +49,11 @@
 * [Privacy-Preserving Face Recognition Using Trainable Feature Subtraction](http://arxiv.org/abs/2403.12457v1)<br>:star:[code](https://github.com/Tencent/TFace)
 * [DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions](http://arxiv.org/abs/2403.12202v1)
 * [Improving Generalization via Meta-Learning on Hard Samples](http://arxiv.org/abs/2403.12236v1)
-
+* [Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning]<br>:thumbsup:[提升生成式零样本学习能力，视觉增强动态语义原型方法](https://mp.weixin.qq.com/s/HEe185Yp4XWMAIlCmmudpQ)
 
 <br>:star:[code]()<br>:house:[project]()
+
+
 
 ## Sketch
 * [SketchINR: A First Look into Sketches as Implicit Neural Representations](http://arxiv.org/abs/2403.09344v1)
@@ -67,15 +69,16 @@
 ## Style Transfer
 * [MoST: Motion Style Transformer between Diverse Action Contents](http://arxiv.org/abs/2403.06225v1)<br>:star:[code](https://github.com/Boeun-Kim/MoST)
 
-## Dataset
-* * [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](http://arxiv.org/abs/2403.10145v1)<br>:star:[code](https://github.com/AIR-THU/DAIR-RCooper)
+## Dataset(数据集)
+* [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](http://arxiv.org/abs/2403.10145v1)<br>:star:[code](https://github.com/AIR-THU/DAIR-RCooper)
+* [Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection](http://arxiv.org/abs/2403.12580v1)
 
 ## Semi/self-supervised learning(半/自监督)
 * 半监督
   * [CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning](http://arxiv.org/abs/2403.10391v1)
 
 ## Dense Predictions(密集预测)
-* [ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions](http://arxiv.org/abs/2403.07392v1)<br>:star:[code](https://github.com/Traffic-X/ViT-CoMer)
+* [ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions](http://arxiv.org/abs/2403.07392v1)<br>:star:[code](https://github.com/Traffic-X/ViT-CoMer)<br>:thumbsup:[百度提出视觉新骨干ViT-CoMer，刷新密集预测任务SOTA](https://mp.weixin.qq.com/s/Q2xI_rU5_7Mv6jiYeu6NkA)
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * 异常检测
@@ -87,6 +90,9 @@
 
 ## Neural Architecture Search(神经架构搜索)
 * [Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach](http://arxiv.org/abs/2403.11380v1)
+
+## Image Fusion(图像融合)
+* [Task-Customized Mixture of Adapters for General Image Fusion](http://arxiv.org/abs/2403.12494v1)<br>:star:[code](https://github.com/YangSun22/TC-MoA)
 
 ## Image Retrieval(图像检索)
 * 跨模态检索
@@ -183,6 +189,7 @@
 * [Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations](http://arxiv.org/abs/2403.07241v1)
 * LLM
   * [SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection](http://arxiv.org/abs/2403.03170v1)
+  * [UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All](http://arxiv.org/abs/2403.12532v1)
 
 <a name="26"/>
 
@@ -221,6 +228,8 @@
   * [Masked AutoDecoder is Effective Multi-Task Vision Generalist](http://arxiv.org/abs/2403.07692v1)
 * 多视角学习
   * [Rethinking Multi-view Representation Learning via Distilled Disentangling](http://arxiv.org/abs/2403.10897v1)<br>:star:[code](https://github.com/Guanzhou-Ke/MRDD)
+* 元学习
+  * [Improving Generalization via Meta-Learning on Hard Samples](http://arxiv.org/abs/2403.12236v1)
 
 <a name="23"/>
 
@@ -254,6 +263,10 @@
   * [Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias](http://arxiv.org/abs/2403.11234v1)
 * FSL
   * [Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning](http://arxiv.org/abs/2403.04492v1)<br>:star:[code](https://github.com/rashindrie/DIPA)
+* ZSL
+  * [Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning]<br>:thumbsup:[提升生成式零样本学习能力，视觉增强动态语义原型方法](https://mp.weixin.qq.com/s/HEe185Yp4XWMAIlCmmudpQ)
+
+
 
 <a name="20"/>
 
@@ -346,6 +359,8 @@
 
 ## 14.Human Action Recognition(人体动作识别)
 * [Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence](https://arxiv.org/abs/2401.00921)<br>:star:[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)
+* 基于事件的动作识别
+  * [ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More](http://arxiv.org/abs/2403.12534v1)
 
 <a name="13"/>
 
@@ -418,6 +433,9 @@
   * [KP-RED: Exploiting Semantic Keypoints for Joint 3D Shape Retrieval and Deformation](http://arxiv.org/abs/2403.10099v1)<br>:star:[code](https://github.com/lolrudy/KP-RED)
 * 深度补全
   * [Bilateral Propagation Network for Depth Completion](http://arxiv.org/abs/2403.11270v1)
+  * [DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions](http://arxiv.org/abs/2403.12202v1)
+
+
 
 <a name="10"/>
 
@@ -443,6 +461,8 @@
   * [Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration](http://arxiv.org/abs/2402.18933v1)
 * MRI
   * [Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI](http://arxiv.org/abs/2403.10064v1)
+* 异常检测
+  * [Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images](http://arxiv.org/abs/2403.12570v1)<br>:star:[code](https://github.com/MediaBrain-SJTU/MVFA-AD)
 
 <a name="9"/>
 
@@ -457,8 +477,9 @@
 * 说话头合成
   * [Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](http://arxiv.org/abs/2402.17364v1)
   * [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](http://arxiv.org/abs/2403.00274v1)
-* 人脸识别(抑郁症识别)
-  * [OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition](http://arxiv.org/abs/2402.18786v1)
+* 人脸识别
+  * [OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition](http://arxiv.org/abs/2402.18786v1)(抑郁症识别)
+  * [Privacy-Preserving Face Recognition Using Trainable Feature Subtraction](http://arxiv.org/abs/2403.12457v1)<br>:star:[code](https://github.com/Tencent/TFace)
 * 人脸合成
   * [Deformable One-shot Face Stylization via DINO Semantic Guidance](http://arxiv.org/abs/2403.00459v1)<br>:star:[code](https://github.com/zichongc/DoesFS)
 * 人脸重建
@@ -471,6 +492,7 @@
 <a name="8"/>
 
 ## 8.Image Synthesis(图像生成)
+* [TexTile: A Differentiable Metric for Texture Tileability](http://arxiv.org/abs/2403.12961v1)<br>:house:[project](https://mslab.es/projects/TexTile/)
 * [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](https://arxiv.org/pdf/2311.17049.pdf)<br>:star:[code](https://github.com/apple/ml-mobileclip)
 * [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://arxiv.org/pdf/2401.17879.pdf)
 * [FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation](http://arxiv.org/abs/2403.06775v1)<br>:star:[code](https://github.com/modelscope/facechain)
@@ -485,7 +507,7 @@
   * [DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models](http://arxiv.org/abs/2402.19481v1)<br>:house:[project](https://hanlab.mit.edu/blog/distrifusion)<br>:house:[project](https://hanlab.mit.edu/projects/distrifusion)<br>:star:[code](https://github.com/mit-han-lab/distrifuser)
   * [Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models](http://arxiv.org/abs/2403.08381v1)<br>:star:[code](https://github.com/PangzeCheung/SingDiffusion)
   * [DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](http://arxiv.org/abs/2403.06951v1)<br>:star:[code](https://tianhao-qi.github.io/DEADiff/)
-  * [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)<br>:star:[code](https://github.com/ximinng/SVGDreamer)<br>:house:[project](https://ximinng.github.io/SVGDreamer-project/)
+  * [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)<br>:star:[code](https://github.com/ximinng/SVGDreamer)<br>:house:[project](https://ximinng.github.io/SVGDreamer-project/)<br>:thumbsup:[SVGDreamer: 北航&港大发布全新文本引导的矢量图形可微渲染方法](https://mp.weixin.qq.com/s/QEBiP-xLVvQVoV_9H2Id7g)
 * 图像合成
   * [One-Shot Structure-Aware Stylized Image Synthesis](http://arxiv.org/abs/2402.17275v1)
   * [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](http://arxiv.org/abs/2402.18842v1)<br>:star:[code](https://wi-sc.github.io/ViewFusion.github.io/)
@@ -513,7 +535,8 @@
   * [Unleashing Network Potentials for Semantic Scene Completion](http://arxiv.org/abs/2403.07560v1)
 * 文本-3D
   * [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](http://arxiv.org/abs/2403.09140v1)<br>:star:[code](https://stellarcheng.github.io/Sculpt3D/)
-
+* 视频生成
+  * [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1)<br>:house:[project](https://www.mmlab-ntu.com/project/fresco/)<br>:star:[code](https://github.com/williamyang1991/FRESCO)
 
 <a name="7"/>
 
@@ -521,6 +544,8 @@
 * 去噪
   * [Equivariant plug-and-play image reconstruction](https://arxiv.org/abs/2312.01831)<br>:star:[code](https://github.com/matthieutrs/EquivariantPnP)
   * [Patch2Self2: Self-supervised Denoising on Coresets via Matrix Sketching](未公开)
+* 图像增强
+  * [Zero-Reference Low-Light Enhancement via Physical Quadruple Priors](http://arxiv.org/abs/2403.12933v1)<br>:star:[code](http://daooshee.github.io/QuadPrior-Website/)
 * 图像恢复
   * [Boosting Image Restoration via Priors from Pre-trained Models](http://arxiv.org/abs/2403.06793v1)
   * [Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model](http://arxiv.org/abs/2403.11157v1)<br>:star:[code](https://github.com/iSEE-Laboratory/DiffUIR)
@@ -590,6 +615,8 @@
     * [Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning](http://arxiv.org/abs/2403.06122v1)
   * 开放世界语义分割
     * [Open-World Semantic Segmentation Including Class Similarity](http://arxiv.org/abs/2403.07532v1)<br>:star:[code](https://github.com/PRBonn/ContMAV)
+* 全景分割
+  * [Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation](http://arxiv.org/abs/2403.12505v1)
 * 动作分割
   * [Coherent Temporal Synthesis for Incremental Action Segmentation](http://arxiv.org/abs/2403.06102v1)
 * VOS

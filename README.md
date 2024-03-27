@@ -107,6 +107,8 @@
 
 ##
 * [ManiFPT: Defining and Analyzing Fingerprints of Generative Models]
+* 人员识别
+  * [Activity-Biometrics: Person Identification from Daily Activities](http://arxiv.org/abs/2403.17360v1)<br>:star:[code](https://github.com/sacrcv/Activity-Biometrics/)
 
 ## Style Transfer
 * [MoST: Motion Style Transformer between Diverse Action Contents](http://arxiv.org/abs/2403.06225v1)<br>:star:[code](https://github.com/Boeun-Kim/MoST)
@@ -241,7 +243,6 @@
   * [Learning Group Activity Features Through Person Attribute Prediction](https://arxiv.org/abs/2403.02753)<br>:star:[code](https://github.com/chihina/GAFL-CVPR2024)<br>:house:[project](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/CVPR2024-GAFL.html)
 * 重识别
   * [View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network](http://arxiv.org/abs/2403.14513v1)<br>:star:[code](https://github.com/LinlyAC/VDT-AGPReID)
-  * [Activity-Biometrics: Person Identification from Daily Activities](http://arxiv.org/abs/2403.17360v1)<br>:star:[code](https://github.com/sacrcv/Activity-Biometrics/)
   * 可见光-红外人员重识别
     * [Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2403.11708v1)<br>:star:[code](https://github.com/1KK077/IDKL)
 

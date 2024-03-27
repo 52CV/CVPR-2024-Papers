@@ -105,7 +105,7 @@
 ## Light-Field(光场)
 * [Time-Efficient Light-Field Acquisition Using Coded Aperture and Events](http://arxiv.org/abs/2403.07244v1)
 
-##
+## Biomedical
 * [ManiFPT: Defining and Analyzing Fingerprints of Generative Models]
 * 人员识别
   * [Activity-Biometrics: Person Identification from Daily Activities](http://arxiv.org/abs/2403.17360v1)<br>:star:[code](https://github.com/sacrcv/Activity-Biometrics/)
@@ -269,6 +269,8 @@
   * [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)
 * 航空图像分割
   * [SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation](http://arxiv.org/abs/2403.16605v1)
+* 基于参考图像的超分辨率
+  * [Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model](http://arxiv.org/abs/2403.17460v1)<br>:star:[code](https://github.com/dongrunmin/RefDiff)
 
 <a name="27"/>
 
@@ -779,8 +781,6 @@
 * [Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts](http://arxiv.org/abs/2402.19215v1)
 * [Boosting Flow-based Generative Super-Resolution Models via Learned Prior](http://arxiv.org/abs/2403.10988v1)<br>:star:[code](https://github.com/liyuantsao/FlowSR-LP)
 * [CFAT: Unleashing TriangularWindows for Image Super-resolution](http://arxiv.org/abs/2403.16143v1)
-* 基于参考图像的超分辨率
-  * [Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model](http://arxiv.org/abs/2403.17460v1)<br>:star:[code](https://github.com/dongrunmin/RefDiff)
 * VSR
   * [Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution](http://arxiv.org/abs/2403.17000v1)
 

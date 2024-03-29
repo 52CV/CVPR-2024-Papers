@@ -374,6 +374,7 @@
   * [VCoder: Versatile Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2312.14233)<br>:star:[code](https://github.com/SHI-Labs/VCoder)<br>:house:[project](https://praeclarumjj3.github.io/vcoder/)
   * [Prompt Highlighter: Interactive Control for Multi-Modal LLMs](https://arxiv.org/abs/2312.04302)<br>:star:[code](https://github.com/dvlab-research/Prompt-Highlighter)<br>:house:[project](https://julianjuaner.github.io/projects/PromptHighlighter/)
   * [Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft](https://arxiv.org/abs/2312.09238)<br>:house:[project](https://yangxue0827.github.io/auto_mc-reward.html)
+  * [General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/abs/2312.09158)<br>:star:[code](https://github.com/FoundationVision/GLEE)<br>:house:[project](https://glee-vision.github.io/)<br>:thumbsup:[GLEE 华科与字节跳动联手打造全能目标感知基础模型](https://mp.weixin.qq.com/s/3RTxWRH7CM6_AbeLT6v0PA)
 * VLN
   * [Volumetric Environment Representation for Vision-Language Navigation](http://arxiv.org/abs/2403.14158v1)
   * [OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation](http://arxiv.org/abs/2403.17334v1)

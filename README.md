@@ -36,7 +36,8 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 3月28日更新19+篇，共计562+19篇。
+## 3月28日更新20篇，共计562+20篇。
+* [SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System](https://arxiv.org/pdf/2312.01616.pdf)<br>:star:[code](https://github.com/bytedance/SchurVINS)
 * [MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning](http://arxiv.org/abs/2403.20320v1)
 * [SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects](http://arxiv.org/abs/2403.20318v1)<br>:star:[code](https://github.com/abhi1kumar/SeaBird)
 * [Convolutional Prompting meets Language Models for Continual Learning](http://arxiv.org/abs/2403.20317v1)
@@ -469,6 +470,7 @@
   * [DiaLoc: An Iterative Approach to Embodied Dialog Localization](http://arxiv.org/abs/2403.06846v1)
   * [F$^3$Loc: Fusion and Filtering for Floorplan Localization](http://arxiv.org/abs/2403.03370v1)
 * SLAM
+  * [SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System](https://arxiv.org/pdf/2312.01616.pdf)<br>:star:[code](https://github.com/bytedance/SchurVINS)
   * [Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741)<br>:star:[code](https://github.com/muskie82/MonoGS)<br>:house:[project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
   * [NARUTO: Neural Active Reconstruction from Uncertain Target Observations](http://arxiv.org/abs/2402.18771v1)
   * [Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM](http://arxiv.org/abs/2403.19473v1)

@@ -746,6 +746,7 @@ ASD
 * [X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization](http://arxiv.org/abs/2403.19811v1)<br>:star:[code](https://github.com/annusha/xmic)
 * [LLMs are Good Action Recognizers](http://arxiv.org/abs/2404.00532v1)
 * [Action Detection via an Image Diffusion Process](http://arxiv.org/abs/2404.01051v1)
+* [Language Model Guided Interpretable Video Action Reasoning](http://arxiv.org/abs/2404.01591v1)<br>:star:[code](https://github.com/NingWang2049/LaIAR)
 * 基于事件的动作识别
   * [ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More](http://arxiv.org/abs/2403.12534v1)
 * 零样本动作识别
@@ -844,8 +845,7 @@ ASD
   * [PREGO: online mistake detection in PRocedural EGOcentric videos](http://arxiv.org/abs/2404.01933v1)
 * 视频场景检测
   * [Neighbor Relations Matter in Video Scene Detection]()
-* 视频动作推理
-  * [Language Model Guided Interpretable Video Action Reasoning](http://arxiv.org/abs/2404.01591v1)<br>:star:[code](https://github.com/NingWang2049/LaIAR)
+
 
 <a name="11"/>
 

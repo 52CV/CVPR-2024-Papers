@@ -36,7 +36,7 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 4月9日更新44篇，共计1025+44篇。
+## 4月9日更新45篇，共计1025+45篇。
 * [Learning Diffusion Texture Priors for Image Restoration]()图像恢复
 * [Hearing Anything Anywhere]()
 * [Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling](https://arxiv.org/abs/2312.01017)语音
@@ -84,6 +84,7 @@
 * [SpatialTracker: Tracking Any 2D Pixels in 3D Space](http://arxiv.org/abs/2404.04319v1)<br>:star:[code](https://henry123-boy.github.io/SpaTracker/)
 * [Robust Depth Enhancement via Polarization Prompt Fusion Tuning](http://arxiv.org/abs/2404.04318v1)<br>:star:[code](https://lastbasket.github.io/PPFT/)
 * [Task-Aware Encoder Control for Deep Video Compression](http://arxiv.org/abs/2404.04848v1)
+* [Frequency-Adaptive Dilated Convolution for Semantic Segmentation](https://arxiv.org/abs/2403.05369)<br>:star:[code](https://github.com/Linwei-Chen/FADC)
 
 
 ASDF
@@ -1523,6 +1524,7 @@ ASDF
   * [UniVS: Unified and Universal Video Segmentation with Prompts as Queries](http://arxiv.org/abs/2402.18115v1)<br>:star:[code](https://github.com/MinghanLi/UniVS)
 * 语义分割
   * [Open Set Domain Adaptation for Semantic Segmentation]()
+  * [Frequency-Adaptive Dilated Convolution for Semantic Segmentation](https://arxiv.org/abs/2403.05369)<br>:star:[code](https://github.com/Linwei-Chen/FADC)
   * [GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation](http://arxiv.org/abs/2403.16370v1)
   * [Improving Bird's Eye View Semantic Segmentation by Task Decomposition](http://arxiv.org/abs/2404.01925v1)<br>:star:[code](https://github.com/happytianhao/TaDe)
   * [UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2404.05145v1)

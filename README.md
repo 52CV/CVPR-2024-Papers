@@ -1120,6 +1120,7 @@ ASDF
 * [Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling](http://arxiv.org/abs/2403.01053v2)
 * [MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant](http://arxiv.org/abs/2403.04290v1)
 * [Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images](http://arxiv.org/abs/2404.01464v1)<br>:star:[code](https://github.com/jungeun122333/UVI-Net)
+* [PairAug: What Can Augmented Image-Text Pairs Do for Radiology?](http://arxiv.org/abs/2404.04960v1)<br>:star:[code](https://github.com/YtongXie/PairAug)
 * CT
   * [QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction](http://arxiv.org/abs/2402.17951v1)<br>:star:[code](https://towzeur.github.io/QN-Mixer/)
   * [Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models](http://arxiv.org/abs/2404.04936v1)
@@ -1211,7 +1212,6 @@ ASDF
 ## 8.GAN/Image Synthesis(图像生成)
 * [L-MAGIC: Language Model Assisted Generation of Images with Consistency]()
 * [CoDi-2: Interleaved and In-Context Any-to-Any Generation](https://arxiv.org/abs/2311.18775)<br>:star:[code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)<br>:house:[project](https://codi-2.github.io/)
-* [PairAug: What Can Augmented Image-Text Pairs Do for Radiology?](http://arxiv.org/abs/2404.04960v1)<br>:star:[code](https://github.com/YtongXie/PairAug)
 * [TexTile: A Differentiable Metric for Texture Tileability](http://arxiv.org/abs/2403.12961v1)<br>:house:[project](https://mslab.es/projects/TexTile/)
 * [SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer](http://arxiv.org/abs/2403.17004v1)
 * [PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding](https://huggingface.co/papers/2312.04461)<br>:star:[code](https://github.com/TencentARC/PhotoMaker)<br>:house:[project](https://photo-maker.github.io/)

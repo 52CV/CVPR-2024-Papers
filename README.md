@@ -501,7 +501,6 @@ ASDF
 * LLM
   * [PixelLM: Pixel Reasoning with Large Multimodal Model](https://arxiv.org/abs/2312.02228)<br>:house:[project](https://pixellm.github.io/)
   * [Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement](http://arxiv.org/abs/2404.04627v1)<br>:house:[project](https://zaidkhan.me/ViReP)
-  * [Koala: Key frame-conditioned long video-LLM](http://arxiv.org/abs/2404.04346v1)
   * [Pixel Aligned Language Models](https://arxiv.org/abs/2312.09237)<br>:house:[project](https://jerryxu.net/PixelLLM/)
   * [SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection](http://arxiv.org/abs/2403.03170v1)
   * [UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All](http://arxiv.org/abs/2403.12532v1)
@@ -973,6 +972,7 @@ ASDF
 * [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video]()<br>:house:[project](https://video2game.github.io/)
 * 视频理解
   * [Compositional Video Understanding with Spatiotemporal Structure-based Transformers]()
+  * [Koala: Key frame-conditioned long video-LLM](http://arxiv.org/abs/2404.04346v1)
   * [MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](http://arxiv.org/abs/2404.05726v1)<br>:star:[code](https://boheumd.github.io/MA-LMM/)
   * [Abductive Ego-View Accident Video Understanding for Safe Driving Perception](http://arxiv.org/abs/2403.00436v1)<br>:house:[project](http://www.lotvsmmau.net)
   * [OmniVid: A Generative Framework for Universal Video Understanding](http://arxiv.org/abs/2403.17935v1)<br>:star:[code](https://github.com/wangjk666/OmniVid)

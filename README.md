@@ -37,15 +37,16 @@
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
 ## 4月10日更新65篇，共计1104+65篇。
-* [Implicit Assimilation of Sparse In Situ Data for Dense & Global Storm Surge Forecasting](https://arxiv.org/abs/2404.05758)
-* [Object Dynamics Modeling with Hierarchical Point Cloud-based Representations](https://arxiv.org/abs/2404.06044)
-* [Unified Entropy Optimization for Open-Set Test-Time Adaptation](https://arxiv.org/abs/2404.06065)
-* [Anchor-based Robust Finetuning of Vision-Language Models](https://arxiv.org/abs/2404.06244)
-* [3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis](https://arxiv.org/abs/2404.06270)
-* [Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences](https://arxiv.org/abs/2404.06337)
-* [Rolling Shutter Correction with Intermediate Distortion Flow Estimation](https://arxiv.org/abs/2404.06350)
-* [Multi-scale Dynamic and Hierarchical Relationship Modeling for Facial Action Units Recognition](https://arxiv.org/abs/2404.06443)
-* [MoReVQA: Exploring Modular Reasoning Models for Video Question Answering](https://arxiv.org/abs/2404.06511)
+* [MoReVQA: Exploring Modular Reasoning Models for Video Question Answering](http://arxiv.org/abs/2404.06511v1)
+* [Multi-scale Dynamic and Hierarchical Relationship Modeling for Facial Action Units Recognition](http://arxiv.org/abs/2404.06443v1)<br>:star:[code](https://github.com/CVI-SZU/MDHR)
+* [HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention](http://arxiv.org/abs/2404.06351v1)<br>:star:[code](https://github.com/XiaolongTang23/HPNet)
+* [Rolling Shutter Correction with Intermediate Distortion Flow Estimation](http://arxiv.org/abs/2404.06350v1)<br>:star:[code](https://github.com/ljzycmd/DFRSC)
+* [Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences](http://arxiv.org/abs/2404.06337v1)
+* [3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis](http://arxiv.org/abs/2404.06270v1)<br>:star:[code](https://npucvr.github.io/GaGS/)
+* [Anchor-based Robust Finetuning of Vision-Language Models](http://arxiv.org/abs/2404.06244v1)
+* [Unified Entropy Optimization for Open-Set Test-Time Adaptation](http://arxiv.org/abs/2404.06065v1)<br>:star:[code](https://github.com/gaozhengqing/UniEnt)
+* [Object Dynamics Modeling with Hierarchical Point Cloud-based Representations](http://arxiv.org/abs/2404.06044v1)
+* [Implicit Assimilation of Sparse In Situ Data for Dense & Global Storm Surge Forecasting](http://arxiv.org/abs/2404.05758v1)
 * [VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning](https://arxiv.org/abs/2311.15011)<br>:star:[code](https://github.com/Sssssuperior/VSCode)显著目标检测
 * [ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments]()
 * [DualAD: Disentangling the Dynamic and Static World for End-to-End Driving]()驾驶
@@ -148,6 +149,9 @@ ASDF
 * [Time-Efficient Light-Field Acquisition Using Coded Aperture and Events](http://arxiv.org/abs/2403.07244v1)
 * [Event-based Light Field Project](https://arxiv.org/abs/2403.07244)<br>:house:[project](https://www.fujii.nuee.nagoya-u.ac.jp/Research/EventLF/)
 * [Continuous Pose for Monocular Cameras in Neural Implicit Representation](https://arxiv.org/abs/2311.17119)<br>:star:[code](https://github.com/qimaqi/Continuous-Pose-in-NeRF)
+* 相机姿态
+  * [Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences](https://arxiv.org/abs/2404.06337)
+
 
 ## Biomedical
 * [ManiFPT: Defining and Analyzing Fingerprints of Generative Models](https://arxiv.org/abs/2402.10401)
@@ -303,6 +307,7 @@ ASDF
   * [Grounded Question-Answering in Long Egocentric Videos](https://arxiv.org/abs/2312.06505)<br>:star:[code](https://github.com/Becomebright/GroundVQA)
   * [Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels](http://arxiv.org/abs/2403.14430v1) 
   * [VideoDistill: Language-aware Vision Distillation for Video Question Answering](http://arxiv.org/abs/2404.00973v1)
+  * [MoReVQA: Exploring Modular Reasoning Models for Video Question Answering](https://arxiv.org/abs/2404.06511)
 * 图表问答
   * [Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA](http://arxiv.org/abs/2403.16385v1)
 * 视觉文本问答
@@ -397,6 +402,7 @@ ASDF
 * 新视图合成
   * [G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images]()
   * [DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis](https://arxiv.org/abs/2312.13016)
+  * [3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis](https://arxiv.org/abs/2404.06270)
   * [DART: Implicit Doppler Tomography for Radar Novel View Synthesis](http://arxiv.org/abs/2403.03896v1)<br>:house:[project](https://wiselabcmu.github.io/dart/)
   * [XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold](http://arxiv.org/abs/2403.19517v1)
   * [Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis](https://arxiv.org/abs/2312.16812)<br>:star:[code](https://github.com/oppo-us-research/SpacetimeGaussians)<br>:house:[project](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
@@ -499,6 +505,7 @@ ASDF
 * [FairCLIP: Harnessing Fairness in Vision-Language Learning](http://arxiv.org/abs/2403.19949v1)<br>:house:[project](https://ophai.hms.harvard.edu/datasets/fairvlmed10k)
 * [Efficient Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2403.18293v1)<br>:star:[code](https://kdiaaa.github.io/tda/)
 * [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models]()<br>:star:[code](https://github.com/tianyi-lab/HallusionBench)
+* [Anchor-based Robust Finetuning of Vision-Language Models](https://arxiv.org/abs/2404.06244)
 * [Multi-Modal Hallucination Control by Visual Information Grounding](http://arxiv.org/abs/2403.14003v1)
 * [Do Vision and Language Encoders Represent the World Similarly?](https://arxiv.org/abs/2401.05224)
 * [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476)
@@ -846,6 +853,7 @@ ASDF
 * [Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis](http://arxiv.org/abs/2403.11113v1)<br>:star:[code](https://github.com/wdttt/LocoTrans)
 * [Unsupervised Template-assisted Point Cloud Shape Correspondence Network](http://arxiv.org/abs/2403.16412v1)
 * [GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds](http://arxiv.org/abs/2403.19220v1)
+* [Object Dynamics Modeling with Hierarchical Point Cloud-based Representations](https://arxiv.org/abs/2404.06044)
 * 点云配准
   * [Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension](http://arxiv.org/abs/2403.03532v1)
 * 3D 点云
@@ -1268,7 +1276,8 @@ ASDF
   * [Generalizable Face Landmarking Guided by Conditional Face Warping](https://openreview.net/pdf?id=wB2R7QQncw)<br>:star:[code](https://github.com/plustwo0/generalized-face-landmarker)<br>:house:[project](https://plustwo0.github.io/project-face-landmarker/)
 * 防御人脸编辑滥用
   * [IDGuard: Robust, General, Identity-centric POI Proactive Defense Against Face Editing Abuse]()
-
+* 人脸动作单元
+  * [Multi-scale Dynamic and Hierarchical Relationship Modeling for Facial Action Units Recognition](https://arxiv.org/abs/2404.06443)
 
 <a name="8"/>
 
@@ -1491,6 +1500,8 @@ ASDF
   * [SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting](http://arxiv.org/abs/2402.18848v1)<br>:house:[project](https://www.beeble.ai/)
 * 图片缩小
   * [Deep Generative Model based Rate-Distortion for Image Downscaling Assessment](http://arxiv.org/abs/2403.15139v1)
+* 图像校正
+  * [Rolling Shutter Correction with Intermediate Distortion Flow Estimation](https://arxiv.org/abs/2404.06350)
 * 图像着色
   * [Learning Inclusion Matching for Animation Paint Bucket Colorization](http://arxiv.org/abs/2403.18342v1)<br>:star:[code](https://ykdai.github.io/projects/InclusionMatching)着色
   * [Automatic Controllable Colorization via Imagination](http://arxiv.org/abs/2404.05661v1)<br>:star:[code](https://xy-cong.github.io/imagine-colorization)
@@ -1704,11 +1715,13 @@ ASDF
 * [Seeing Motion at Nighttime with an Event Camera]()<br>:star:[code](https://github.com/Liu-haoyue/NER-Net)
 * [Batch Normalization Alleviates the Spectral Bias in Coordinate Networks]()
 * [Affine Equivariant Networks Based on Differential Invariants]()
+* [Unified Entropy Optimization for Open-Set Test-Time Adaptation](https://arxiv.org/abs/2404.06065)
 * [Fooling Polarization-based Vision using Locally Controllable Polarizing Projection](https://arxiv.org/abs/2303.17890)
 * [TEA: Test-time Energy Adaptation](https://arxiv.org/abs/2311.14402v2)<br>:star:[code](https://github.com/yuanyige/tea)
 * [Would Deep Generative Models Amplify Bias in Future Models?](https://arxiv.org/abs/2404.03242)
 * [DeMatch: Deep Decomposition of Motion Field for Two-View Correspondence Learning]()<br>:star:[code](https://github.com/SuhZhang/DeMatch)
 * [Explaining CLIP's performance disparities on data from blind/low vision users](https://arxiv.org/abs/2311.17315)
+* [Implicit Assimilation of Sparse In Situ Data for Dense & Global Storm Surge Forecasting](https://arxiv.org/abs/2404.05758)
 * [Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models](https://arxiv.org/abs/2312.15297)
 * [CURSOR: Scalable Mixed-Order Hypergraph Matching with CUR Decomposition](https://arxiv.org/abs/2402.16594)
 * [Bayesian Differentiable Physics for Cloth Digitalization](https://arxiv.org/abs/2402.17664)<br>:star:[code](https://github.com/realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization)

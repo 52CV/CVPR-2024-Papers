@@ -36,51 +36,12 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 4月12日更新44篇，共计1232+44篇。
-* [GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo](http://arxiv.org/abs/2404.07992v1)<br>:star:[code](https://github.com/Wuuu3511/GoMVS)<br>:star:[code](https://wuuu3511.github.io/gomvs/)
-* [GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh](http://arxiv.org/abs/2404.07991v1)<br>:star:[code](https://wenj.github.io/GoMAvatar/)
-* [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](http://arxiv.org/abs/2404.07990v1)<br>:star:[code](https://github.com/Picsart-AI-Research/OpenBias)
-* [MindBridge: A Cross-Subject Brain Decoding Framework](http://arxiv.org/abs/2404.07850v1)<br>:star:[code](https://github.com/littlepure2333/MindBridge)<br>:star:[code](https://littlepure2333.github.io/MindBridge)
-* [GLID: Pre-training a Generalist Encoder-Decoder Vision Model](http://arxiv.org/abs/2404.07603v1)
-* [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](http://arxiv.org/abs/2404.07543v1)<br>:star:[code](https://github.com/duanyll/CANConv)
-* [Multi-view Aggregation Network for Dichotomous Image Segmentation](http://arxiv.org/abs/2404.07445v1)<br>:star:[code](https://github.com/qianyu-dlut/MVANet)
-* [Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)<br>:star:[code](https://github.com/xiaofeng94/SAS-Det)
-* [SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation](https://arxiv.org/abs/2311.15707)<br>:star:[code](https://github.com/JiehongLin/SAM-6D)
-* [MonoDiff: Monocular 3D Object Detection and Pose Estimation with Diffusion Models]()
-* [BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models](https://arxiv.org/abs/2312.02813)<br>:star:[code](https://github.com/MCG-NJU/BIVDiff)<br>:house:[project](https://bivdiff.github.io/)视频合成
-* [Grounded Text-to-Image Synthesis with Attention Refocusing](https://arxiv.org/abs/2306.05427)<br>:house:[project](https://attention-refocusing.github.io/)
-* [Bi-Causal: Group Activity Recognition via Bidirectional Causality]()群体活动识别
-* [PerAda: Parameter-Efficient Federated Learning Personalization with Generalization Guarantees](https://arxiv.org/abs/2302.06637)<br>:star:[code](https://github.com/NVlabs/PerAda)联合学习
-* [How to Train Neural Field Representations: A Comprehensive Study and Benchmark](https://arxiv.org/abs/2312.10531)
-* [Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation](https://arxiv.org/abs/2304.02970)<br>:star:[code](https://github.com/cyh-0/CAVP)视听分割
-* [Looking Similar, Sounding Different: Leveraging Counterfactual Cross-Modal Pairs for Audiovisual Representation Learning](https://arxiv.org/abs/2304.05600)视听表征学习
-* [Digital Life Project: Autonomous 3D Characters with Social Intelligence](https://arxiv.org/abs/2312.04547)<br>:house:[project](https://digital-life-project.com/)
-* [Semantic-Aware Multi-Label Adversarial Attacks]()对抗攻击
-* [Transferable Structural Sparse Adversarial Attack Via Exact Group Sparsity Training]()
-* [Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2311.15383)<br>:house:[project](https://curryyuan.github.io/ZSVG3D/)
-* [BioCLIP: A Vision Foundation Model for the Tree of Life](https://arxiv.org/abs/2311.18803)<br>:star:[code](https://github.com/Imageomics/bioclip)
-* [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)<br>:star:[code](https://github.com/OpenGVLab/InternVL)
-* [Tyche: Stochastic In-Context Learning for Medical Image Segmentation](https://arxiv.org/abs/2401.13650)
-* [Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning](https://arxiv.org/abs/2311.17597)<br>:star:[code](https://github.com/yeerwen/MedCoSS)
-* [Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring]()运动去模糊
-* [Close Imitation of Expert Retouching for Black-and-White Photography]()修图
-* [The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement]()相机姿势细化
-* [CoralSCOP: Segment any COral Image on this Planet]()分割
-* [SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM](https://arxiv.org/abs/2312.02126)<br>:house:[project](https://spla-tam.github.io/)
-* [ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association]()3D 多目标跟踪
-* [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051)<br>:star:[code](https://github.com/RenShuhuai-Andy/TimeChat)
-* [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://arxiv.org/abs/2306.12041)<br>:star:[code](https://github.com/ristea/aed-mae)
-* [Construct to Associate: Cooperative Context Learning for Domain Adaptive Point Cloud Segmentation]()点云分割
-* [OneFormer3D: One Transformer for Unified Point Cloud Segmentation](https://arxiv.org/abs/2311.14405)
-* [TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis](https://arxiv.org/abs/2211.14456)<br>:star:[code](https://github.com/pavlo-melnyk/tetrasphere)
-* [Self-Supervised Facial Representation Learning with Facial Region Awareness](https://arxiv.org/abs/2403.02138)人脸
-* [C2KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation]()
-* [Enhancing Video Super-Resolution via Implicit Resampling-based Alignment](https://arxiv.org/abs/2305.00163)
-* [StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2312.01725)<br>:star:[code](https://github.com/rlawjdghek/StableVITON)
-* [Hierarchical Correlation Clustering and Tree Preserving Embedding](https://arxiv.org/abs/2002.07756)
-* [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation]()
-* [NC-TTT: A Noise Constrastive Approach for Test-Time Training]()
-* [Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains]()
+## 4月15日更新4篇，共计1276+4篇。
+* [COCONut: Modernizing COCO Segmentation](http://arxiv.org/abs/2404.08639v1)<br>:star:[code](https://xdeng7.github.io/coconut.github.io/)
+* [Probing the 3D Awareness of Visual Foundation Models](http://arxiv.org/abs/2404.08636v1)<br>:star:[code](https://github.com/mbanani/probe3d)
+* [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](http://arxiv.org/abs/2404.08531v1)
+* [DIMAT: Decentralized Iterative Merging-And-Training for Deep Learning Models](http://arxiv.org/abs/2404.08079v1)
+
 ASDF
 <br>:star:[code]()<br>:house:[project]()
 <br>:tv:[video]()
@@ -1027,7 +988,7 @@ ASDF
     * [KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation](http://arxiv.org/abs/2404.00658v1)<br>:star:[code](https://github.com/JihuaPeng/KTPFormer)
     * [Normalizing Flows on the Product Space of SO(3) Manifolds for Probabilistic Human Pose Modeling](http://arxiv.org/abs/2404.05675v1)
     * [Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning](http://arxiv.org/abs/2404.05218v1)<br>:star:[code](https://github.com/Jaewoo97/T2P)
-    * [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams]()3D 人体动作捕捉
+    * [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams](http://arxiv.org/abs/2404.08640v1)<br>:house:[project](https://4dqv.mpi-inf.mpg.de/EventEgo3D/)
     * [3D Human Pose Perception from Egocentric Stereo Videos](http://arxiv.org/abs/2401.00889)<br>:star:[code](https://github.com/hiroyasuakada/3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos)<br>:house:[project](https://4dqv.mpi-inf.mpg.de/UnrealEgo2/)
     * [Forecasting of 3D Whole-body Human Poses with Grasping Objects]()3D 全身人体姿势
     * [BodyMAP -- Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed](https://arxiv.org/abs/2404.03183)<br>:star:[code](https://github.com/RCHI-Lab/BodyMAP)<br>:house:[project](https://bodymap3d.github.io/)
@@ -1218,7 +1179,7 @@ ASDF
   * [Tri-Perspective View Decomposition for Geometry-Aware Depth Completion](http://arxiv.org/abs/2403.15008v1)<br>:star:[code](https://yanzq95.github.io/projectpage/TOFDC/index.html)
 * 深度估计
   * [Cross-spectral Gated-RGB Stereo Depth Estimation]()
-  * [On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation]()
+  * [On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation](http://arxiv.org/abs/2404.08540v1)<br>:house:[project](https://agneetchatterjee.com/robustness_depth_lang/)
   * [Elite360D: Towards Efficient 360 Depth Estimation via Semantic- and Distance-Aware Bi-Projection Fusion](http://arxiv.org/abs/2403.16376v1)
   * [ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation](http://arxiv.org/abs/2403.18807v1)<br>:star:[code](https://github.com/Aradhye2002/EcoDepth)
   * [From-Ground-To-Objects:Coarse-to-Fine Self-supervised Monocular Depth Estimation of Dynamic Objects with Ground Contact Prior](https://arxiv.org/abs/2312.10118)<br>:house:[project](https://kaist-viclab.github.io/From_Ground_To_Objects_site/)

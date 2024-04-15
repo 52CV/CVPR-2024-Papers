@@ -41,6 +41,8 @@
 * [Probing the 3D Awareness of Visual Foundation Models](http://arxiv.org/abs/2404.08636v1)<br>:star:[code](https://github.com/mbanani/probe3d)
 * [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](http://arxiv.org/abs/2404.08531v1)
 * [DIMAT: Decentralized Iterative Merging-And-Training for Deep Learning Models](http://arxiv.org/abs/2404.08079v1)
+* [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/pdf/2312.03502.pdf)<br>:star:[code](https://github.com/Zhang-Haojie/WeSAM)<br>:Thumbsup:[分割一切模型SAM泛化能力差？域适应策略给解决了](https://mp.weixin.qq.com/s/LC1uwKgrzxU9vQkoMqo5nA)
+* [Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation](https://arxiv.org/abs/2311.12028)<br>:star:[code](https://github.com/NationalGAILab/HoT)<br>:Thumbsup:[让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://mp.weixin.qq.com/s/9R9FlYahCKYGErNgsniHYg)
 
 ASDF
 <br>:star:[code]()<br>:house:[project]()
@@ -50,17 +52,6 @@ ASDF
 
 <br>:star:[code]()<br>:house:[project]()
 <br>:Thumbsup:[]()
-
-
-
-
-
-
-
-
-
-
-
 
 -----------
 
@@ -492,6 +483,7 @@ ASDF
 * [Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models](https://arxiv.org/abs/2404.02233)<br>:house:[project](https://yorkucvil.github.io/VCC)
 * [Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning](https://arxiv.org/abs/2404.03658)<br>:house:[project](https://ruili3.github.io/kyn)
 * [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/abs/2310.14566)<br>:star:[code](https://github.com/tianyi-lab/HallusionBench)
+* [Probing the 3D Awareness of Visual Foundation Models](http://arxiv.org/abs/2404.08636v1)<br>:star:[code](https://github.com/mbanani/probe3d)
 * LLM
   * [PixelLM: Pixel Reasoning with Large Multimodal Model](https://arxiv.org/abs/2312.02228)<br>:house:[project](https://pixellm.github.io/)
   * [GROUNDHOG: Grounding Large Language Models to Holistic Segmentation](https://arxiv.org/abs/2402.16846)<br>:house:[project](https://groundhog-mllm.github.io/)
@@ -945,6 +937,7 @@ ASDF
 * 群体活动识别
   * [Bi-Causal: Group Activity Recognition via Bidirectional Causality]()
 
+
 <a name="13"/>
 
 ## 13.Human Pose Estimation(人体姿态估计)
@@ -993,6 +986,7 @@ ASDF
     * [Forecasting of 3D Whole-body Human Poses with Grasping Objects]()3D 全身人体姿势
     * [BodyMAP -- Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed](https://arxiv.org/abs/2404.03183)<br>:star:[code](https://github.com/RCHI-Lab/BodyMAP)<br>:house:[project](https://bodymap3d.github.io/)
     * [Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches]()
+    * [Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation](https://arxiv.org/abs/2311.12028)<br>:star:[code](https://github.com/NationalGAILab/HoT)<br>:Thumbsup:[让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://mp.weixin.qq.com/s/9R9FlYahCKYGErNgsniHYg)
 * 人体网格恢复
   * [DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery](http://arxiv.org/abs/2404.01424v1)
 * 动作捕捉
@@ -1062,6 +1056,7 @@ ASDF
   * [MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection](https://arxiv.org/abs/2403.14497)
   * [PREGO: online mistake detection in PRocedural EGOcentric videos](http://arxiv.org/abs/2404.01933v1)
   * [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://arxiv.org/abs/2306.12041)<br>:star:[code](https://github.com/ristea/aed-mae)
+  * [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](http://arxiv.org/abs/2404.08531v1)
 * 视频场景检测
   * [Neighbor Relations Matter in Video Scene Detection]()
 * 自动生成电影预告片
@@ -1164,7 +1159,7 @@ ASDF
   * [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
 * 3D 场景编辑
   * [GaussianEditor:Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037)<br>:house:[project](https://gaussianeditor.github.io/)
-  * [Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training](https://colalab.net/media/paper/Customize_your_NeRF.pdf)
+  * [Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training](https://colalab.net/media/paper/Customize_your_NeRF.pdf)<br>:Thumbsup:[文本或图像提示精准编辑3D场景，美图&信工所&北航&中大联合提出3D编辑方法CustomNeRF](https://mp.weixin.qq.com/s/iMOJdboRx7Z8X0JRakfXNA)
 * 特征匹配
   * [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance]()
   * [MESA: Matching Everything by Segmenting Anything](https://arxiv.org/abs/2401.16741)
@@ -1643,6 +1638,7 @@ ASDF
 
 ## 2.Image Segmentation(图像分割)
 * [CoralSCOP: Segment any COral Image on this Planet]()分割
+* [COCONut: Modernizing COCO Segmentation](http://arxiv.org/abs/2404.08639v1)<br>:star:[code](https://xdeng7.github.io/coconut.github.io/)
 * [Multi-view Aggregation Network for Dichotomous Image Segmentation](http://arxiv.org/abs/2404.07445v1)<br>:star:[code](https://github.com/qianyu-dlut/MVANet)
 * [OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/abs/2401.10229)<br>:house:[project](https://lxtgh.github.io/project/omg_seg/)
 * [Unsegment Anything by Simulating Deformation](https://arxiv.org/abs/2404.02585v1)
@@ -1657,6 +1653,7 @@ ASDF
 * [Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation](http://arxiv.org/abs/2404.06542v1)<br>:star:[code](https://aimagelab.github.io/freeda/)<br>:house:[project](https://aimagelab.github.io/freeda/)
 * [A Simple Recipe for Language-guided Domain Generalized Segmentation](https://arxiv.org/pdf/2311.17922.pdf)<br>:house:[project](https://astra-vision.github.io/FAMix/)
 * [Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts](http://arxiv.org/abs/2404.00741v1)<br>:star:[code](https://github.com/uncbiag/SegNext)
+* [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/pdf/2312.03502.pdf)<br>:star:[code](https://github.com/Zhang-Haojie/WeSAM)<br>:Thumbsup:[分割一切模型SAM泛化能力差？域适应策略给解决了](https://mp.weixin.qq.com/s/LC1uwKgrzxU9vQkoMqo5nA)
 * 开放词汇分割
   * [Transferable and Principled Efficiency for Open-Vocabulary Segmentation]()
   * [OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation](http://arxiv.org/abs/2404.01409v1)
@@ -1791,6 +1788,7 @@ ASDF
 * [Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models](https://arxiv.org/abs/2312.15297)
 * [CURSOR: Scalable Mixed-Order Hypergraph Matching with CUR Decomposition](https://arxiv.org/abs/2402.16594)
 * [Bayesian Differentiable Physics for Cloth Digitalization](https://arxiv.org/abs/2402.17664)<br>:star:[code](https://github.com/realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization)
+* [DIMAT: Decentralized Iterative Merging-And-Training for Deep Learning Models](http://arxiv.org/abs/2404.08079v1)
 * [FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions](https://arxiv.org/abs/2312.02434)
 * [Physical Property Understanding from Language-Embedded Feature Fields](http://arxiv.org/abs/2404.04242v1)<br>:star:[code](https://ajzhai.github.io/NeRF2Physics/)
 * [Clustering for Protein Representation Learning](https://arxiv.org/abs/2404.00254)

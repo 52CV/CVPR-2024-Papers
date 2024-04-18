@@ -36,7 +36,7 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 4月18日更新72篇，共计1371+72篇。
+## 4月18日更新76篇，共计1371+76篇。
 * [RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation]()
 * [Dense Neural SLAM with Loop Closures](https://arxiv.org/abs/2402.09944)<br>:house:[project](http://notchla.github.io/Loopy-SLAM)
 * [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472)
@@ -109,13 +109,15 @@
 * [In2SET: Intra-Inter Similarity Exploiting Transformer for Dual-Camera Compressive Hyperspectral Imaging](https://arxiv.org/abs/2312.13319)
 * [Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation](https://arxiv.org/abs/2301.09209)<br>:star:[code](https://github.com/RazvanPasca/LanguageNAO)<br>:house:[project](https://eth-ait.github.io/transfusion-proj/)
 * [ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images](https://arxiv.org/abs/2311.15264)
+* [A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion](http://arxiv.org/abs/2404.11590v1)
+* [Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation](http://arxiv.org/abs/2404.10966v1)<br>:star:[code](https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA)
+* [Exploring the Transferability of Visual Prompting for Multimodal Large Language Models](http://arxiv.org/abs/2404.11207v1)
+* [HumMUSS: Human Motion Understanding using State Space Models](http://arxiv.org/abs/2404.10880v1)
 
 ASDF
 <br>:star:[code]()<br>:house:[project]()
 <br>:tv:[video]()
 <br>:sunflower:[dataset]()
-
-
 
 <br>:star:[code]()<br>:house:[project]()
 <br>:Thumbsup:[]()
@@ -596,6 +598,7 @@ ASDF
 * [Probing the 3D Awareness of Visual Foundation Models](http://arxiv.org/abs/2404.08636v1)<br>:star:[code](https://github.com/mbanani/probe3d)
 * LLM
   * [PixelLM: Pixel Reasoning with Large Multimodal Model](https://arxiv.org/abs/2312.02228)<br>:house:[project](https://pixellm.github.io/)
+  * [Exploring the Transferability of Visual Prompting for Multimodal Large Language Models](http://arxiv.org/abs/2404.11207v1)
   * [GROUNDHOG: Grounding Large Language Models to Holistic Segmentation](https://arxiv.org/abs/2402.16846)<br>:house:[project](https://groundhog-mllm.github.io/)
   * [Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement](http://arxiv.org/abs/2404.04627v1)<br>:house:[project](https://zaidkhan.me/ViReP)
   * [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)
@@ -960,7 +963,7 @@ ASDF
 
 ## 16.Point Cloud(点云)
 * [Single-View Scene Point Cloud Human Grasp Generation]()
-* [Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform]()
+* [Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform](http://arxiv.org/abs/2404.11156v1)
 * [Multiway Point Cloud Mosaicking with Diffusion and Global Optimization]()<br>:tv:[video](https://www.youtube.com/watch?v=dnzhKfPIoWg)
 * [Point Cloud Pre-training with Diffusion Models](https://arxiv.org/abs/2311.14960)
 * [Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis](http://arxiv.org/abs/2403.01439v1)<br>:star:[code](https://github.com/LMD0311/DAPT)
@@ -1158,7 +1161,7 @@ ASDF
 * 3D姿势迁移
   * [Towards Robust 3D Pose Transfer with Adversarial Learning](https://arxiv.org/abs/2404.02242)
 * 人体重建
-  * [	Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption]()
+  * [Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption](http://arxiv.org/abs/2404.11291v1)<br>:star:[code](https://github.com/boycehbz/HumanInteraction)
   * [Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer](http://arxiv.org/abs/2404.04819v1)<br>:star:[code](https://github.com/dqj5182/CONTHO_RELEASE)
   * [HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models](http://arxiv.org/abs/2404.04876v1)
   * [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://arxiv.org/abs/2403.10357)
@@ -1172,6 +1175,8 @@ ASDF
   * [GauHuman: Articulated Gaussian Splatting from Monocular Human Videos](https://arxiv.org/abs/2312.02973)<br>:star:[code](https://github.com/skhu101/GauHuman)<br>:house:[project](https://skhu101.github.io/GauHuman/)
 * 人体生成
   * [FairRAG: Fair Human Generation via Fair Retrieval Augmentation](https://arxiv.org/abs/2403.19964)
+* 人体运动理解
+  * [HumMUSS: Human Motion Understanding using State Space Models](http://arxiv.org/abs/2404.10880v1)
 
 <a name="12"/>
 
@@ -1637,7 +1642,7 @@ ASDF
 * 图像检测
   * [LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection](http://arxiv.org/abs/2403.17465v1)
 * 图像编辑
-  * [TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing]()
+  * [TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing](http://arxiv.org/abs/2404.11120v1)<br>:star:[code](https://github.com/SherryXTChen/TiNO-Edit)
   * [Edit One for All: Interactive Batch Image Editing](https://arxiv.org/abs/2401.10219)<br>:star:[code](https://github.com/thaoshibe/edit-one-for-all)<br>:house:[project](https://thaoshibe.github.io/edit-one-for-all/)
   * [SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing](https://arxiv.org/abs/2312.11392)<br>:house:[project](https://scedit.github.io/)
   * [On Exact Inversion of DPM-Solvers](https://arxiv.org/abs/2311.18387)<br>:star:[code](https://github.com/smhongok/inv-dpm)<br>:house:[project](https://smhongok.github.io/inv-dpm.html)
@@ -1946,6 +1951,7 @@ ASDF
   * [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation]()
   * [Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2404.10322v1)<br>:star:[code](https://github.com/Matt-Su/DR-Adapter)
 
+
 <a name="1"/>
 
 ## 1.其它(other)
@@ -2025,6 +2031,8 @@ ASDF
 * [Fooling Polarization-based Vision using Locally Controllable Polarizing Projection](https://arxiv.org/abs/2303.17890)
 * [TEA: Test-time Energy Adaptation](https://arxiv.org/abs/2311.14402v2)<br>:star:[code](https://github.com/yuanyige/tea)
 * [Would Deep Generative Models Amplify Bias in Future Models?](https://arxiv.org/abs/2404.03242)
+* [A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion](http://arxiv.org/abs/2404.11590v1)
+* [Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation](http://arxiv.org/abs/2404.10966v1)<br>:star:[code](https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA)
 * [DeMatch: Deep Decomposition of Motion Field for Two-View Correspondence Learning]()<br>:star:[code](https://github.com/SuhZhang/DeMatch)
 * [Explaining CLIP's performance disparities on data from blind/low vision users](https://arxiv.org/abs/2311.17315)
 * [Implicit Assimilation of Sparse In Situ Data for Dense & Global Storm Surge Forecasting](https://arxiv.org/abs/2404.05758)

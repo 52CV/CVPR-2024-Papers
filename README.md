@@ -41,7 +41,6 @@
 * [Neural Modes: Self-supervised Learning of Nonlinear Modal Subspaces](https://arxiv.org/abs/2404.17620)自监督学习
 * [Self-supervised Representation Learning from Arbitrary Scenarios]()
 * [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://arxiv.org/abs/2209.11964v2)对抗攻击
-
 * [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375)
 * [StrokeFaceNeRF: Stroke-based Facial Appearance Editing in Neural Radiance Field]()面部外观编辑
 * [In-N-Out: Faithful 3D GAN Inversion with Volumetric Decomposition for Face Editing](https://arxiv.org/abs/2302.04871)<br>:house:[project](https://in-n-out-3d.github.io/)
@@ -50,7 +49,6 @@
 * [Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/abs/2311.15937)<br>:star:[code](https://github.com/serizba/salad)
 * [Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model]()LLM
 * [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://arxiv.org/abs/2311.17076)<br>:star:[code](https://github.com/chancharikmitra/CCoT)
-
 * [Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion]()生成矢量图形
 * [UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 * [High-fidelity Person-centric Subject-to-Image Synthesis](https://arxiv.org/abs/2311.10329)<br>:star:[code](https://github.com/CodeGoat24/Face-diffuser)
@@ -59,10 +57,8 @@
 * [VideoBooth: Diffusion-based Video Generation with Image Prompts](https://arxiv.org/abs/2312.00777)<br>:house:[project](https://vchitect.github.io/VideoBooth-project/)
 * [DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207)室内场景合成
 * [Day-Night Cross-domain Vehicle Re-identification]()车辆重识别
-
 * [XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/abs/2404.19174)<br>:house:[project](http://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24)图像匹配
 * [Contextual Augmented Global Contrast for Multimodal Intent Recognition]()多模态意图识别
-
 * [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement]()
 * [Latency Correction for Event-guided Deblurring and Frame Interpolation]()
 * [Zero-Shot Illumination-Guided Joint Denoising and Adaptive Enhancement for Low-Light Images]()<br>:thumbsup:[中文简介](https://cstc.hrbeu.edu.cn/2024/0302/c3687a322183/page.htm)
@@ -81,26 +77,49 @@
 * [Dual Prototype Attention for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2211.12036)<br>:star:[code](https://github.com/Hydragon516/DPA)
 * [Point-VOS: Pointing Up Video Object Segmentation](https://arxiv.org/abs/2402.05917)<br>:house:[project](https://pointvos.github.io/)
 * [Unifying Automatic and Interactive Matting with Pretrained ViTs]()
-
-
 * [KITRO:Refining Human Mesh by 2D Clues and Kinematic-tree Rotation]()<br>:star:[code](https://github.com/MartaYang/KITRO)
 * [FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models]()
 * [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.00901)
 * [Authentic Hand Avatar from a Phone Scan via Universal Hand Model]()
-
 * [LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition]()
 * [Human Motion Prediction under Unexpected Perturbation](https://arxiv.org/abs/2403.15891)
-
 * [HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting](https://arxiv.org/abs/2403.12722)<br>:house:[project](https://xdimlab.github.io/hugs_website)
-
 * [ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting](https://arxiv.org/abs/2403.00303)<br>:star:[code](https://github.com/PriNing/ODM)场景文本检测
 * [Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective]()域适应
-
 * [Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation](https://arxiv.org/abs/2404.19752)字幕生成
+* [All in One Framework for Multimodal Re-identification in the Wild]()
+* [Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification](https://zhoujiahuan1991.github.io/pub/CVPR2024_DKP.pdf)
+* [Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions](https://arxiv.org/abs/2306.07520)<br>:star:[code](https://github.com/hwz-zju/Instruct-ReID)
+* [A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification]()
+* [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/abs/2308.09911)<br>:star:[code](https://github.com/QinYang79/RDE)
+* [UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](https://arxiv.org/abs/2312.03441)<br>:star:[code](https://github.com/Zplusdragon/UFineBench)
 * [Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion]()
-
-
-
+* [Instantaneous Perception of Moving Objects in 3D]()
+* [Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction](https://arxiv.org/abs/2312.02221)<br>:house:[project](https://yizhiwang96.github.io/Slice3D/)
+* [SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration](https://arxiv.org/abs/2312.04803)
+* [NEAT: Distilling 3D Wireframes from Neural Attraction Fields]()<br>:star:[code](https://github.com/cherubicXN/neat)
+* [Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning](https://arxiv.org/abs/2312.13980)<br>:star:[code](https://github.com/desaixie/carve3d)<br>:house:[project](https://desaixie.github.io/carve-3d/)多视图重建
+* [COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2312.07504)<br>:star:[code](https://oasisyang.github.io/colmap-free-3dgs/)<br>:house:[project](https://oasisyang.github.io/colmap-free-3dgs/)
+* [Emotional Speech-Driven 3D Body Animation via Disentangled Latent Diffusion](https://arxiv.org/abs/2312.04466)<br>:house:[project](http://amuse.is.tue.mpg.de/)语音驱动的 3D 身体动画
+* [SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image](https://arxiv.org/abs/2403.20018)<br>:star:[code](https://github.com/WU-CVGL/SCINeRF)图像压缩
+* [Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch](https://arxiv.org/abs/2403.14729)剪枝
+* [Navigating Beyond Dropout: An Intriguing Solution towards Generalizable Image Super-Resolution]
+* [Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution](https://arxiv.org/abs/2402.18929)
+* [GeoChat: Grounded Large Vision-Language Model for Remote Sensing]()
+* [HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection]()<br>:Thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering](https://arxiv.org/abs/2402.10128)<br>:house:[project](https://abdullahamdi.com/ges)渲染
+* [Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)<br>:star:[code](https://github.com/nblt/F-SAM)
+* [RepAn: Enhanced Annealing through Re-parameterization]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [PointBeV: A Sparse Approach for BeV Predictions]()
+* [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703)<br>:star:[code](https://github.com/valeoai/PointBeV)
+* [Sheared Backpropagation for Finetuning Foundation Models]()
+* [AirPlanes: Accurate Plane Estimation via 3D-Consistent Embeddings]()
+* [Differentiable Neural Surface Refinement for Transparent Objects]()
+* [LiSA：LiDAR Localization with Semantic Awareness]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [Deciphering ‘What’ and ‘Where’ Visual Pathways from Spectral Clustering of Layer-Distributed Neural Representations](https://arxiv.org/abs/2312.06716)
+* [As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors](https://arxiv.org/abs/2311.16739)<br>:house:[project](https://as-plausible-aspossible.github.io/)
+* [Fun with Flags: Robust Principal Directions via Flag Manifolds](https://arxiv.org/abs/2401.04071)
+* [Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/abs/2312.02152)<br>:star:[code](https://github.com/georg-bn/rotation-steerers)
 
 ASDF
 <br>:star:[code]()<br>:house:[project]()
@@ -145,6 +164,8 @@ ASDF
 
 ## Visual emotion recognition(视觉情绪识别)
 * [EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning](https://export.arxiv.org/abs/2404.16670)<br>:star:[code](https://github.com/aimmemotion/EmoVIT)视觉情感理解
+* 多模态意图识别
+  * [Contextual Augmented Global Contrast for Multimodal Intent Recognition]()
 
 ## Referring Expression Comprehension(指代表达理解)
 * [ScanFormer: Referring Expression Comprehension by Iteratively Scanning]()
@@ -286,6 +307,8 @@ ASDF
   * 正样本标签学习
     * [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()Positive-Unlabeled Learning(正样本标签学习)半监督学习的一个重要分支
 * 自监督学习
+  * [Self-supervised Representation Learning from Arbitrary Scenarios]()
+  * [Neural Modes: Self-supervised Learning of Nonlinear Modal Subspaces](https://arxiv.org/abs/2404.17620)
   * [SD2Event: Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras]()
   * [An Asymmetric Augmented Self-Supervised Learning Method for Unsupervised Fine-Grained Image Hashing]()
   * [Self-supervised debiasing using low rank regularization](https://arxiv.org/abs/2210.05248)
@@ -337,6 +360,9 @@ ASDF
 * [Neural Spline Fields for Burst Image Fusion and Layer Separation](https://arxiv.org/abs/2312.14235)<br>:house:[project](https://light.princeton.edu/publication/nsf)
 * 红外和可见光图像融合
   * [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion]()
+
+## Image Matching(图像匹配)
+* [XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/abs/2404.19174)<br>:house:[project](http://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24)图像匹配
 
 ## Image Retrieval(图像检索)
 * [Language-only Training of Zero-shot Composed Image Retrieval]()
@@ -404,8 +430,9 @@ ASDF
   * [Tri-Modal Motion Retrieval by Learning a Joint Embedding Space]()
 * 动物运动
   * [OmniMotionGPT: Animal Motion Generation with Limited Data](https://arxiv.org/abs/2311.18303)<br>:star:[code](https://zshyang.github.io/omgpt-website/)<br>:house:[project](https://zshyang.github.io/omgpt-website/)
-* 3D 人体运动预测
+* 人体运动预测
   * [MoML: Online Meta Adaptation for 3D Human Motion Prediction]()
+  * [Human Motion Prediction under Unexpected Perturbation](https://arxiv.org/abs/2403.15891)
 * 人体运动估计
   * [MultiPhys: Multi-Person Physics-aware 3D Motion Estimation](https://arxiv.org/abs/2404.11987)<br>:house:[project](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
   * [A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals](https://arxiv.org/abs/2404.04890)人体运动估计
@@ -437,6 +464,7 @@ ASDF
   * [Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer](https://arxiv.org/abs/2311.13120)<br>:star:[code](https://github.com/bytedance/E2STR)
   * [Kernel Adaptive Convolution for Scene Text Detection via Distance Map Prediction]()
   * [Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing]()场景文本识别、删除和编辑
+  * [ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting](https://arxiv.org/abs/2403.00303)<br>:star:[code](https://github.com/PriNing/ODM)
 * 化学结构识别
   * [Atom-Level Optical Chemical Structure Recogition with Limited Supervision]()<br>:star:[code](https://github.com/molden/atomlenz)
   * [Atom-Level Optical Chemical Structure Recognition with Limited Supervision](https://arxiv.org/abs/2404.01743)
@@ -469,13 +497,16 @@ ASDF
 ## 35.Scene Understanding(场景理解)
 * [Omni-Q: Omni-Directional Scene Understanding for Unsupervised Visual Grounding]()
 * [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer]()
-* [GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding](http://arxiv.org/abs/2403.03608v1)
-* [GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding](http://arxiv.org/abs/2403.09639v1)<br>:star:[code](https://github.com/dvlab-research/GroupContrast)
 * [A Category Agnostic Model for Visual Rearrangement]()<br>:Thumbsup:[VILP](https://vipl.ict.ac.cn/news/research/202403/t20240315_207758.html)场景变化检测和场景变化匹配
 * [360+x: A Panoptic Multi-modal Scene Understanding Dataset](http://arxiv.org/abs/2404.00989v1)<br>:star:[code](https://x360dataset.github.io)
-* [RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding](https://arxiv.org/abs/2304.00962)<br>:house:[project](https://jihanyang.github.io/projects/RegionPLC)3D 场景理解
-* [SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field](https://arxiv.org/abs/2403.14366)
-* [Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](https://arxiv.org/abs/2311.18482)
+* 开放词汇场景理解
+  * [Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](https://arxiv.org/abs/2311.18482)
+* 3D场景理解
+  * [HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting](https://arxiv.org/abs/2403.12722)<br>:house:[project](https://xdimlab.github.io/hugs_website)
+  * [SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field](https://arxiv.org/abs/2403.14366)
+  * [GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding](http://arxiv.org/abs/2403.03608v1)
+  * [RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding](https://arxiv.org/abs/2304.00962)<br>:house:[project](https://jihanyang.github.io/projects/RegionPLC)
+  * [GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding](http://arxiv.org/abs/2403.09639v1)<br>:star:[code](https://github.com/dvlab-research/GroupContrast)
 * 文本驱动的 3D 场景生成
   * [3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation](https://arxiv.org/abs/2403.09439)
   * [Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885)<br>:house:[project](https://zqh0253.github.io/SceneWiz3D/)3D 场景合成
@@ -726,7 +757,6 @@ ASDF
 * 基于UAV的目标检测
   * [Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection]()
 
-
 <a name="27"/>
 
 ## 27.Vision-Language(视觉语言)
@@ -738,6 +768,7 @@ ASDF
 * [Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment]()
 * [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models]()<br>:star:[code](https://github.com/tianyi-lab/HallusionBench)
 * [Towards Better Vision-Inspired Vision-Language Models]()
+* [SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training]()
 * [MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer](https://arxiv.org/abs/2403.02991)
 * [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/abs/2312.00785)<br>:house:[project](https://yutongbai.com/lvm.html)大型视觉模型
 * [Seeing the Unseen: Visual Common Sense for Semantic Placement](https://arxiv.org/abs/2401.07770)
@@ -802,6 +833,8 @@ ASDF
   * [Pixel Aligned Language Models](https://arxiv.org/abs/2312.09237)<br>:house:[project](https://jerryxu.net/PixelLLM/)
   * [SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection](http://arxiv.org/abs/2403.03170v1)
   * [OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation](https://arxiv.org/abs/2311.17911)<br>:star:[code](https://github.com/shikiw/OPERA)多模态大语言模型
+  * [Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model]()
+  * [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://arxiv.org/abs/2311.17076)<br>:star:[code](https://github.com/chancharikmitra/CCoT)
   * [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)<br>:house:[project](https://tsb0601.github.io/mmvp_blog/)
   * [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://arxiv.org/abs/2312.06742)<br>:star:[code](https://github.com/kakaobrain/honeybee)LLM
   * [HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/abs/2311.13614)<br>:star:[code](https://github.com/Yuqifan1117/HalluciDoctor)
@@ -855,9 +888,8 @@ ASDF
 * 多视图理解
   * [Learning to Select Views for Efficient Multi-View Understanding]
   * [Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances](https://arxiv.org/abs/2303.06145)<br>:star:[code](https://github.com/hou-yz/MVSelect)
-
-
-
+* 视觉定位
+  * [Learning to Produce Semi-dense Correspondences for Visual Localization](https://arxiv.org/abs/2402.08359)<br>:star:[code](https://github.com/TruongKhang/DeViLoc)
 
 <a name="26"/>
 
@@ -907,7 +939,6 @@ ASDF
 * 点跟踪
   * [LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry](https://arxiv.org/abs/2401.01887)
 
-
 <a name="24"/>
 
 ## 24.ML(机器学习)
@@ -928,6 +959,7 @@ ASDF
   * [Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transfomers]()后门攻击
   * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()
   * [Semantic-Aware Multi-Label Adversarial Attacks]()对抗攻击
+  * [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://arxiv.org/abs/2209.11964v2)
   * [Improving Transferable Targeted Adversarial Attacks with Model Self-Enhancement]()对抗攻击
   * [On the Robustness of Large Multimodal Models Against Image Adversarial Attacks](https://arxiv.org/abs/2312.03777)
   * [Incremental Residual Concept Bottleneck Models](https://arxiv.org/abs/2404.08978)
@@ -1093,6 +1125,7 @@ ASDF
   * [WinSyn: A High Resolution Testbed for Synthetic Data](https://arxiv.org/abs/2310.08471)
   * [Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection](https://arxiv.org/abs/2312.16649)
 
+
 <a name="21"/>
 
 ## 21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
@@ -1109,6 +1142,7 @@ ASDF
 * DA
   * [Parameter Efficient Self-Supervised Geospatial Domain Adaptation]()
   * [Discriminative Pattern Calibration Mechanism for Source-Free Domain Adaptation]()
+  * [Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective]()
   * [A Versatile Framework for Continual Test-Time Domain Adaptation: Balancing Discriminability and Generalization]()
   * [Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation](https://arxiv.org/abs/2403.02899)
   * [Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation]()
@@ -1191,6 +1225,7 @@ ASDF
   * [TransLoc4D: Transformer-based 4D-Radar Place Recognition]()
   * [CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](http://arxiv.org/abs/2402.19231v1)<br>:star:[code](https://github.com/Lu-Feng/CricaVPR)
   * [On the Estimation of Image-matching Uncertainty in Visual Place Recognition](http://arxiv.org/abs/2404.00546v1)
+  * [Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/abs/2311.15937)<br>:star:[code](https://github.com/serizba/salad)
 * 导航
   * [Imagine Before Go: Self-Supervised Generative Map for Object Goal Navigation]()<br>:Thumbsup:[VILP](https://vipl.ict.ac.cn/news/research/202403/t20240315_207758.html)
   * [Detours for Navigating Instructional Videos](https://arxiv.org/abs/2401.01823)旅游视频导航
@@ -1311,8 +1346,8 @@ ASDF
   * [COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2312.01919)<br>:star:[code](https://github.com/NotACracker/COTR)
   * [SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2311.12754)<br>:star:[code](https://github.com/huang-yh/SelfOcc)
   * [StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation]()
-
-
+车辆重识别
+  * [Day-Night Cross-domain Vehicle Re-identification]()
 
 <a name="16"/>
 
@@ -1465,6 +1500,7 @@ ASDF
 * 目标定位
   * [CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective](http://arxiv.org/abs/2403.06676v1)<br>:star:[code](https://github.com/snskysk/CAM-Back-Again)
 
+
 <a name="14"/>
 
 ## 14.Human Action Recognition(人体动作识别)
@@ -1482,6 +1518,8 @@ ASDF
 * [VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)
 * [Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes](https://arxiv.org/abs/2311.17948)<br>:house:[project](https://hcis-lab.github.io/Action-slot/)
 * [Narrative Action Evaluation with Prompt-Guided Multimodal Interaction](https://arxiv.org/abs/2404.14471)<br>:star:[code](https://github.com/shiyi-zh0408/NAE_CVPR2024)
+* 基于骨架的动作识别
+  * [LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition]()
 * 基于事件的动作识别
   * [ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More](http://arxiv.org/abs/2403.12534v1)
 * 零样本动作识别
@@ -1502,6 +1540,7 @@ ASDF
   * [Uncertainty-aware Action Decoupling Transformer for Action Anticipation]()
 
 
+
 <a name="13"/>
 
 ## 13.Human Pose Estimation(人体姿态估计)
@@ -1511,6 +1550,7 @@ ASDF
 * [GALA: Generating Animatable Layered Assets from a Single Scan](https://arxiv.org/abs/2401.12979)<br>:star:[code](https://github.com/snuvclab/GALA)<br>:house:[project](https://snuvclab.github.io/gala/)
 * [ShapeMatcher: Self-Supervised Joint Shape Canonicalization, Segmentation, Retrieval and Deformation](https://arxiv.org/abs/2311.11106)自监督关节形状规范化、分割、检索和变形
 * 手部
+  * [Authentic Hand Avatar from a Phone Scan via Universal Hand Model]()
   * [URHand: Universal Relightable Hands](http://arxiv.org/abs/2401.05334)<br>:house:[project](https://frozenburning.github.io/projects/urhand/)
   * [OHTA: One-shot Hand Avatar via Data-driven Implicit Priors](http://arxiv.org/abs/2402.18969v1)<br>:star:[code](https://github.com/zxz267/OHTA)<br>:house:[project](https://zxz267.github.io/OHTA/)
   * [BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics](https://arxiv.org/abs/2312.07937)<br>:star:[code](https://github.com/Godheritage/BOTH2Hands)<br>:house:[project](https://godheritage.github.io/)
@@ -1551,6 +1591,7 @@ ASDF
     * [SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation](http://arxiv.org/abs/2404.02041v1)<br>:star:[code](https://github.com/CAMMA-public/SelfPose3D)
     * [Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting](http://arxiv.org/abs/2402.18330v1)
     * [FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations](https://arxiv.org/abs/2211.14309)<br>:house:[project](https://future-human-3d.christian-diller.de/)
+    * [FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models]()
     * [PoseIRM: Enhance 3D Human Pose Estimation on Unseen Camera Settings via Invariant Risk Minimization]()
     * [Score-Guided Diffusion for 3D Human Recovery](http://arxiv.org/abs/2403.09623v1)<br>:star:[code](https://statho.github.io/ScoreHMR)
     * [A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation](http://arxiv.org/abs/2403.11310v1)
@@ -1571,6 +1612,7 @@ ASDF
   * [Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction]()
   * [PostureHMR: Posture Transformation for 3D Human Mesh Recovery]()
   * [Probabilistic Human Mesh Estimation with Hypothesis Scoring]()
+  * [KITRO:Refining Human Mesh by 2D Clues and Kinematic-tree Rotation]()<br>:star:[code](https://github.com/MartaYang/KITRO)
   * [Semantic Human Mesh Reconstruction with Textures](https://arxiv.org/abs/2403.02561)<br>:house:[project](https://zhanxy.xyz/projects/shert/)
   * [TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation](https://export.arxiv.org/abs/2404.16752)<br>:house:[project](https://tokenhmr.is.tue.mpg.de/)
   * [SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes](https://arxiv.org/abs/2308.10638)人体网格
@@ -1603,6 +1645,7 @@ ASDF
   * [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://arxiv.org/abs/2403.10357)
   * [Diffusion-FOF: Single-view Clothed Human Reconstruction via Diffusion-based Fourier Occupancy Field]()穿着人体重建
   * [VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift]()<br>:star:[code](https://github.com/starVisionTeam/VS)
+  * [WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion](https://arxiv.org/abs/2312.07531)<br>:house:[project](http://wham.is.tue.mpg.de/)3D 运动重建
 * 类别无关的姿势估计
   * [ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation]()
 * 视频估计人体动力学
@@ -1716,6 +1759,7 @@ ASDF
 * video Grounding
   * [SnAG: Scalable and Accurate Video Grounding](https://arxiv.org/abs/2404.02257)<br>:star:[code](https://github.com/fmu2/snag_release)
   * [Context-Guided Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.01578)<br>:star:[code](https://github.com/HengLan/CGSTVG)
+  * [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.00901)
   * [What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions](https://arxiv.org/abs/2303.16990)
 
 <a name="11"/>
@@ -1990,6 +2034,9 @@ ASDF
 * [Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection]()<br>:star:[code](https://github.com/HansSunY/DiffAM)
 * [LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example](https://arxiv.org/abs/2403.15227)<br>:star:[code](https://github.com/kwanyun/LeGO_code)<br>:house:[project](https://kwanyun.github.io/lego/)
 * [Self-Supervised Facial Representation Learning with Facial Region Awareness](https://arxiv.org/abs/2403.02138)
+* 人脸编辑
+  * [StrokeFaceNeRF: Stroke-based Facial Appearance Editing in Neural Radiance Field]()
+  * [In-N-Out: Faithful 3D GAN Inversion with Volumetric Decomposition for Face Editing](https://arxiv.org/abs/2302.04871)<br>:house:[project](https://in-n-out-3d.github.io/)
 * 人脸表情
   * [Learning Adaptive Spatial Coherent Correlations for Speech-Preserving Facial Expression Manipulation]()
   * [3D Facial Expressions through Analysis-by-Neural-Synthesis](https://arxiv.org/abs/2404.04104)<br>:house:[project](https://georgeretsi.github.io/smirk/)
@@ -2059,11 +2106,13 @@ ASDF
   * [SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)<br>:star:[code](https://github.com/ziqiaopeng/SyncTalk)<br>:house:[project](https://ziqiaopeng.github.io/synctalk/)
   * [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)<br>:star:[code](https://github.com/modelscope/facechain)
   * [FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models](https://arxiv.org/abs/2312.08459)<br>:star:[code](https://github.com/shivangi-aneja/FaceTalk)<br>:house:[project](https://shivangi-aneja.github.io/projects/facetalk/)
+  * [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375)
 * 防御人脸编辑滥用
   * [IDGuard: Robust, General, Identity-centric POI Proactive Defense Against Face Editing Abuse]()
 * 3D 头像
   * [3DToonify: Creating Your High-Fidelity 3D Stylized Avatar Easily from 2D Portrait Images]()
   * [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](https://arxiv.org/abs/2304.00916)<br>:house:[project](https://yukangcao.github.io/DreamAvatar/)3
+
 
 <a name="8"/>
 
@@ -2092,6 +2141,7 @@ ASDF
   * [Rendering Every Pixel for High-Fidelity Geometry in 3D GANs]()
   * [Adversarial Score Distillation: When score distillation meets GAN](https://arxiv.org/abs/2312.00739)<br>:star:[code](https://github.com/2y7c3/asd)<br>:house:[project](https://2y7c3.github.io/ASD/asd.html)
 * 扩散
+  * [Fixed Point Diffusion Models](https://arxiv.org/abs/2401.08741)<br>:house:[project](https://lukemelas.github.io/fixed-point-diffusion-models)
   * [Self-correcting LLM-controlled Diffusion]()
   * [Image Neural Field Diffusion Models]()
   * [Functional Diffusion](https://arxiv.org/abs/2311.15435)<br>:house:[project](https://1zb.github.io/functional-diffusion/)
@@ -2192,6 +2242,7 @@ ASDF
     * [MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis](https://arxiv.org/abs/2402.05408)<br>:house:[project](https://migcproject.github.io/)
     * [Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation](https://arxiv.org/abs/2311.15773)<br>:house:[project](https://simm-t2i.github.io/SimM)
     * [DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization](https://arxiv.org/abs/2402.09812)<br>:house:[project](https://ku-cvlab.github.io/DreamMatcher/)
+    * [UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
     * [Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models]()
     * [Countering Personalized Text-to-Image Generation with Influence Watermarks]()
     * [Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following](https://arxiv.org/abs/2311.17002)<br>:house:[project](https://ranni-t2i.github.io/Ranni)
@@ -2225,10 +2276,14 @@ ASDF
     * [Selectively Informative Description can Reduce Undesired Embedding Entanglements in Text-to-Image Personalization](http://arxiv.org/abs/2403.15330v1)
     * [ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations](https://arxiv.org/abs/2312.04655)<br>:star:[code](https://github.com/eclipse-t2i/eclipse-inference)<br>:house:[project](https://eclipse-t2i.vercel.app/)
     * [FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models](http://arxiv.org/abs/2403.16379v1)<br>:star:[code](https://github.com/thu-nics/FlashEval)
+  * 主题-图像
+    * [High-fidelity Person-centric Subject-to-Image Synthesis](https://arxiv.org/abs/2311.10329)<br>:star:[code](https://github.com/CodeGoat24/Face-diffuser)
+    * [High Fidelity Person-centric Subject-to-Image Synthesis] 
 * 视频合成/生成
   * 视频生成
     * [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490)<br>:star:[code](https://github.com/damo-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md)<br>:house:[project](https://instructvideo.github.io/)
     * [Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models](https://arxiv.org/abs/2312.01409)<br>:house:[project](https://primecai.github.io/generative_rendering/)
+    * [VideoBooth: Diffusion-based Video Generation with Image Prompts](https://arxiv.org/abs/2312.00777)<br>:house:[project](https://vchitect.github.io/VideoBooth-project/)
     * [Hierarchical Patch Diffusion Models for High-Resolution Video Generation]()<br>:star:[code](https://github.com/snap-research/hpdm)
     * [On the Content Bias in Fréchet Video Distance](http://arxiv.org/abs/2404.12391v1)<br>:star:[code](https://content-debiased-fvd.github.io/)
     * [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/abs/2401.06578)
@@ -2339,10 +2394,6 @@ ASDF
   * [MaskPLAN: Masked Generative Layout Planning from Partial Input]()<br>:star:[code](https://github.com/HangZhangZ/MaskPLAN)
   * [Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation](https://arxiv.org/abs/2311.13602)<br>:star:[code](https://udonda.github.io/RALF/)<br>:house:[project](https://udonda.github.io/RALF/)
   * [Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)<br>:house:[project](https://aminshabani.github.io/visual_layout_composer/index.html)
-* 文本-矢量
-  * [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation]()
-* 矢量字体
-  * [VecFusion: Vector Font Generation with Diffusion](https://arxiv.org/abs/2312.10540)
 * 手写数学表达式
   * [Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline]()
 * NeRF-to-NeRF 
@@ -2351,6 +2402,7 @@ ASDF
   * [LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion](http://arxiv.org/abs/2404.00292v1)
 * 场景生成
   * [Towards Realistic Scene Generation with LiDAR Diffusion Models](http://arxiv.org/abs/2404.00815v1)<br>:star:[code](https://github.com/hancyran/LiDAR-Diffusion)
+  * [DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207)室内场景合成
 * 交互式编辑
   * [Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation](http://arxiv.org/abs/2404.01050v1)<br>:star:[code](https://github.com/haofengl/DragNoise)
 * 视频编辑
@@ -2385,12 +2437,17 @@ ASDF
   * [CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment](https://arxiv.org/abs/2404.01123)
 * 图像矢量化
   * [Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization]()
-* 背景替换
-  * [Relightful Harmonization: Lighting-aware Portrait Background Replacement](https://arxiv.org/abs/2312.06886)
+* 文本-矢量
+  * [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation]()
+* 矢量字体
+  * [VecFusion: Vector Font Generation with Diffusion](https://arxiv.org/abs/2312.10540)
 * 矢量图形合成
   * [SuperSVG: Superpixel-based scalable vector graphics synthesis](https://orca.cardiff.ac.uk/id/eprint/167659/)
+  * [Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion]()
 * 二维码生成
   * [Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation](https://arxiv.org/abs/2403.06452)<br>:star:[code](https://github.com/mulns/Text2QR)
+* 背景替换
+  * [Relightful Harmonization: Lighting-aware Portrait Background Replacement](https://arxiv.org/abs/2312.06886)
 
 <a name="7"/>
 
@@ -2401,6 +2458,7 @@ ASDF
   * [HomoFormer: Homogenized Transformer for Image Shadow Removal]()
 * 去模糊
   * [Unsupervised Blind Image Deblurring Based on Self-Enhancement]()
+  * [Latency Correction for Event-guided Deblurring and Frame Interpolation]()
   * [LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://arxiv.org/abs/2307.09815)
   * [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
   * [Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains](http://arxiv.org/abs/2403.16205v1)<br>:star:[code](https://zero1778.github.io/blur2blur/)
@@ -2420,6 +2478,7 @@ ASDF
   * [Equivariant plug-and-play image reconstruction](https://arxiv.org/abs/2312.01831)<br>:star:[code](https://github.com/matthieutrs/EquivariantPnP)
   * [Patch2Self2: Self-supervised Denoising on Coresets via Matrix Sketching](未公开)
   * [Hyper-MD: Mesh Denoising with Customized Parameters Aware of Noise Intensity and Geometric Characteristics]()
+  * [Zero-Shot Illumination-Guided Joint Denoising and Adaptive Enhancement for Low-Light Images]()<br>:thumbsup:[中文简介](https://cstc.hrbeu.edu.cn/2024/0302/c3687a322183/page.htm)
 * 去雨
   * [Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining](http://arxiv.org/abs/2404.01547v1)<br>:star:[code](https://github.com/cschenxiang/NeRD-Rain)
 * 去反射  
@@ -2440,6 +2499,7 @@ ASDF
   * [Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving](http://arxiv.org/abs/2404.04804v1)
 * 图像恢复
   * [Learning Diffusion Texture Priors for Image Restoration]()
+  * [Look-Up Table Compression for Efficient Image Restoration]()
   * [DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks]()
   * [Adapt or perish: Adaptive sparse transformer with attentive feature refinement for image restoration]()
   * [Image Restoration by Denoising Diffusion Models With Iteratively Preconditioned Guidance](https://arxiv.org/abs/2312.16519)<br>:star:[code](https://github.com/tirer-lab/DDPG)
@@ -2461,6 +2521,7 @@ ASDF
   * [Defense Against Adversarial Attacks on No-Reference Image Quality Models with Gradient Norm Regularization](http://arxiv.org/abs/2403.11397v1)
   * [Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment]()
   * [TextCraftor: Your Text Encoder Can be Image Quality Controller](https://arxiv.org/abs/2403.18978)
+  * [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement]()
 * 恶劣天气消除
   * [Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684)<br>:star:[code](https://github.com/scott-yjyang/DiffTTA)
   * [Language-driven All-in-one Adverse Weather Removal](https://arxiv.org/abs/2312.01381)恶劣天气消除
@@ -2483,6 +2544,7 @@ ASDF
   * [Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring](https://export.arxiv.org/abs/2404.13153)<br>:star:[code](https://github.com/ChengxuLiu/MISCFilter)
 * 视频修复
   * [AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/abs/2312.03816)<br>:star:[code](https://github.com/zhang-zx/AVID)<br>:house:[project](https://zhang-zx.github.io/AVID/)
+  * [Towards Language-Driven Video Inpainting via Multimodal Large Language Models](https://arxiv.org/abs/2401.10226)<br>:house:[project](https://jianzongwu.github.io/projects/rovi)
 * 视频去雾
   * [Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance]()
 * 视频去渲染
@@ -2507,6 +2569,7 @@ ASDF
 <a name="6"/>
 
 ## 6.Image/Video Captioning(图像/视频字幕)
+* [Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation](https://arxiv.org/abs/2404.19752)
 * [Polos: Multimodal Metric Learning from Human Feedback for Image Captioning](http://arxiv.org/abs/2402.18091v1)<br>:star:[code](https://github.com/keio-smilab24/polos)<br>:house:[project](https://yuiga.dev/polos/)
 * [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](http://arxiv.org/abs/2402.19479v1)<br>:star:[code](https://snap-research.github.io/Panda-70M)
 * [MeaCap: Memory-Augmented Zero-shot Image Captioning](http://arxiv.org/abs/2403.03715v1)<br>:star:[code](https://github.com/joeyz0z/MeaCap)
@@ -2610,7 +2673,6 @@ ASDF
   * [Contrastive Mean-Shift Learning for Generalized Category Discovery](http://arxiv.org/abs/2404.09451v1)
   * [Solving the Catastrophic Forgetting Problem in Generalized Category Discovery]()
 
-
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
@@ -2621,6 +2683,9 @@ ASDF
 * [CoralSCOP: Segment any COral Image on this Planet]()分割
 * [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531)<br>:house:[project](https://lyclyc52.github.io/SANeRF-HQ/)
 * [ASAM: Boosting Segment Anything Model with Adversarial Tuning]()
+* [ODIN: A Single Model for 2D and 3D Segmentation](https://arxiv.org/abs/2401.02416)<br>:star:[code](https://github.com/ayushjain1144/odin)
+* [FocSAM: Delving Deeply into Focused Objects in Segmenting Anything]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/abs/2312.00863)
 * [Universal Segmentation at Arbitrary Granularity with Language Instruction](https://arxiv.org/abs/2312.01623)通用分割
 * [Segment and Caption Anything](https://arxiv.org/abs/2312.00869)<br>:house:[project](https://xk-huang.github.io/segment-caption-anything/;)
 * [COCONut: Modernizing COCO Segmentation](http://arxiv.org/abs/2404.08639v1)<br>:star:[code](https://xdeng7.github.io/coconut.github.io/)
@@ -2643,6 +2708,7 @@ ASDF
 * [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/pdf/2312.03502.pdf)<br>:star:[code](https://github.com/Zhang-Haojie/WeSAM)<br>:Thumbsup:[分割一切模型SAM泛化能力差？域适应策略给解决了](https://mp.weixin.qq.com/s/LC1uwKgrzxU9vQkoMqo5nA)
 * 开放词汇分割
   * [Transferable and Principled Efficiency for Open-Vocabulary Segmentation]()
+  * [Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089)<br>:star:[code](https://github.com/yongliu20/SCAN)
   * [OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation](http://arxiv.org/abs/2404.01409v1)
   * [Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models](https://arxiv.org/abs/2311.17095)<br>:star:[code](https://github.com/letitiabanana/PnP-OVSS)
   * [Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://ar5iv.labs.arxiv.org/html/2311.17095)
@@ -2703,6 +2769,7 @@ ASDF
   * 开放词汇语义分割
     * [Open-Vocabulary 3D Semantic Segmentation with Foundation Models]()
     * [Open-Vocabulary Semantic Segmentation with Image Embedding Balancing]()
+    * [Rethinking the Region Classification in Open-Vocabulary Semantic Segmentation: An Image-to-Image View]()
     * [Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2404.00262v1)
     * [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2311.15537)<br>:star:[code](https://github.com/xb534/SED.git)
 * 全景分割
@@ -2718,6 +2785,8 @@ ASDF
   * [DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data]()
   * [FISBe: A real-world benchmark dataset for instance segmentation of long-range thin filamentous structures](http://arxiv.org/abs/2404.00130v1)<br>:star:[code](https://kainmueller-lab.github.io/fisbe)
   * [Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge](http://arxiv.org/abs/2404.01013v1)
+  * 开放词汇实例分割
+    * [MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2401.07745)<br>:house:[project](https://pku-epic.github.io/MaskClustering)
   * 3D 实例分割
     * [BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance Segmentation](https://arxiv.org/abs/2403.15019)<br>:star:[code](https://github.com/peoplelu/BSNet)
 * 场景分割
@@ -2737,6 +2806,8 @@ ASDF
   * [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation]
   * [Unveiling Parts Beyond Objects:Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007)<br>:star:[code](https://github.com/Rubics-Xuan/MRES)
 * VOS
+  * [Point-VOS: Pointing Up Video Object Segmentation](https://arxiv.org/abs/2402.05917)<br>:house:[project](https://pointvos.github.io/)
+  * [Dual Prototype Attention for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2211.12036)<br>:star:[code](https://github.com/Hydragon516/DPA)
   * [Depth-aware Test-Time Training for Zero-shot Video Object Segmentation](http://arxiv.org/abs/2403.04258v1)<br>:star:[code](https://nifangbaage.github.io/DATTT)
   * [Putting the Object Back into Video Object Segmentation](https://arxiv.org/abs/2310.12982v1)<br>:house:[project](https://hkchengrex.github.io/Cutie)
   * [Event-assisted Low-Light Video Object Segmentation](http://arxiv.org/abs/2404.01945v1)
@@ -2747,16 +2818,22 @@ ASDF
   * [Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes](https://arxiv.org/abs/2401.15261)
 * 抠图
   * [In-Context Matting](http://arxiv.org/abs/2403.15789v1)<br>:star:[code](https://github.com/tiny-smart/in-context-matting)
+  * [Unifying Automatic and Interactive Matting with Pretrained ViTs]()
 * 少样本分割
   * [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation]()
   * [Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2404.10322v1)<br>:star:[code](https://github.com/Matt-Su/DR-Adapter)
   * [Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach](http://arxiv.org/abs/2404.11732v1)
   * [Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2402.17614)
   * [LLaFS: When Large Language Models Meet Few-Shot Segmentation](https://arxiv.org/abs/2311.16926)
+  * [Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining](https://arxiv.org/abs/2401.08407)<br>:star:[code](https://github.com/niejiahao1998/IFA)
+  * [Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation]()
+* 零样本分割
+  * [Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion](https://arxiv.org/abs/2308.12469)<br>:star:[code](https://github.com/google/diffseg)
 * 裂纹分割
   * [Mind marginal non-crack regions: Clustering-inspired representation learning for crack segmentation]()
 * 交互式分割
   * [GraCo: Granularity-Controllable Interactive Segmentation]()<br>:tv:[video](https://www.youtube.com/watch?v=QE8Mi0k2nKg)<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+  * [MFP: Making Full Use of Probability Maps for Interactive Image Segmentation](https://arxiv.org/abs/2404.18448)<br>:star:[code](https://github.com/cwlee00/MFP)
 * 无模态分割
   * [pix2gestalt: Amodal Segmentation by Synthesizing Wholes](https://arxiv.org/abs/2401.14398)<br>:star:[code](https://github.com/cvlab-columbia/pix2gestalt)<br>:house:[project](https://gestalt.cs.columbia.edu/)
 * 3D 分割
@@ -3051,6 +3128,7 @@ ASDF
 * [Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer](http://arxiv.org/abs/2403.19979v1)
 * [Rewrite the Stars](http://arxiv.org/abs/2403.19967v1)<br>:star:[code](https://github.com/ma-xu/Rewrite-the-Stars)
 * [Neural Refinement for Absolute Pose Regression with Feature Synthesis](https://arxiv.org/abs/2303.10087)<br>:star:[code](https://github.com/ActiveVisionLab/NeFeS)<br>:house:[project](https://nefes.active.vision/)
+* [Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion]()
 * [Localization Is All You Evaluate: Data Leakage in Online Mapping Datasets and How to Fix It](https://arxiv.org/abs/2312.06420)<br>:star:[code](https://github.com/LiljaAdam/geographical-splits)
 * [FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication](https://export.arxiv.org/abs/2404.16123)<br>:house:[project](https://ericslyman.com/fairdedup/)
 * [Unsupervised Deep Unrolling Networks for Phase Unwrapping](https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/8/10877/files/2024/03/CVPR_2024_unpw-a03a160b38fdc1fd.pdf)相位展开

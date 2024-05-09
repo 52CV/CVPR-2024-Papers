@@ -38,7 +38,7 @@
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
 |[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
 
-## 5月8日更新27篇，共计2319+27篇。
+## 5月9日更新27篇，共计2319+27篇。
 * [PairDETR : Joint Detection and Association of Human Bodies and Faces]()
 * [Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs]()LLMs
 * [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692)<br>:star:[code](https://github.com/dvlab-research/LISA)

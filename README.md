@@ -465,7 +465,7 @@
     * [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)<br>:house:[project](https://afterjourney00.github.io/IM-HOI.github.io/)
     * [CG-HOI: Contact-Guided 3D Human-Object Interaction Generation](https://arxiv.org/abs/2311.16097)<br>:house:[project](https://cg-hoi.christian-diller.de/)
 * 人-人交互
-  * [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051)<br>:star:[code](https://github.com/liangxuy/Inter-X)<br>:house:[project](https://liangxuy.github.io/inter-x/)<br>:Thumbsup:[三维数字人重建、编辑与驱动](https://valser.org/webinar/slide/slides/20240403/Valse20240403%E6%99%8F%E8%BD%B6%E8%B6%85.pdf)
+  * [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051)<br>:star:[code](https://github.com/liangxuy/Inter-X)<br>:house:[project](https://liangxuy.github.io/inter-x/)<br>:thumbsup:[三维数字人重建、编辑与驱动](https://valser.org/webinar/slide/slides/20240403/Valse20240403%E6%99%8F%E8%BD%B6%E8%B6%85.pdf)
 
 <a name="33"/>
 

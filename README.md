@@ -405,7 +405,6 @@
 * [Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle](https://arxiv.org/abs/2312.03431)<br>:house:[project](https://nju-3dv.github.io/projects/Gaussian-Flow)
 * [Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking](https://arxiv.org/abs/2401.06614)<br>:house:[project](https://vveicao.github.io/projects/Motion2VecSets/)
 * [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://arxiv.org/abs/2310.08528)<br>:star:[code](https://github.com/hustvl/4DGaussians)<br>:house:[project](https://guanjunwu.github.io/4dgs/)
-* [3D LiDAR Mapping in Dynamic Environments using a 4D Implicit Neural Representation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/zhong2024cvpr.pdf)<br>:star:[code](https://github.com/PRBonn/4dNDF)
 * 文本和图像引导 4D 场景生成
   * [A Unified Approach for Text- and Image-guided 4D Scene Generation](https://arxiv.org/abs/2311.16854)<br>:house:[project](https://research.nvidia.com/labs/nxp/dream-in-4d/)
 * 4D视图合成

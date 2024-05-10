@@ -1255,7 +1255,7 @@
   * [Generalized Predictive Model for Autonomous Driving]()<br>:star:[code](https://github.com/OpenDriveLab/DriveAGI)
   * [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918)<br>:star:[code](https://github.com/BraveGroup/Drive-WM)<br>:house:[project](https://drive-wm.github.io/)
   * [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746)<br>:star:[code](https://github.com/yifanlu0227/ChatSim)<br>:house:[project](https://yifanlu0227.github.io/ChatSim/)
-  * [3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/zhong2024cvpr.pdf)<br>:point:[arxiv](https://arxiv.org/abs/2405.03388)<br>:star:[code](https://github.com/PRBonn/4dNDF)
+  * [3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/zhong2024cvpr.pdf)<br>:v:[arxiv](https://arxiv.org/abs/2405.03388)<br>:star:[code](https://github.com/PRBonn/4dNDF)
   * [PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios](https://wangjingbo1219.github.io/papers/CVPR2024_PACER_PLUS/pacer_plus.pdf)<br>:star:[code](https://github.com/IDC-Flash/PacerPlus)<br>:tv:[video](https://www.youtube.com/watch?v=Pq10Q_ZBOrw)
   * [Bootstrapping Autonomous Driving Radars with Self-Supervised Learning](https://arxiv.org/abs/2312.04519)<br>:star:[code](https://github.com/yiduohao/Radical)
   * [SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving](https://arxiv.org/abs/2403.17094)自动驾驶去雾

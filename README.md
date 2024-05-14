@@ -40,14 +40,10 @@
 
 -----------ASDF
 
-5月10日更新
-* [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534)<br>:star:[code](https://github.com/Dou-Yiming/TaRF/)<br>:house:[project](https://dou-yiming.github.io/TaRF)
-* [OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2405.05259)<br>:star:[code](https://github.com/ldkong1205/OpenESS)
-* [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/abs/2405.05256)
-* [Communication-Efficient Collaborative Perception via Information Filling with Codebook](https://arxiv.org/abs/2405.04966)
-* [Towards Accurate and Robust Architectures via Neural Architecture Search](https://arxiv.org/abs/2405.05502)
-* [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)
-* [Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation](https://arxiv.org/abs/2405.04356)
+5月14日更新
+* [FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment](https://arxiv.org/abs/2405.06887)
+* [G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping](https://arxiv.org/abs/2405.06828)<br>:star:[code](https://github.com/J-F-Cheng/G-FARS-3DPartGrouping)
+
 
 
 ## 全家桶
@@ -314,7 +310,7 @@
 ## Graph Generative Network(GNN/GCN)
 * GNN
   * [Domain Separation Graph Neural Networks for Saliency Object Ranking]()
-  * [GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs]()
+  * [GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs](https://arxiv.org/abs/2405.06849)
   * [FC-GNN: Recovering Reliable and Accurate Correspondences from Interferences]()
   * [DGC-GNN: Leveraging Geometry and Color Cues for Visual Descriptor-Free 2D-3D Matching](https://arxiv.org/abs/2306.12547)
   * [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://arxiv.org/abs/2312.00068)图生成网络
@@ -394,7 +390,7 @@
 * 文本检测
   * [OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition](http://arxiv.org/abs/2403.19128v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
   * [Bridging the Gap Between End-to-End and Two-Step Text Spotting](http://arxiv.org/abs/2404.04624v1)<br>:star:[code](https://github.com/mxin262/Bridging-Text-Spotting)
-  * [Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis]()
+  * [Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis](https://arxiv.org/abs/2405.07481)
 * 文档理解
   * [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](http://arxiv.org/abs/2404.05225v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LayoutLLM)
   * [HRVDA: High-Resolution Visual Document Assistant](http://arxiv.org/abs/2404.06918v1)
@@ -701,7 +697,7 @@
 * [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)
 * [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/abs/2405.05256)
 * [EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models](https://arxiv.org/pdf/2311.15596.pdf)<br>:star:[code](https://github.com/AdaCheng/EgoThink)<br>:house:[project](https://adacheng.github.io/EgoThink/)
-* [SPIN: Simultaneous Perception, Interaction and Navigation]()
+* [SPIN: Simultaneous Perception, Interaction and Navigation](https://arxiv.org/abs/2405.07991)
 * [MAFA: Managing False Negatives for Vision-Language Pre-training]()
 * [Visual In-Context Prompting](https://arxiv.org/abs/2311.13601)<br>:star:[code](https://github.com/UX-Decoder/DINOv)
 * [Semantics-aware Motion Retargeting with Vision-Language Models](https://arxiv.org/abs/2312.01964)
@@ -1472,6 +1468,8 @@
   * [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241)<br>:star:[code](https://github.com/sming256/AdaTAD)
   * [Low-power, Continuous Remote Behavioral Localization with Event Cameras](https://arxiv.org/abs/2312.03799)<br>:house:[project](https://tub-rip.github.io/eventpenguins/)
   * [Dual DETRs for Multi-Label Temporal Action Detection](http://arxiv.org/abs/2404.00653v1)
+* 动作质量评估
+  * [FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment](https://arxiv.org/abs/2405.06887)
 * 群体活动识别
   * [Bi-Causal: Group Activity Recognition via Bidirectional Causality]()
 * 动作预期
@@ -1489,7 +1487,7 @@
 * [GALA: Generating Animatable Layered Assets from a Single Scan](https://arxiv.org/abs/2401.12979)<br>:star:[code](https://github.com/snuvclab/GALA)<br>:house:[project](https://snuvclab.github.io/gala/)
 * [ShapeMatcher: Self-Supervised Joint Shape Canonicalization, Segmentation, Retrieval and Deformation](https://arxiv.org/abs/2311.11106)自监督关节形状规范化、分割、检索和变形
 * 手部
-  * [Authentic Hand Avatar from a Phone Scan via Universal Hand Model]()
+  * [Authentic Hand Avatar from a Phone Scan via Universal Hand Model](https://arxiv.org/abs/2405.07933)
   * [URHand: Universal Relightable Hands](http://arxiv.org/abs/2401.05334)<br>:house:[project](https://frozenburning.github.io/projects/urhand/)
   * [OHTA: One-shot Hand Avatar via Data-driven Implicit Priors](http://arxiv.org/abs/2402.18969v1)<br>:star:[code](https://github.com/zxz267/OHTA)<br>:house:[project](https://zxz267.github.io/OHTA/)
   * [BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics](https://arxiv.org/abs/2312.07937)<br>:star:[code](https://github.com/Godheritage/BOTH2Hands)<br>:house:[project](https://godheritage.github.io/)
@@ -1701,6 +1699,7 @@
   * [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.00901)
   * [What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions](https://arxiv.org/abs/2303.16990)
 
+
 <a name="11"/>
 
 ## 11.3D
@@ -1714,8 +1713,9 @@
 * [CAGE: Controllable Articulation GEneration](https://arxiv.org/abs/2312.09570)<br>:star:[code](https://github.com/3dlg-hcvc/cage)<br>:house:[project](https://3dlg-hcvc.github.io/cage/)3D
 * [Sparse views, Near light: A practical paradigm for uncalibrated point-light photometric stereo](https://arxiv.org/abs/2404.00098)
 * [Dispersed Structured Light for Hyperspectral 3D Imaging](https://arxiv.org/abs/2311.18287)
+* [G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping](https://arxiv.org/abs/2405.06828)<br>:star:[code](https://github.com/J-F-Cheng/G-FARS-3DPartGrouping)
 * [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/abs/2310.15008)<br>:house:[project](https://www.xxlong.site/Wonder3D/)
-* [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence]()<br>:star:[code](https://github.com/luhr2003/UniGarmentManip)服装操作
+* [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903)<br>:star:[code](https://github.com/luhr2003/UniGarmentManip)服装操作
 * [GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo](http://arxiv.org/abs/2404.07992v1)<br>:star:[code](https://github.com/Wuuu3511/GoMVS)<br>:star:[code](https://wuuu3511.github.io/gomvs/)
 * [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Priors]
 * [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior](https://arxiv.org/abs/2308.13223)<br>:house:[project](https://efficientdreamer.github.io/)
@@ -1723,7 +1723,7 @@
 * [Digital Life Project: Autonomous 3D Characters with Social Intelligence](https://arxiv.org/abs/2312.04547)<br>:house:[project](https://digital-life-project.com/)
 * [Image Sculpting: Precise Object Editing with 3D Geometry Control](https://arxiv.org/abs/2401.01702)<br>:house:[project](https://image-sculpting.github.io/)
 * [TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations](https://www.cs.utexas.edu/~huangqx/TutteNet_2024.pdf)3D
-* [Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception]()
+* [Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception](https://arxiv.org/abs/2405.07201)
 * [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521)<br>:star:[code](https://github.com/buaacyw/GaussianEditor)<br>:house:[project](https://buaacyw.github.io/gaussian-editor/)
 * [ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images](https://arxiv.org/abs/2404.15707)
 * [Differentiable Display Photometric Stereo](https://arxiv.org/abs/2306.13325)
@@ -1919,7 +1919,7 @@
   * [Diversified and Personalized Multi-rater Medical Image Segmentation](http://arxiv.org/abs/2403.13417v1)<br>:star:[code](https://github.com/ycwu1997/D-Persona)
   * [Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding](http://arxiv.org/abs/2403.18271v1)<br>:star:[code](https://github.com/Cccccczh404/H-SAM)
   * [Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation]()
-  * [EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation]()
+  * [EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation](https://arxiv.org/abs/2405.06880)
   * [Tyche: Stochastic In-Context Learning for Medical Image Segmentation](https://arxiv.org/abs/2401.13650)
   * [Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention](https://arxiv.org/abs/2405.06284)<br>:house:[project](https://skawngus1111.github.io/MADGNet_project/)
   * [Clustering Propagation for Universal Medical Image Segmentation](http://arxiv.org/abs/2403.16646v1)
@@ -2974,6 +2974,7 @@
 * [SVDTree: Semantic Voxel Diffusion for Single Image Tree Reconstruction](https://jianweiguo.net/publications/papers/2024_CVPR_SVDTree_main.pdf)<br>:star:[code](https://github.com/RyuZhihao123/SVDTree)单图像树重建
 * [Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair]()去偏见
 * [BoQ: A Place is Worth a Bag of learnable Queries]()
+* [BoQ: A Place is Worth a Bag of Learnable Queries](https://arxiv.org/abs/2405.07364)
 * [Distilled Datamodel with Reverse Gradient Matching](https://export.arxiv.org/abs/2404.14006)
 * [Towards Calibrated Multi-label Deep Neural Networks]()
 * [BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation]()

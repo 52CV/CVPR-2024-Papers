@@ -41,8 +41,8 @@
 -----------ASDF
 
 5月14日更新
-* [FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment](https://arxiv.org/abs/2405.06887)
-* [G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping](https://arxiv.org/abs/2405.06828)<br>:star:[code](https://github.com/J-F-Cheng/G-FARS-3DPartGrouping)
+* [Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/abs/2405.08815)<br>:star:[code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)<br>:house:[project](https://zxp46.github.io/cluster-masking/)
+* [StraightPCF: Straight Point Cloud Filtering](https://arxiv.org/abs/2405.08322)
 
 
 
@@ -694,6 +694,7 @@
 * [MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer](https://arxiv.org/abs/2403.02991)
 * [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/abs/2312.00785)<br>:house:[project](https://yutongbai.com/lvm.html)大型视觉模型
 * [Seeing the Unseen: Visual Common Sense for Semantic Placement](https://arxiv.org/abs/2401.07770)
+* [Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/abs/2405.08815)<br>:star:[code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)<br>:house:[project](https://zxp46.github.io/cluster-masking/)
 * [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)
 * [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/abs/2405.05256)
 * [EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models](https://arxiv.org/pdf/2311.15596.pdf)<br>:star:[code](https://github.com/AdaCheng/EgoThink)<br>:house:[project](https://adacheng.github.io/EgoThink/)
@@ -1287,6 +1288,7 @@
 ## 16.Point Cloud(点云)
 * [Single-View Scene Point Cloud Human Grasp Generation]()
 * [LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling]()
+* [StraightPCF: Straight Point Cloud Filtering](https://arxiv.org/abs/2405.08322)
 * [CurveCloudNet: Processing Point Clouds with 1D Structure](https://arxiv.org/abs/2303.12050)
 * [Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform](http://arxiv.org/abs/2404.11156v1)
 * [Multiway Point Cloud Mosaicking with Diffusion and Global Optimization]()<br>:tv:[video](https://www.youtube.com/watch?v=dnzhKfPIoWg)
@@ -2772,7 +2774,7 @@
   * [In-Context Matting](http://arxiv.org/abs/2403.15789v1)<br>:star:[code](https://github.com/tiny-smart/in-context-matting)
   * [Unifying Automatic and Interactive Matting with Pretrained ViTs]()
 * 少样本分割
-  * [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation]()
+  * [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation](https://arxiv.org/abs/2405.08458)
   * [Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2404.10322v1)<br>:star:[code](https://github.com/Matt-Su/DR-Adapter)
   * [Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach](http://arxiv.org/abs/2404.11732v1)
   * [Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2402.17614)

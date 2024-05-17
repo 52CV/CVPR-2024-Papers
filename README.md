@@ -40,9 +40,9 @@
 
 -----------ASDF
 
-5月14日更新
-* [Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/abs/2405.08815)<br>:star:[code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)<br>:house:[project](https://zxp46.github.io/cluster-masking/)
-* [StraightPCF: Straight Point Cloud Filtering](https://arxiv.org/abs/2405.08322)
+5月17日更新
+* [Bilateral Event Mining and Complementary for Event Stream Super-Resolution](https://arxiv.org/abs/2405.10037)
+* [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713)
 
 
 
@@ -198,6 +198,7 @@
   * [THRONE: A Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models]()
   * [M3-UDA: A New Benchmark for Unsupervised Domain Adaptive Fetal Cardiac Structure Detection]()<br>:star:[code](https://github.com/LiwenWang919/M3-UDA)
   * [DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos](https://arxiv.org/abs/2312.09523)现实视频中远程点跟踪的基准
+  * [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713)
   * [RoDLA: Benchmarking the Robustness of Document Layout Analysis Models](http://arxiv.org/abs/2403.14442v1)<br>:star:[code](https://yufanchen96.github.io/projects/RoDLA)
   * [ConCon-Chi: Concept-Context Chimera Benchmark for Personalized Vision-Language Tasks]
   * [Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark](http://arxiv.org/abs/2403.18821v1)<br>:star:[code](https://facebookresearch.github.io/real-acoustic-fields/)
@@ -455,6 +456,7 @@
   * [Disentangled Pre-training for Human-Object Interaction Detection](http://arxiv.org/abs/2404.01725v1)<br>:star:[code](https://github.com/xingaoli/DP-HOI)
   * [GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://arxiv.org/abs/2401.00929)<br>:house:[project](https://genh2r.github.io/)
   * [Learning from Observer Gaze: Zero-shot Attention Prediction Oriented by Human-Object Interaction Recognition]()人机交互
+  * [Learning from Observer Gaze:Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition](https://arxiv.org/abs/2405.09931)<br>:house:[project](https://yuchen2199.github.io/Interactive-Gaze/)
   * [Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation](https://arxiv.org/abs/2312.07063)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm)
   * 3D 人物交互
     * [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)<br>:house:[project](https://afterjourney00.github.io/IM-HOI.github.io/)
@@ -722,7 +724,7 @@
 * [Probing and Mitigating Intersectional Social Biases in Vision-Language Models with Counterfactual Examples](https://arxiv.org/abs/2312.00825)
 * [Beyond Text: Frozen Large Language Models in Visual Signal Comprehension](http://arxiv.org/abs/2403.07874v1)<br>:star:[code](https://github.com/zh460045050/V2L-Tokenizer)
 * [Contrasting intra-modal and ranking cross-modal hard negatives to enhance visio-linguistic compositional understanding](https://arxiv.org/abs/2306.08832)<br>:star:[code](https://github.com/lezhang7/Enhance-FineGrained)视觉语言构图理解
-* [FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models]()
+* [FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models](https://arxiv.org/abs/2405.10286)
 * [Enhancing Vision-Language Pre-training with Rich Supervisions](https://arxiv.org/abs/2403.03346)
 * [Enhancing Vision-Language Pretraining with Rich Supervisions]
 * [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)<br>:house:[project](https://llava-vl.github.io/)
@@ -858,7 +860,7 @@
 * 多目标跟踪
   * [Multi-Object Tracking in the Dark](https://arxiv.org/abs/2405.06600)
   * [Towards Generalizable Multi-Object Tracking]()
-  * [ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association]()
+  * [ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association](https://arxiv.org/abs/2405.08909)
   * [DeconfuseTrack:Dealing with Confusion for Multi-Object Tracking](https://arxiv.org/abs/2403.02767)
   * [Delving into the Trajectory Long-tail Distribution for Muti-object Tracking](http://arxiv.org/abs/2403.04700v1)<br>:star:[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)
   * [Self-Supervised Multi-Object Tracking with Path Consistency](http://arxiv.org/abs/2404.05136v1)
@@ -872,7 +874,7 @@
 ## 24.ML(机器学习)
 * [Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision]()<br>:thumbsup:[摘要](https://sai.jlu.edu.cn/info/1026/4601.htm)
 * 对抗
-  * [Infrared Adversarial Car Stickers]()
+  * [Infrared Adversarial Car Stickers](https://arxiv.org/abs/2405.09924)
   * [Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples]()
   * [PAD: Patch-Agnostic Defense against Adversarial Patch Attacks](https://export.arxiv.org/abs/2404.16452)<br>:star:[code](https://github.com/Lihua-Jing/PAD)
   * [Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training](http://arxiv.org/abs/2404.04647v1)
@@ -1413,7 +1415,7 @@
 * 开放词汇目标检测
   * [Exploring Region-Word Alignment in Built-in Detector for Open-Vocabulary Object Detection]()
   * [OVMR: Open-Vocabulary Recognition with Multi-Modal References]()开放词汇识别
-  * [SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection]()
+  * [SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection](https://arxiv.org/abs/2405.10053)
   * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)<br>:star:[code](https://github.com/AILab-CVC/YOLO-World)
   * [Retrieval-Augmented Open-Vocabulary Object Detection](http://arxiv.org/abs/2404.05687v1)<br>:star:[code](https://github.com/mlvlab/RALF)
   * [Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)<br>:star:[code](https://github.com/xiaofeng94/SAS-Det)
@@ -2048,7 +2050,7 @@
   * [Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation](https://arxiv.org/abs/2401.04728)<br>:house:[project](https://xiyichen.github.io/morphablediffusion/)
 * 说话头合成
   * [Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](http://arxiv.org/abs/2402.17364v1)
-  * [Faces that Speak: Jointly Synthesising Talking Face and Speech from Text]()
+  * [Faces that Speak: Jointly Synthesising Talking Face and Speech from Text](https://arxiv.org/abs/2405.10272)
   * [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](http://arxiv.org/abs/2403.00274v1)
   * [SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)<br>:star:[code](https://github.com/ziqiaopeng/SyncTalk)<br>:house:[project](https://ziqiaopeng.github.io/synctalk/)
   * [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)<br>:star:[code](https://github.com/modelscope/facechain)
@@ -2493,7 +2495,7 @@
   * [AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/abs/2312.03816)<br>:star:[code](https://github.com/zhang-zx/AVID)<br>:house:[project](https://zhang-zx.github.io/AVID/)
   * [Towards Language-Driven Video Inpainting via Multimodal Large Language Models](https://arxiv.org/abs/2401.10226)<br>:house:[project](https://jianzongwu.github.io/projects/rovi)
 * 视频去雾
-  * [Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance]()
+  * [Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance](https://arxiv.org/abs/2405.09996)
 * 视频去渲染
   * [Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering]()
 * 视频去模糊
@@ -2549,6 +2551,7 @@
   * [SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image](https://arxiv.org/abs/2403.20018)<br>:star:[code](https://github.com/WU-CVGL/SCINeRF)
 
 
+
 <a name="4"/>
 
 ## 4.Image/Video Super-Resolution(图像超分辨率)
@@ -2577,6 +2580,7 @@
 * [CoSeR: Bridging Image and Language for Cognitive Super-Resolution](https://arxiv.org/abs/2311.16512)<br>:star:[code](https://github.com/VINHYU/CoSeR)<br>:house:[project](https://coser-main.github.io/)
 * [Navigating Beyond Dropout: An Intriguing Solution towards Generalizable Image Super-Resolution]
 * [Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution](https://arxiv.org/abs/2402.18929)
+* [Bilateral Event Mining and Complementary for Event Stream Super-Resolution](https://arxiv.org/abs/2405.10037)
 * VSR
   * [Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution](http://arxiv.org/abs/2403.17000v1)
   * [Enhancing Video Super-Resolution via Implicit Resampling-based Alignment](https://arxiv.org/abs/2305.00163)
@@ -2736,7 +2740,7 @@
   * [Mudslide: A Universal Nuclear Instance Segmentation Method]()
   * [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895)
   * [SAI3D: Segment Any Instance in 3D Scenes](https://arxiv.org/abs/2312.11557)<br>:house:[project](https://yd-yin.github.io/SAI3D)
-  * [DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data]()
+  * [DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data](https://arxiv.org/abs/2405.10185)
   * [FISBe: A real-world benchmark dataset for instance segmentation of long-range thin filamentous structures](http://arxiv.org/abs/2404.00130v1)<br>:star:[code](https://kainmueller-lab.github.io/fisbe)
   * [Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge](http://arxiv.org/abs/2404.01013v1)
   * 开放词汇实例分割
@@ -2967,7 +2971,7 @@
 * [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067)
 * [Unified Entropy Optimization for Open-Set Test-Time Adaptation](https://arxiv.org/abs/2404.06065)
 * [IIRP-Net: Iterative Inference Residual Pyramid Network for Enhanced Image Registration]()图像配准
-* [Generative Unlearning for Any Identity]()<br>:star:[code](https://github.com/KHU-AGI/GUIDE)
+* [Generative Unlearning for Any Identity](https://arxiv.org/abs/2405.09879)<br>:star:[code](https://github.com/KHU-AGI/GUIDE)
 * [Error Detection in Egocentric Procedural Task Videos]()
 * [Enhancing Multimodal Cooperation via Sample-level Modality Valuation]
 * [Enhancing Multimodal Cooperation via Fine-grained Modality Valuation](https://arxiv.org/abs/2309.06255)<br>:star:[code](https://github.com/GeWu-Lab/Valuate-and-Enhance-Multimodal-Cooperation)
@@ -2979,7 +2983,7 @@
 * [BoQ: A Place is Worth a Bag of Learnable Queries](https://arxiv.org/abs/2405.07364)
 * [Distilled Datamodel with Reverse Gradient Matching](https://export.arxiv.org/abs/2404.14006)
 * [Towards Calibrated Multi-label Deep Neural Networks]()
-* [BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation]()
+* [BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation](https://arxiv.org/abs/2405.09546)
 * [MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation]()
 * [Gradient-based Parameter Selection for Efficient Fine-Tuning](https://arxiv.org/abs/2312.10136)
 * [In2SET: Intra-Inter Similarity Exploiting Transformer for Dual-Camera Compressive Hyperspectral Imaging](https://arxiv.org/abs/2312.13319)

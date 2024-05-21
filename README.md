@@ -40,11 +40,10 @@
 
 -----------ASDF
 
-5月17日更新
-* [Bilateral Event Mining and Complementary for Event Stream Super-Resolution](https://arxiv.org/abs/2405.10037)
-* [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713)
-
-
+5月21日更新
+* [Multi-View Attentive Contextualization for Multi-View 3D Object Detection](https://arxiv.org/abs/2405.12200)
+* [Diff-BGM: A Diffusion Model for Video Background Music Generation](https://arxiv.org/abs/2405.11913)视频背景音乐生成的扩散模型
+* [Depth Prompting for Sensor-Agnostic Depth Estimation](https://arxiv.org/abs/2405.11867)
 
 ## 全家桶
 * [UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599)<br>:star:[code](https://github.com/AILab-CVC/UniRepLKNet)用于音频、视频、点云、时间序列和图像识别的通用感知大内核卷积网络
@@ -1341,7 +1340,6 @@
 * 点云质量评估
   * [Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2403.10066)无参考点云质量评估
 
-
 <a name="15"/>
 
 ## 15.Object Detection(目标检测)
@@ -1373,6 +1371,7 @@
   * [CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection]()
   * [BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection](https://arxiv.org/pdf/2312.01696.pdf)
   * [Commonsense Prototype for Outdoor Unsupervised 3D Object Detection](https://export.arxiv.org/abs/2404.16493)<br>:star:[code](https://github.com/hailanyi/CPD)<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+  * [Multi-View Attentive Contextualization for Multi-View 3D Object Detection](https://arxiv.org/abs/2405.12200)
   * [An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains](https://arxiv.org/abs/2402.17562)
   * [SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects](https://arxiv.org/abs/2403.20318)<br>:star:[code](https://github.com/abhi1kumar/SeaBird)
   * [HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
@@ -1642,9 +1641,9 @@
   * [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051)<br>:star:[code](https://github.com/RenShuhuai-Andy/TimeChat)
   * [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046)<br>:star:[code](https://github.com/PKU-YuanGroup/Chat-UniVi)
 * 视频摘要
-  * ["Previously on ..." From Recaps to Story Summarization]()
+  * ["Previously on ..." From Recaps to Story Summarization](https://arxiv.org/abs/2405.11487)<br>:house:[project](https://katha-ai.github.io/projects/recap-story-summ/)
   * [Scaling Up Video Summarization Pretraining with Large Language Models](https://arxiv.org/abs/2404.03398)
-  * [CSTA: CNN-based Spatiotemporal Attention for Video Summarization]()<br>:star:[code](https://github.com/thswodnjs3/CSTA)
+  * [CSTA: CNN-based Spatiotemporal Attention for Video Summarization](https://arxiv.org/abs/2405.11905)<br>:star:[code](https://github.com/thswodnjs3/CSTA)
 * 视频重建
   * [HDRFlow: Real-Time HDR Video Reconstruction with Large Motions](http://arxiv.org/abs/2403.03447v1)<br>:star:[code](https://openimaginglab.github.io/HDRFlow/)
 * 视频表示
@@ -1652,7 +1651,7 @@
 * 视频判读
   * [Visual Objectification in Films: Towards a New AI Task for Video Interpretation](https://arxiv.org/abs/2401.13296)
 * 电影描述
-  * [MICap: A Unified Model for Identity-aware Movie Descriptions]()
+  * [MICap: A Unified Model for Identity-aware Movie Descriptions](https://arxiv.org/abs/2405.11483)<br>:house:[project](https://katha-ai.github.io/projects/micap/)
 * 视频监控
   * [Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges](https://arxiv.org/abs/2309.13925)<br>:sunflower:[dataset](https://xuange923.github.io/Surveillance-Video-Understanding)
 * 视频预测
@@ -1820,6 +1819,7 @@
 * 深度估计
   * [Cross-spectral Gated-RGB Stereo Depth Estimation]()
   * [Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimation]()
+  * [Depth Prompting for Sensor-Agnostic Depth Estimation](https://arxiv.org/abs/2405.11867)
   * [Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion](https://arxiv.org/abs/2312.12471)<br>:star:[code](https://github.com/zkawfanx/Atlantis)
   * [On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation](http://arxiv.org/abs/2404.08540v1)<br>:house:[project](https://agneetchatterjee.com/robustness_depth_lang/)
   * [Mind The Edge: Refining Depth Edges in Sparsely-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2212.05315)<br>:star:[code](https://github.com/liortalker/MindTheEdge)
@@ -1886,8 +1886,6 @@
 * 3D 形状匹配
   * [SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency]()
 
-
-
 <a name="10"/>
 
 ## 10.Medical Image Progress(医学影响处理)
@@ -1948,7 +1946,7 @@
 * 生存预测
   * [Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction](https://github.com/mahmoodlab/SurvPath)<br>:star:[code](https://github.com/mahmoodlab/SurvPath)
 * 计算病理学
-  * [Transcriptomics-guided Slide Representation Learning in Computational Pathology]()
+  * [Transcriptomics-guided Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11618)
   * [XFibrosis: Explicit Vessel-Fiber Modeling for Fibrosis Staging from Liver Pathology Images]()
 * 组织病理学
   * [SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology](https://arxiv.org/abs/2312.15010)
@@ -2109,6 +2107,7 @@
   * [Residual Learning in Diffusion Models]
   * [FreeU: Free Lunch in Diffusion U-Net](https://arxiv.org/abs/2309.11497)<br>:star:[code](https://github.com/ChenyangSi/FreeU)<br>:house:[project](https://chenyangsi.top/FreeU/)
   * [VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models](https://arxiv.org/abs/2401.09047)<br>:star:[code](https://github.com/AILab-CVC/VideoCrafter)<br>:house:[project](https://ailab-cvc.github.io/videocrafter)
+  * [Diff-BGM: A Diffusion Model for Video Background Music Generation](https://arxiv.org/abs/2405.11913)视频背景音乐生成的扩散模型
   * [Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models](https://arxiv.org/abs/2312.10835v2)
   * [Shadow Generation for Composite Image Using Diffusion Model](https://arxiv.org/abs/2403.15234)<br>:star:[code](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2)
   * [Alchemist: Parametric Control of Material Properties with Diffusion Models](https://arxiv.org/abs/2312.02970)
@@ -2879,7 +2878,7 @@
 * [FADES: Fair Disentanglement with Sensitive Relevance]()
 * [Dataset Distillation via Disentangled Diffusion Model]()
 * [Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion]()
-* [Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology]()
+* [Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11643)
 * [Tune-An-Ellipse: CLIP Has Potential to Find What You Want]()
 * [Task-Driven Wavelets using Constrained Empirical Risk Minimization]()
 * [TurboSL: Dense, Accurate and Fast 3D by Neural Inverse Structured Light]()

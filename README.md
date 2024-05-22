@@ -886,7 +886,7 @@
   * [NAPGuard: Towards Detecting Naturalistic Adversarial Patches]()
   * [Focus on Hiders: Exploring Hidden Threats for Enhancing Adversarial Training](https://arxiv.org/abs/2312.07067)
   * [Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transfomers]()后门攻击
-  * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()
+  * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)
   * [Semantic-Aware Multi-Label Adversarial Attacks]()对抗攻击
   * [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://arxiv.org/abs/2209.11964v2)
   * [Improving Transferable Targeted Adversarial Attacks with Model Self-Enhancement]()对抗攻击
@@ -1804,7 +1804,7 @@
 * 表面法线估计
   * [Rethinking Inductive Biases for Surface Normal Estimation](http://arxiv.org/abs/2403.00712v1)<br>:star:[code](https://github.com/baegwangbin/DSINE)
 * 特征匹配
-  * [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance]()
+  * [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/abs/2405.12979)
   * [MESA: Matching Everything by Segmenting Anything](https://arxiv.org/abs/2401.16741)
   * [Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](http://arxiv.org/abs/2403.04765v1)<br>:star:[code](https://zju3dv.github.io/efficientloftr)
 * 三维检索
@@ -2182,7 +2182,7 @@
   * 文本-图像
     * [Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis]()
     * [Learning Multi-dimensional Human Preference for Text-to-Image Generation]()
-    * [Personalized Residuals for Concept-Driven Text-to-Image Generation]()
+    * [Personalized Residuals for Concept-Driven Text-to-Image Generation](https://arxiv.org/abs/2405.12978)<br>:house:[project](https://cusuh.github.io/personalized-residuals)
     * [Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models]()
     * [Customization Assistant for Text-to-image Generation](https://arxiv.org/abs/2312.03045)
     * [JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation]()

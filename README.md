@@ -36,7 +36,14 @@
 |[21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#21)|[22.Deepfake Detection](#22)|[23.Sound(语音处理)](#23)|[24.ML(机器学习)](#24)|
 |[25.Object Tracking(目标跟踪)](#25)|[26.Information Security(信息安全)](#25)|[27.Vision-Language(视觉语言)](#27)|[28.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#28)|
 |[29.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#29)|[30.Person Re-Id(人员重识别)](#30)|[31.Edge Detection(边缘检测)](#31)|[32.NLP(自然语言处理)](#32)|
-|[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|
+|[33.NeRF](#33)|[34.Human–Computer Interaction(人机交互)](#34)|[35.Scene Understanding(场景理解)](#35)|[36.4D Reconstruction(4D 重建)](#36)|
+|[37.OCR](#37)|[38.VQA(视觉问答)](#38)|[39.Motion Generation(动作生成)](#39)|[40.Scene Graph Generation(场景图生成)](#40)|
+|[41.Graph Generative Network(GNN/GCN)](#41)|[42.Image Retrieval(图像检索)](#42)|[43.Image Matching(图像匹配)](#43)|[44.Image Fusion(图像融合)](#44)|
+|[45.NAS(神经架构搜索)](#45)|[46.Industrial Anomaly Detection(工业缺陷检测)](#46)|[47.Dense Predictions(密集预测)](#47)|[48.Semi/self-supervised learning(半/自监督)](#48)|
+|[49.Dataset(数据集)](#49)|[50.OOD Detection](#50)|[51.Style Transfer(风格迁移)](#51)|[52.Biomedical](#52)|
+|[53.Light-Field(光场)](#53)|[54.ViT](#54)|[55.REC(指代表达理解)](#55)|[56.Visual emotion recognition(视觉情绪识别)](#56)|
+|[57.Visual Relationship Detection(视觉关系检测)](#57)|[58.Fisheye Images(鱼眼图像)](#58)|[59.Clustering(聚类)](#59)|[60.Sketch(草图)](#60)|
+|[61.Gaze](#61)|[62.全家桶](#62)|
 
 -----------ASDF
 
@@ -45,45 +52,61 @@
 * [Diff-BGM: A Diffusion Model for Video Background Music Generation](https://arxiv.org/abs/2405.11913)视频背景音乐生成的扩散模型
 * [Depth Prompting for Sensor-Agnostic Depth Estimation](https://arxiv.org/abs/2405.11867)
 
-## 全家桶
+<a name="62"/>
+
+## 62.全家桶
 * [UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599)<br>:star:[code](https://github.com/AILab-CVC/UniRepLKNet)用于音频、视频、点云、时间序列和图像识别的通用感知大内核卷积网络
 * [GPT4Point: A Unified Framework for Point-Language Understanding and Generation](https://arxiv.org/abs/2312.02980)点语言理解和生成的统一框架
 * [AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond](https://arxiv.org/abs/2311.16468)用于运动理解、规划、生成等的一体化框架
 
-## Gaze
+<a name="61"/>
+
+## 61.Gaze
 * [Sharingan: A Transformer Architecture for Multi-Person Gaze Following]
 * [Sharingan: A Transformer-based Architecture for Gaze Following](https://arxiv.org/abs/2310.00816)目光跟随
 
-## Sketch(草图)
+<a name="60"/>
+
+## 60.Sketch(草图)
 * [What Sketch Explainability Really Means for Downstream Tasks](http://arxiv.org/abs/2403.09480v1)
 * [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344)
 * [Open Vocabulary Semantic Scene Sketch Understanding](https://arxiv.org/abs/2312.12463)草图理解
 * [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678)
 
-## Clustering(聚类)
+<a name="59"/>
+
+## 59.Clustering(聚类)
 * [MoDE: CLIP Data Experts via Clustering]()聚类
 * 多视图聚类
   * [Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios](https://arxiv.org/abs/2303.17245)
   * [Differentiable Information Bottleneck for Deterministic Multi-view Clustering](https://arxiv.org/abs/2403.15681)
 
+<a name="58"/>
 
-## Fisheye Images(鱼眼图像)
+## 58.Fisheye Images(鱼眼图像)
 * [Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption]()鱼眼图像
 
-## Visual Relationship Detection(视觉关系检测)
+<a name="57"/>
+
+## 57.Visual Relationship Detection(视觉关系检测)
 * [Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection](http://arxiv.org/abs/2403.17709v1)<br>:star:[code](https://github.com/mlvlab/SpeaQ)
 
-## Visual emotion recognition(视觉情绪识别)
+<a name="56"/>
+
+## 56.Visual emotion recognition(视觉情绪识别)
 * [EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning](https://export.arxiv.org/abs/2404.16670)<br>:star:[code](https://github.com/aimmemotion/EmoVIT)视觉情感理解
 * 多模态意图识别
   * [Contextual Augmented Global Contrast for Multimodal Intent Recognition]()
 
-## Referring Expression Comprehension(指代表达理解)
+<a name="55"/>
+
+## 55.Referring Expression Comprehension(指代表达理解)
 * [ScanFormer: Referring Expression Comprehension by Iteratively Scanning]()
 * [Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/abs/2311.17048)<br>:star:[code](https://github.com/Show-han/Zeroshot_REC)零样本指代表达理解
 
+<a name="54"/>
 
-## Vision Transformers
+## 54.Vision Transformers
 * [Dexterous Grasp Transformer]()
 * [Mean-Shift Feature Transformer]()
 * [MLP Can Be A Good Transformer Learner](https://arxiv.org/abs/2404.05657)<br>:star:[code](https://github.com/sihaoevery/lambda_vit)
@@ -110,8 +133,9 @@
 * [Making Vision Transformers Truly Shift-Equivariant](https://arxiv.org/abs/2305.16316)
 * [Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://arxiv.org/abs/2401.14405)<br>:star:[code](https://github.com/AILab-CVC/M2PT)
 
+<a name="53"/>
 
-## Light-Field(光场)
+## 53.Light-Field(光场)
 * [Time-Efficient Light-Field Acquisition Using Coded Aperture and Events](http://arxiv.org/abs/2403.07244v1)
 * [Event-based Light Field Project](https://arxiv.org/abs/2403.07244)<br>:house:[project](https://www.fujii.nuee.nagoya-u.ac.jp/Research/EventLF/)
 * [Continuous Pose for Monocular Cameras in Neural Implicit Representation](https://arxiv.org/abs/2311.17119)<br>:star:[code](https://github.com/qimaqi/Continuous-Pose-in-NeRF)
@@ -123,14 +147,17 @@
 * 快照压缩成像
   * [DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model](https://arxiv.org/abs/2311.11417)
 
+<a name="52"/>
 
-## Biomedical
+## 52.Biomedical
 * [ManiFPT: Defining and Analyzing Fingerprints of Generative Models](https://arxiv.org/abs/2402.10401)
 * [Flexible Biometrics Recognition: Bridging the Multimodality Gap through Attention, Alignment and Prompt Tuning]()生物识别
 * 人员识别
   * [Activity-Biometrics: Person Identification from Daily Activities](http://arxiv.org/abs/2403.17360v1)<br>:star:[code](https://github.com/sacrcv/Activity-Biometrics/)
 
-## Style Transfer(风格迁移)
+<a name="51"/>
+
+## 51.Style Transfer(风格迁移)
 * [Z∗: Zero-shot Style Transfer via Attention Rearrangement](https://arxiv.org/abs/2311.16491)
 * [MoST: Motion Style Transformer between Diverse Action Contents](http://arxiv.org/abs/2403.06225v1)<br>:star:[code](https://github.com/Boeun-Kim/MoST)
 * [ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation](https://arxiv.org/abs/2312.02109)<br>:star:[code](https://github.com/cardinalblue/ArtAdapter)<br>:house:[project](https://cardinalblue.github.io/artadapter.github.io/)
@@ -139,8 +166,9 @@
 * 零样本文本驱动运动迁移
   * [Space-time Diffusion Features for Zero-shot Text-driven Motion Transfer](https://arxiv.org/abs/2311.17009)<br>:house:[project](https://diffusion-motion-transfer.github.io/)
 
+<a name="50"/>
 
-## OOD Detection
+## 50.OOD Detection
 * [Test-Time Linear Out-of-Distribution Detection]()
 * [Segment Every Out-of-Distribution Object](https://arxiv.org/abs/2311.16516)
 * [Label-Efficient Group Robustness via Out-of-Distribution Concept Curation]()
@@ -154,7 +182,9 @@
   * [Hyperbolic Anomaly Detection]()
   * [Universal Novelty Detection through Adaptive Contrastive Learning]()
 
-## Dataset(数据集)
+<a name="49"/>
+
+## 49.Dataset(数据集)
 * 数据集
   * [Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset]()
   * [Advancing Saliency Ranking with Human Fixations: Dataset, Models and Benchmarks]()
@@ -210,7 +240,9 @@
   * [How to Train Neural Field Representations: A Comprehensive Study and Benchmark](https://arxiv.org/abs/2312.10531)
   * [OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM](https://arxiv.org/abs/2402.09181)
 
-## Semi/self-supervised learning(半/自监督)
+<a name="48"/>
+
+## 48.Semi/self-supervised learning(半/自监督)
 * 弱监督学习
   * 部分标签学习
     * [CroSel: Cross Selection of Confident Pseudo Labels for Partial-Label Learning](https://arxiv.org/abs/2303.10365)部分标签学习-弱监督学习问题
@@ -230,7 +262,9 @@
 * 无监督学习
   * [Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos]()
 
-## Dense Predictions(密集预测)
+<a name="47"/>
+
+## 47.Dense Predictions(密集预测)
 * [Efficient Multitask Dense Predictor via Binarization]()密集预测
 * [Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models]()
 * [Exploiting Diffusion Prior for Generalizable Dense Prediction](https://arxiv.org/abs/2311.18832)<br>:house:[project](https://shinying.github.io/dmp)
@@ -238,8 +272,9 @@
 * [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](http://arxiv.org/abs/2403.17749v1)<br>:star:[code](https://github.com/YuqiYang213/MLoRE)
 
 
+<a name="46"/>
 
-## Industrial Anomaly Detection(工业缺陷检测)
+## 46.Industrial Anomaly Detection(工业缺陷检测)
 * [Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection](https://arxiv.org/abs/2310.12790)<br>:star:[code](https://github.com/mala-lab/AHL)
 * 异常检测
   * [Supervised Anomaly Detection for Complex Industrial Images]()
@@ -256,9 +291,9 @@
   * [Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection](https://arxiv.org/abs/2403.12580)<br>:star:[code](https://github.com/TencentYoutuResearch/AnomalyDetection_Real-IAD)
   * [Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network](https://arxiv.org/abs/2311.14897)<br>:star:[code](https://github.com/Chopper-233/Anomaly-ShapeNet)
 
+<a name="45"/>
 
-
-## Neural Architecture Search(神经架构搜索)
+## 45.Neural Architecture Search(神经架构搜索)
 * [Towards Accurate and Robust Architectures via Neural Architecture Search](https://arxiv.org/abs/2405.05502)
 * [Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach](http://arxiv.org/abs/2403.11380v1)
 * [Building Optimal Neural Architectures using Interpretable Knowledge](http://arxiv.org/abs/2403.13293v1)<br>:star:[code](https://github.com/Ascend-Research/AutoBuild)
@@ -267,7 +302,9 @@
 * [Insights from the Use of Previously Unseen Neural Architecture Search Datasets](https://arxiv.org/abs/2404.02189)
 * [FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer](https://arxiv.org/abs/2403.12821)<br>:star:[code](http://github.com/y0ngjaenius/CVPR2024_FLOWERFormer)
 
-## Image Fusion(图像融合)
+<a name="44"/>
+
+## 44.Image Fusion(图像融合)
 * [Equivariant Multi-Modality Image Fusion](https://arxiv.org/abs/2305.11443)图像融合
 * [Task-Customized Mixture of Adapters for General Image Fusion](http://arxiv.org/abs/2403.12494v1)<br>:star:[code](https://github.com/YangSun22/TC-MoA)
 * [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](http://arxiv.org/abs/2403.16387v1)<br>:star:[code](https://github.com/XunpengYi/Text-IF)
@@ -276,10 +313,14 @@
 * 红外和可见光图像融合
   * [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion]()
 
-## Image Matching(图像匹配)
+<a name="43"/>
+
+## 43.Image Matching(图像匹配)
 * [XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/abs/2404.19174)<br>:house:[project](http://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24)图像匹配
 
-## Image Retrieval(图像检索)
+<a name="42"/>
+
+## 42.Image Retrieval(图像检索)
 * [Language-only Training of Zero-shot Composed Image Retrieval]()
 * [Evaluating Transferability in Retrieval Tasks: An Approach Using MMD and Kernel Methods]()
 * [Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval](http://arxiv.org/abs/2403.16005v1)
@@ -307,7 +348,9 @@
   * [How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?](http://arxiv.org/abs/2403.07203v1)<br>:star:[code](https://subhadeepkoley.github.io/AbstractAway)
   * [Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers](http://arxiv.org/abs/2403.07214v1)<br>:house:[project](https://subhadeepkoley.github.io/DiffusionZSSBIR)  
 
-## Graph Generative Network(GNN/GCN)
+<a name="41"/>
+
+## 41.Graph Generative Network(GNN/GCN)
 * GNN
   * [Domain Separation Graph Neural Networks for Saliency Object Ranking]()
   * [GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs](https://arxiv.org/abs/2405.06849)
@@ -317,7 +360,9 @@
 * GCN
   * [Learning for Transductive Threshold Calibration in Open-World Recognition](https://arxiv.org/abs/2305.12039)
 
-## Scene Graph Generation(场景图生成)
+<a name="40"/>
+
+## 40.Scene Graph Generation(场景图生成)
 * [Leveraging Predicate and Triplet Learning for Scene Graph Generation]()
 * [OED: Towards One-stage End-to-End Dynamic Scene Graph Generation]()
 * [CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning]()SGG
@@ -330,7 +375,9 @@
 * [LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation](https://arxiv.org/abs/2310.10404)SGG
 
 
-## Motion Generation(动作生成)
+<a name="39"/>
+
+## 39.Motion Generation(动作生成)
 * [Programmable Motion Generation for Open-set Motion Control Tasks]()
 * [Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance](http://arxiv.org/abs/2403.18036v1)
 * [AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents](https://arxiv.org/abs/2403.12835)
@@ -354,7 +401,9 @@
   * [MultiPhys: Multi-Person Physics-aware 3D Motion Estimation](https://arxiv.org/abs/2404.11987)<br>:house:[project](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
   * [A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals](https://arxiv.org/abs/2404.04890)人体运动估计
 
-## Vision Question Answering(视觉问答)
+<a name="38"/>
+
+## 38.Vision Question Answering(视觉问答)
 * [GRAM: Global Reasoning for Multi-Page VQA](https://arxiv.org/abs/2401.03411)
 * [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities]
 * [Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)<br>:house:[project](https://spatial-vlm.github.io/)VQA
@@ -374,7 +423,9 @@
 * 视觉文本问答
   * [VTQA: Visual Text Question Answering via Entity Alignment and Cross-Media Reasoning](https://arxiv.org/abs/2303.02635)
 
-## OCR
+<a name="37"/>
+
+## 37.OCR
 * 场景文本识别
   * [OTE: Exploring Accurate Scene Text Recognition Using One Token]()
   * [An Empirical Study of Scaling Law for Scene Text Recognition](https://arxiv.org/abs/2401.00028)<br>:star:[code](https://github.com/large-ocr-model/large-ocr-model.github.io)场景文本识别An Empirical Study of Scaling Law for OCR
@@ -397,7 +448,9 @@
 * 字体生成
   * [Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models]()
 
-## 4D Reconstruction(4D 重建)
+<a name="36"/>
+
+## 36.4D Reconstruction(4D 重建)
 * [Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle](https://arxiv.org/abs/2312.03431)<br>:house:[project](https://nju-3dv.github.io/projects/Gaussian-Flow)
 * [Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking](https://arxiv.org/abs/2401.06614)<br>:house:[project](https://vveicao.github.io/projects/Motion2VecSets/)
 * [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://arxiv.org/abs/2310.08528)<br>:star:[code](https://github.com/hustvl/4DGaussians)<br>:house:[project](https://guanjunwu.github.io/4dgs/)

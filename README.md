@@ -48,9 +48,9 @@
 -----------ASDF
 
 5月21日更新
-* [Multi-View Attentive Contextualization for Multi-View 3D Object Detection](https://arxiv.org/abs/2405.12200)
-* [Diff-BGM: A Diffusion Model for Video Background Music Generation](https://arxiv.org/abs/2405.11913)视频背景音乐生成的扩散模型
-* [Depth Prompting for Sensor-Agnostic Depth Estimation](https://arxiv.org/abs/2405.11867)
+* [Federated Online Adaptation for Deep Stereo](https://arxiv.org/abs/2405.14873)<br>:house:[project](https://fedstereo.github.io/)
+* [Synergistic Global-space Camera and Human Reconstruction from Videos](https://arxiv.org/abs/2405.14855)
+* [KPConvX: Modernizing Kernel Point Convolution with Kernel Attention](https://arxiv.org/abs/2405.13194)
 
 <a name="62"/>
 
@@ -265,7 +265,7 @@
 <a name="47"/>
 
 ## 47.Dense Predictions(密集预测)
-* [Efficient Multitask Dense Predictor via Binarization]()密集预测
+* [Efficient Multitask Dense Predictor via Binarization](https://arxiv.org/abs/2405.14136)密集预测
 * [Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models]()
 * [Exploiting Diffusion Prior for Generalizable Dense Prediction](https://arxiv.org/abs/2311.18832)<br>:house:[project](https://shinying.github.io/dmp)
 * [ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions](http://arxiv.org/abs/2403.07392v1)<br>:star:[code](https://github.com/Traffic-X/ViT-CoMer)<br>:thumbsup:[百度提出视觉新骨干ViT-CoMer，刷新密集预测任务SOTA](https://mp.weixin.qq.com/s/Q2xI_rU5_7Mv6jiYeu6NkA)
@@ -527,7 +527,7 @@
 * [PaReNeRF: Toward Fast Large-scale Dynamic NeRF with Patch-based Reference]()NeRF
 * [Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
 * [NeRF Analogies - Example-Based Visual Attribute Transfer for NeRFs]()
-* [Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling](https://cseweb.ucsd.edu/~ravir/liwenwu_cvpr.pdf)<br>:star:[code](https://github.com/lwwu2/nde)
+* [Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling](https://arxiv.org/abs/2405.14847)<br>:star:[code](https://github.com/lwwu2/nde)
 * [BANF: Band-limited Neural Fields for Levels of Detail Reconstruction](https://theialab.github.io/banf/paper.pdf)<br>:star:[code](https://theialab.github.io/banf/)<br>:house:[project](https://theialab.github.io/banf/)
 * [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534)<br>:star:[code](https://github.com/Dou-Yiming/TaRF/)<br>:house:[project](https://dou-yiming.github.io/TaRF)
 * [L0-Sampler: An L0 Model Guided Volume Sampling for NeRF](https://arxiv.org/abs/2311.07044)<br>:house:[project](https://ustc3dv.github.io/L0-Sampler/)NeRF
@@ -949,7 +949,7 @@
   * [Language-Driven Anchors for Zero-Shot Adversarial Robustness](https://arxiv.org/abs/2301.13096)零样本对抗
   * [Transferable Structural Sparse Adversarial Attack Via Exact Group Sparsity Training]()
   * [On The Vulnerability of Efficient Vision Transformers to Adversarial Computation Attacks]()对抗性计算攻击
-  * [Learning to Transform Dynamically for Better Adversarial Transferability]()
+  * [Learning to Transform Dynamically for Better Adversarial Transferability](https://arxiv.org/abs/2405.14077)
   * [Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay](https://arxiv.org/abs/2404.01828)
   * [Boosting Adversarial Transferability by Block Shuffle and Rotation](https://arxiv.org/abs/2308.10299)<br>:star:[code](https://github.com/Trustworthy-AI-Group/BSR)对抗性可转移性
   * [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080v1)
@@ -1356,6 +1356,7 @@
 * [Unsupervised Template-assisted Point Cloud Shape Correspondence Network](http://arxiv.org/abs/2403.16412v1)
 * [GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds](http://arxiv.org/abs/2403.19220v1)
 * [Object Dynamics Modeling with Hierarchical Point Cloud-based Representations](https://arxiv.org/abs/2404.06044)
+* [KPConvX: Modernizing Kernel Point Convolution with Kernel Attention](https://arxiv.org/abs/2405.13194)
 * 点云配准
   * [Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension](http://arxiv.org/abs/2403.03532v1)
   * [Inlier Confidence Calibration for Point Cloud Registration]()
@@ -1532,8 +1533,6 @@
   * [Can’t make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models]()
   * [Uncertainty-aware Action Decoupling Transformer for Action Anticipation]()
 
-
-
 <a name="13"/>
 
 ## 13.Human Pose Estimation(人体姿态估计)
@@ -1611,6 +1610,7 @@
   * [SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes](https://arxiv.org/abs/2308.10638)人体网格
   * [R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization]()
   * [DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion](https://arxiv.org/abs/2308.16682)<br>:house:[project](https://diffusionposer.github.io/)
+  * [Synergistic Global-space Camera and Human Reconstruction from Videos](https://arxiv.org/abs/2405.14855)
 * 动作捕捉
   * [ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning](https://zhangyux15.github.io/ProxyCapV2/assets/paper.pdf)<br>:house:[project](https://zhangyux15.github.io/ProxyCapV2/)
   * [Egocentric Full Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement]()
@@ -1797,6 +1797,7 @@
 * [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610)<br>:house:[project](https://www.infinitescript.com/project/city-dreamer)
 * [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI](https://arxiv.org/abs/2312.16170)<br>:star:[code](https://github.com/OpenRobotLab/EmbodiedScan)
 * [Mosaic-SDF for 3D Generative Models](https://arxiv.org/abs/2312.09222)<br>:house:[project](https://lioryariv.github.io/msdf)
+* [Federated Online Adaptation for Deep Stereo](https://arxiv.org/abs/2405.14873)<br>:house:[project](https://fedstereo.github.io/)
 * 三维视觉
   * [Situational Awareness Matters in 3D Vision Language Reasoning]()
   * [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/abs/2312.14132)
@@ -2217,7 +2218,7 @@
     * [UniGS: Unified Representation for Image Generation and Segmentation](https://arxiv.org/abs/2312.01985)<br>:star:[code](https://github.com/qqlu/Entity)图像生成
     * [Exact Fusion via Feature Distribution Matching for Few-shot Image Generation]()
     * [LAKE-RED: Camouflaged images generation by latent background knowledge retrieval-augmented diffusion](https://arxiv.org/abs/2404.00292)
-    * [FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition]()<br>:star:[code](https://github.com/aim-uofa/FreeCustom/tree/main)<br>:house:[project](https://aim-uofa.github.io/FreeCustom/)
+    * [FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)<br>:star:[code](https://github.com/aim-uofa/FreeCustom/tree/main)<br>:house:[project](https://aim-uofa.github.io/FreeCustom/)
     * [Adversarial Text to Continuous Image Generation](https://openreview.net/forum?id=9X3UZJSGIg9)
     * [Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)<br>:house:[project](http://style-aligned-gen.github.io/)
     * [CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation](https://arxiv.org/abs/2310.01407)

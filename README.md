@@ -1454,7 +1454,7 @@
 * 小样本目标检测
   * [SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation]()
 * 域泛化目标检测
-  * [Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection]()
+  * [Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection](https://arxiv.org/abs/2405.15225)
 * 域适应目标检测
   * [D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection](http://arxiv.org/abs/2403.09359v1)<br>:star:[code](https://github.com/EdwardDo69/D3T)
   * [CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection](http://arxiv.org/abs/2403.19278v1)
@@ -3153,7 +3153,8 @@
   * [Reconstruction-free Cascaded Adaptive Compressive Sensing]()
   * [UFC-Net: Unrolling Fixed-point Continuous Network for Deep Compressive Sensing]()
   * [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing]()
-
+* 数据增强
+  * [DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models](https://arxiv.org/abs/2405.14881)
 
 <a name="0"/>
 

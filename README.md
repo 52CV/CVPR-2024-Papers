@@ -47,10 +47,8 @@
 
 -----------ASDF
 
-5月21日更新
-* [Federated Online Adaptation for Deep Stereo](https://arxiv.org/abs/2405.14873)<br>:house:[project](https://fedstereo.github.io/)
-* [Synergistic Global-space Camera and Human Reconstruction from Videos](https://arxiv.org/abs/2405.14855)
-* [KPConvX: Modernizing Kernel Point Convolution with Kernel Attention](https://arxiv.org/abs/2405.13194)
+5月27日更新
+* [DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models](https://arxiv.org/abs/2405.14881)
 
 <a name="62"/>
 

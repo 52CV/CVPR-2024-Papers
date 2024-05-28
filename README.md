@@ -48,7 +48,7 @@
 -----------ASDF
 
 5月28日更新
-* [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)化妆迁移
+* [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)
 
 
 <a name="62"/>

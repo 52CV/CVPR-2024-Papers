@@ -47,8 +47,9 @@
 
 -----------ASDF
 
-5月27日更新
-* [DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models](https://arxiv.org/abs/2405.14881)
+5月28日更新
+* [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)化妆迁移
+
 
 <a name="62"/>
 
@@ -362,7 +363,7 @@
 
 ## 40.Scene Graph Generation(场景图生成)
 * [Leveraging Predicate and Triplet Learning for Scene Graph Generation]()
-* [OED: Towards One-stage End-to-End Dynamic Scene Graph Generation]()
+* [OED: Towards One-stage End-to-End Dynamic Scene Graph Generation](https://arxiv.org/abs/2405.16925)
 * [CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning]()SGG
 * [Multi-Level Neural Scene Graphs for Dynamic Urban Environments](http://arxiv.org/abs/2404.00168v1)<br>:star:[code](https://tobiasfshr.github.io/pub/ml-nsg/)
 * [HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation](http://arxiv.org/abs/2403.12033v1)<br>:star:[code](https://zhangce01.github.io/HiKER-SGG)<br>:star:[code](https://github.com/zhangce01/HiKER-SGG)
@@ -2111,6 +2112,8 @@
 * 3D 头像
   * [3DToonify: Creating Your High-Fidelity 3D Stylized Avatar Easily from 2D Portrait Images]()
   * [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](https://arxiv.org/abs/2304.00916)<br>:house:[project](https://yukangcao.github.io/DreamAvatar/)3
+* 化妆迁移
+  * [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)
 
 <a name="8"/>
 

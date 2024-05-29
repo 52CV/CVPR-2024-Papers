@@ -2490,7 +2490,7 @@
 * 修图
   * [Close Imitation of Expert Retouching for Black-and-White Photography]()
 * 图像增强
-  * [Color Shift Estimation-and-Correction for Image Enhancement]()
+  * [Color Shift Estimation-and-Correction for Image Enhancement](https://arxiv.org/abs/2405.17725)
   * [FlowIE：Efficient Image Enhancement via Rectified Flow]()
   * [Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring]()
   * [Specularity Factorization for Low Light Enhancement]
@@ -2560,7 +2560,7 @@
 * 视频增强
   * [Binarized Low-light Raw Video Enhancement](http://arxiv.org/abs/2403.19944v1)
 * 视频质量评估
-  * [PTM-VQA: Efficient Video Quality Assessment Leveraging Diverse PreTrained Models from the Wild]()
+  * [PTM-VQA: Efficient Video Quality Assessment Leveraging Diverse PreTrained Models from the Wild](https://arxiv.org/abs/2405.17765)
   * [Learned Scanpaths Aid Blind Panoramic Video Quality Assessment](https://arxiv.org/abs/2404.00252)
   * [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://arxiv.org/abs/2402.07220)
   * [CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement](https://arxiv.org/abs/2403.10362)<br>:star:[code](https://github.com/CPGA/CPGA.git)
@@ -3136,7 +3136,7 @@
 * [Training-Free Pretrained Model Merging](http://arxiv.org/abs/2403.01753v1)<br>:star:[code](https://github.com/zju-vipa/training_free_model_merging)
 * [Neural Redshift: Random Networks are not Random Functions](http://arxiv.org/abs/2403.02241v2)
 * [Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives](https://arxiv.org/abs/2311.18259)
-* [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation]()自监督关键点估计
+* [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://arxiv.org/abs/2405.18322)自监督关键点估计
 * [Unsupervised Feature Learning with Emergent Data-Driven Prototypicality](https://arxiv.org/abs/2307.01421)
 * [LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking](http://arxiv.org/abs/2403.04303v1)<br>:star:[code](https://github.com/li-jl16/LORS)<br>:thumbsup:[LORS算法：低秩残差结构用于参数高效网络堆叠，参数少、成本低、内存小](https://mp.weixin.qq.com/s/mNzyY45mB6A6JDE-XLhGTw)
 * [HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction](http://arxiv.org/abs/2403.08639v1)

@@ -47,8 +47,10 @@
 
 -----------ASDF
 
-5月28日更新
-* [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)
+5月30日更新
+* [Transductive Zero-Shot and Few-Shot CLIP](https://arxiv.org/abs/2405.18437)<br>:star:[code](https://github.com/SegoleneMartin/transductive-CLIP)
+* [Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning](https://arxiv.org/abs/2405.19074)
+* [NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://arxiv.org/abs/2405.18715)<br>:house:[project](https://nerf-on-the-go.github.io/)
 
 
 <a name="62"/>
@@ -373,11 +375,11 @@
 * [LLM4SGG: Large Language Models for Weakly Supervised Scene Graph Generation]
 * [LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation](https://arxiv.org/abs/2310.10404)SGG
 
-
 <a name="39"/>
 
 ## 39.Motion Generation(动作生成)
 * [Programmable Motion Generation for Open-set Motion Control Tasks]()
+* [Programmable Motion Generation for Open-Set Motion Control Tasks](https://arxiv.org/abs/2405.19283)
 * [Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance](http://arxiv.org/abs/2403.18036v1)
 * [AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents](https://arxiv.org/abs/2403.12835)
 * [Towards Variable and Coordinated Holistic Co-Speech Motion Generation](http://arxiv.org/abs/2404.00368v1)<br>:star:[code](https://feifeifeiliu.github.io/probtalk/)
@@ -515,6 +517,8 @@
 * 人-人交互
   * [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051)<br>:star:[code](https://github.com/liangxuy/Inter-X)<br>:house:[project](https://liangxuy.github.io/inter-x/)<br>:thumbsup:[三维数字人重建、编辑与驱动](https://valser.org/webinar/slide/slides/20240403/Valse20240403%E6%99%8F%E8%BD%B6%E8%B6%85.pdf)
 
+
+
 <a name="33"/>
 
 ## 33.NeRF
@@ -529,6 +533,7 @@
 * [Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling](https://arxiv.org/abs/2405.14847)<br>:star:[code](https://github.com/lwwu2/nde)
 * [BANF: Band-limited Neural Fields for Levels of Detail Reconstruction](https://theialab.github.io/banf/paper.pdf)<br>:star:[code](https://theialab.github.io/banf/)<br>:house:[project](https://theialab.github.io/banf/)
 * [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534)<br>:star:[code](https://github.com/Dou-Yiming/TaRF/)<br>:house:[project](https://dou-yiming.github.io/TaRF)
+* [NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://arxiv.org/abs/2405.18715)<br>:house:[project](https://nerf-on-the-go.github.io/)
 * [L0-Sampler: An L0 Model Guided Volume Sampling for NeRF](https://arxiv.org/abs/2311.07044)<br>:house:[project](https://ustc3dv.github.io/L0-Sampler/)NeRF
 * [HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses](https://arxiv.org/abs/2312.02232)
 * [Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields](https://arxiv.org/abs/2311.11845)<br>:star:[code](https://github.com/tatakai1/EVENeRF)
@@ -971,6 +976,7 @@
   * [Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters](http://arxiv.org/abs/2403.11549v1)<br>:star:[code](https://github.com/JiazuoYu/MoE-Adapters4CL)
   * [Enhancing Visual Continual Learning with Language-Guided Supervision](http://arxiv.org/abs/2403.16124v1)
   * [Convolutional Prompting meets Language Models for Continual Learning](http://arxiv.org/abs/2403.20317v1)
+  * [Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning](https://arxiv.org/abs/2405.19074)
   * [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation](http://arxiv.org/abs/2404.00417v1)
   * [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](http://arxiv.org/abs/2404.00228v1)
   * [Learning Equi-angular Representations for Online Continual Learning](http://arxiv.org/abs/2404.01628v1)
@@ -1113,6 +1119,7 @@
 <a name="21"/>
 
 ## 21.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* [Transductive Zero-Shot and Few-Shot CLIP](https://arxiv.org/abs/2405.18437)<br>:star:[code](https://github.com/SegoleneMartin/transductive-CLIP)
 * DG
   * [Disentangled Prompt Representation for Domain Generalization]()
   * [A2XP: Towards Private Domain Generalization](https://arxiv.org/abs/2311.10339)<br>:star:[code](https://github.com/AIRLABkhu/A2XP)
@@ -2696,7 +2703,7 @@
 * [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531)<br>:house:[project](https://lyclyc52.github.io/SANeRF-HQ/)
 * [ASAM: Boosting Segment Anything Model with Adversarial Tuning]()
 * [ODIN: A Single Model for 2D and 3D Segmentation](https://arxiv.org/abs/2401.02416)<br>:star:[code](https://github.com/ayushjain1144/odin)
-* [FocSAM: Delving Deeply into Focused Objects in Segmenting Anything]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [FocSAM: Delving Deeply into Focused Objects in Segmenting Anything](https://arxiv.org/abs/2405.18706)<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
 * [EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/abs/2312.00863)
 * [Universal Segmentation at Arbitrary Granularity with Language Instruction](https://arxiv.org/abs/2312.01623)通用分割
 * [Segment and Caption Anything](https://arxiv.org/abs/2312.00869)<br>:house:[project](https://xk-huang.github.io/segment-caption-anything/;)
@@ -2976,7 +2983,7 @@
 * [DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting](https://arxiv.org/abs/2312.06734)<br>:star:[code](https://github.com/DeminYu98/DiffCast)降水临近预报
 * [Intrinsic Image Diffusion for Indoor Single-view Material Estimation](https://arxiv.org/abs/2312.12274)<br>:house:[project](https://peter-kocsis.github.io/IntrinsicImageDiffusion/)室内单视图材料估计
 * [Neural Underwater Scene Representation]()
-* [UniPTS: A Unified Framework for Proficient Post-Training Sparsity]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
+* [UniPTS: A Unified Framework for Proficient Post-Training Sparsity](https://arxiv.org/abs/2405.18810)<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
 * [De-Diffusion Makes Text a Strong Cross-Modal Interface](https://arxiv.org/abs/2311.00618)<br>:house:[project](https://dediffusion.github.io/)
 * [MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)<br>:house:[project](https://exitudio.github.io/MMM-page)
 * [Gaussian Shadow Casting for Neural Characters](https://arxiv.org/abs/2401.06116)

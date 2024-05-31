@@ -48,9 +48,9 @@
 -----------ASDF
 
 5月30日更新
-* [Transductive Zero-Shot and Few-Shot CLIP](https://arxiv.org/abs/2405.18437)<br>:star:[code](https://github.com/SegoleneMartin/transductive-CLIP)
-* [Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning](https://arxiv.org/abs/2405.19074)
-* [NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://arxiv.org/abs/2405.18715)<br>:house:[project](https://nerf-on-the-go.github.io/)
+* [Don't drop your samples! Coherence-aware training benefits Conditional diffusion](https://arxiv.org/abs/2405.20324)<br>:house:[project](https://nicolas-dufour.github.io/cad.html)
+* [Open-Set Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2405.19899)
+* [Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network](https://arxiv.org/abs/2405.19775)
 
 
 <a name="62"/>
@@ -164,6 +164,7 @@
 * [ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation](https://arxiv.org/abs/2312.02109)<br>:star:[code](https://github.com/cardinalblue/ArtAdapter)<br>:house:[project](https://cardinalblue.github.io/artadapter.github.io/)
 * [Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model]()
 * [Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer](https://arxiv.org/abs/2312.09008v2)<br>:house:[project](https://jiwoogit.github.io/StyleID_site)
+* [Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network](https://arxiv.org/abs/2405.19775)
 * 零样本文本驱动运动迁移
   * [Space-time Diffusion Features for Zero-shot Text-driven Motion Transfer](https://arxiv.org/abs/2311.17009)<br>:house:[project](https://diffusion-motion-transfer.github.io/)
 
@@ -193,7 +194,7 @@
   * [HardMo: A Large-Scale Hardcase Dataset for Motion Capture]()
   * [The STVchrono Dataset: Towards Continuous Change Recognition in Time]()
   * [Insect-Foundation: A Foundation Model and Large-scale 1M Dataset for Visual Insect Understanding]()
-  * [LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising]()
+  * [LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising](https://arxiv.org/abs/2405.19718)
   * [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526)
   * [Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods]()
   * [Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation](https://arxiv.org/abs/2306.11290)
@@ -1536,7 +1537,7 @@
 * 群体活动识别
   * [Bi-Causal: Group Activity Recognition via Bidirectional Causality]()
 * 动作预期
-  * [Can’t make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models]()
+  * [Can’t make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models](https://arxiv.org/abs/2405.20305)
   * [Uncertainty-aware Action Decoupling Transformer for Action Anticipation]()
 
 <a name="13"/>
@@ -1610,7 +1611,7 @@
   * [Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction]()
   * [PostureHMR: Posture Transformation for 3D Human Mesh Recovery]()
   * [Probabilistic Human Mesh Estimation with Hypothesis Scoring]()
-  * [KITRO:Refining Human Mesh by 2D Clues and Kinematic-tree Rotation]()<br>:star:[code](https://github.com/MartaYang/KITRO)
+  * [KITRO:Refining Human Mesh by 2D Clues and Kinematic-tree Rotation](https://arxiv.org/abs/2405.19833)<br>:star:[code](https://github.com/MartaYang/KITRO)
   * [Semantic Human Mesh Reconstruction with Textures](https://arxiv.org/abs/2403.02561)<br>:house:[project](https://zhanxy.xyz/projects/shert/)
   * [TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation](https://export.arxiv.org/abs/2404.16752)<br>:house:[project](https://tokenhmr.is.tue.mpg.de/)
   * [SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes](https://arxiv.org/abs/2308.10638)人体网格
@@ -2079,7 +2080,7 @@
   * [Augmented Identity Distraction for Face Anonymization]()
 * 人脸关键点
   * [Generalizable Face Landmarking Guided by Conditional Face Warping](http://arxiv.org/abs/2404.12322v1)<br>:star:[code](https://github.com/plustwo0/generalized-face-landmarker)<br>:house:[project](https://plustwo0.github.io/project-face-landmarker/)
-   * [FaceLift: Semi-supervised 3D Facial Landmark Localization]()
+   * [FaceLift: Semi-supervised 3D Facial Landmark Localization](https://arxiv.org/abs/2405.19646)
 * 人脸属性分类
   * [Distributionally Generative Augmentation for Fair Facial Attribute Classification](http://arxiv.org/abs/2403.06606v1)<br>:star:[code](https://github.com/heqianpei/DiGA)
 * 人脸活体检测
@@ -2122,6 +2123,7 @@
 * 化妆迁移
   * [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240)
 
+
 <a name="8"/>
 
 ## 8.GAN/Image Synthesis(图像生成)
@@ -2156,6 +2158,7 @@
   * [Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?](https://arxiv.org/abs/2312.00084)
   * [Self-correcting LLM-controlled Diffusion Models](https://arxiv.org/abs/2311.16090)
   * [Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models](https://arxiv.org/abs/2405.05252)
+  * [Don't drop your samples! Coherence-aware training benefits Conditional diffusion](https://arxiv.org/abs/2405.20324)<br>:house:[project](https://nicolas-dufour.github.io/cad.html)
   * [Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout]()
   * [DiffLoc: Diffusion Model for Outdoor LiDAR Localization]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
   * [EasyDrag: Efficient Point-based Manipulation on Diffusion Models]()
@@ -2742,6 +2745,7 @@
   * [ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers]()
   * [HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation](https://arxiv.org/abs/2403.16788)
   * [Contextrast: Contextual Contrastive Learning for Semantic Segmentation](https://arxiv.org/abs/2404.10633)
+  * [Open-Set Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2405.19899)
   * [SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation](https://arxiv.org/abs/2404.02638)<br>:star:[code](https://github.com/yejy53/SG-BEV)
   * [Frequency-Adaptive Dilated Convolution for Semantic Segmentation](https://arxiv.org/abs/2403.05369)<br>:star:[code](https://github.com/Linwei-Chen/FADC)
   * [GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation](http://arxiv.org/abs/2403.16370v1)

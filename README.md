@@ -2801,7 +2801,7 @@
   * [PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://arxiv.org/abs/2306.10013)<br>:star:[code](https://github.com/Robertwyq/PanoOcc)
   * [Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations]()<br>:star:[code](https://github.com/tue-mps/tapps)
 * 实例分割
-  * [Extreme Point Supervised Instance Segmentation]()
+  * [Extreme Point Supervised Instance Segmentation](https://arxiv.org/abs/2405.20729)
   * [Mudslide: A Universal Nuclear Instance Segmentation Method]()
   * [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895)
   * [SAI3D: Segment Any Instance in 3D Scenes](https://arxiv.org/abs/2312.11557)<br>:house:[project](https://yd-yin.github.io/SAI3D)

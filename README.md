@@ -47,10 +47,8 @@
 
 -----------ASDF
 
-5月30日更新
-* [Don't drop your samples! Coherence-aware training benefits Conditional diffusion](https://arxiv.org/abs/2405.20324)<br>:house:[project](https://nicolas-dufour.github.io/cad.html)
-* [Open-Set Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2405.19899)
-* [Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network](https://arxiv.org/abs/2405.19775)
+6月4日更新
+* [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://arxiv.org/abs/2406.01820)<br>:house:[project](https://iurada.github.io/PX)
 
 
 <a name="62"/>
@@ -115,6 +113,7 @@
 * [Solving Masked Jigsaw Puzzles with Diffusion Transformers]()
 * [Towards Understanding and Improving Adversarial Robustness of Vision Transformers]()
 * [RMT: Retentive Networks Meet Vision Transformers](https://arxiv.org/abs/2309.11523)<br>:star:[code](https://github.com/qhfan/RMT)
+* [You Only Need Less Attention at Each Stage in Vision Transformers](https://arxiv.org/abs/2406.00427)
 * [Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475)<br>:house:[project](https://nihalsid.github.io/mesh-gpt/)
 * [Instance-Aware Group Quantization for Vision Transformers](https://arxiv.org/abs/2404.00928)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/IGQ-ViT/)
 * [Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers](http://arxiv.org/abs/2403.10030v1)<br>:star:[code](https://github.com/mlvlab/MCTF)
@@ -300,7 +299,7 @@
 * [Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach](http://arxiv.org/abs/2403.11380v1)
 * [Building Optimal Neural Architectures using Interpretable Knowledge](http://arxiv.org/abs/2403.13293v1)<br>:star:[code](https://github.com/Ascend-Research/AutoBuild)
 * [AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search](http://arxiv.org/abs/2403.19232v1)
-* [SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model]()
+* [SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model](https://arxiv.org/abs/2406.00195)
 * [Insights from the Use of Previously Unseen Neural Architecture Search Datasets](https://arxiv.org/abs/2404.02189)
 * [FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer](https://arxiv.org/abs/2403.12821)<br>:star:[code](http://github.com/y0ngjaenius/CVPR2024_FLOWERFormer)
 
@@ -365,7 +364,7 @@
 <a name="40"/>
 
 ## 40.Scene Graph Generation(场景图生成)
-* [Leveraging Predicate and Triplet Learning for Scene Graph Generation]()
+* [Leveraging Predicate and Triplet Learning for Scene Graph Generation](https://arxiv.org/abs/2406.02038)
 * [OED: Towards One-stage End-to-End Dynamic Scene Graph Generation](https://arxiv.org/abs/2405.16925)
 * [CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning]()
 * [Multi-Level Neural Scene Graphs for Dynamic Urban Environments](http://arxiv.org/abs/2404.00168v1)<br>:star:[code](https://tobiasfshr.github.io/pub/ml-nsg/)
@@ -695,6 +694,7 @@
   * [Device-Wise Federated Network Pruning]()
   * [Resource-Efficient Transformer Pruning for Finetuning of Large Models]()
   * [Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch](https://arxiv.org/abs/2403.14729)
+  * [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://arxiv.org/abs/2406.01820)<br>:house:[project](https://iurada.github.io/PX)
   * [MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric](http://arxiv.org/abs/2403.07839v1)
   * [Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment](http://arxiv.org/abs/2403.19490v1)
   * [MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning](http://arxiv.org/abs/2404.05621v1)<br>:star:[code](https://github.com/FarinaMatteo/multiflow)
@@ -916,7 +916,7 @@
   * [SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking](http://arxiv.org/abs/2403.16002v1)<br>:star:[code](https://github.com/hoqolo/SDSTrack)
 * 多目标跟踪
   * [Multi-Object Tracking in the Dark](https://arxiv.org/abs/2405.06600)
-  * [Towards Generalizable Multi-Object Tracking]()
+  * [Towards Generalizable Multi-Object Tracking](https://arxiv.org/abs/2406.00429)
   * [ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association](https://arxiv.org/abs/2405.08909)
   * [DeconfuseTrack:Dealing with Confusion for Multi-Object Tracking](https://arxiv.org/abs/2403.02767)
   * [Delving into the Trajectory Long-tail Distribution for Muti-object Tracking](http://arxiv.org/abs/2403.04700v1)<br>:star:[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)
@@ -1033,7 +1033,7 @@
   * [Communication-Efficient Federated Learning with Accelerated Client Gradient](https://arxiv.org/abs/2201.03172)
 * 强化学习
   * [Improving Unsupervised Hierarchical Representation with Reinforcement Learning]()
-  * [AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning]()强化学习
+  * [AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning](https://arxiv.org/abs/2406.00480)强化学习
   * [Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning]()
   * [DMR: Decomposed Multi-Modality Representations for Frames and Events Fusion in Visual Reinforcement Learning]()
   * [Learning to Control Camera Exposure via Reinforcement Learning](http://arxiv.org/abs/2404.01636v1)<br>:house:[project](https://sites.google.com/view/drl-ae)
@@ -1401,6 +1401,8 @@
 * 点云质量评估
   * [Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2403.10066)无参考点云质量评估
 
+
+
 <a name="15"/>
 
 ## 15.Object Detection(目标检测)
@@ -1474,6 +1476,7 @@
   * [Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision](https://arxiv.org/abs/2311.14758)<br>:star:[code](https://github.com/yuyi1005/point2rbox-mmrotate)
 * 开放词汇目标检测
   * [Exploring Region-Word Alignment in Built-in Detector for Open-Vocabulary Object Detection]()
+  * [Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection](https://arxiv.org/abs/2406.00510)
   * [OVMR: Open-Vocabulary Recognition with Multi-Modal References]()开放词汇识别
   * [SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection](https://arxiv.org/abs/2405.10053)
   * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)<br>:star:[code](https://github.com/AILab-CVC/YOLO-World)
@@ -1562,7 +1565,7 @@
     * [HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions](https://arxiv.org/abs/2403.18575)<br>:star:[code](https://github.com/hxwork/HandBooster_Pytorch)
   * 手部网格恢复
     * [A Simple Baseline for Efficient Hand Mesh Reconstruction](https://arxiv.org/pdf/2403.01813.pdf)<br>:star:[code](https://github.com/patienceFromZhou/simpleHand)<br>:house:[project](https://simplehand.github.io/)
-    * [HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models]()<br>:house:[project](https://dw1010.github.io/project/HHMR/HHMR.html)
+    * [HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models](https://arxiv.org/abs/2406.01334)<br>:house:[project](https://dw1010.github.io/project/HHMR/HHMR.html)
   * 手部姿态跟踪
     * [MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints](http://arxiv.org/abs/2404.10227v1)
   * 手部纹理重建
@@ -1974,7 +1977,7 @@
 * 癌症检测
   * [FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders](http://arxiv.org/abs/2403.08848v1)<br>:star:[code](https://github.com/sbasu276/FocusMAE)
 * 医学图像配准
-  * [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration]()
+  * [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123)入围最佳论文
   * [Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration](http://arxiv.org/abs/2402.18933v1)
 * 医学图像分割
   * [Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation]()
@@ -2100,7 +2103,7 @@
   * [Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments](http://arxiv.org/abs/2403.17496v1)
 * 三维人脸
   * [3D Face Tracking from 2D Video through Iterative Dense UV to Image Flow](http://arxiv.org/abs/2404.09819v1)
-  * [FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance]()
+  * [FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance](https://arxiv.org/abs/2406.02074)
 * 4D 头像合成
   * [Portrait4D: Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data](https://arxiv.org/abs/2311.18729)<br>:star:[code](https://github.com/YuDeng/Portrait-4D)<br>:house:[project](https://yudeng.github.io/Portrait4D/)
 * 头像重建
@@ -2127,7 +2130,7 @@
 <a name="8"/>
 
 ## 8.GAN/Image Synthesis(图像生成)
-* [L-MAGIC: Language Model Assisted Generation of Images with Consistency]()
+* [L-MAGIC: Language Model Assisted Generation of Images with Consistency](https://arxiv.org/abs/2406.01843)
 * [Scaling Laws of Synthetic Images for Model Training ... for Now](https://arxiv.org/abs/2312.04567)
 * [An edit friendly ddpm noise space: inversion and manipulations](https://arxiv.org/abs/2304.06140)<br>:star:[code](https://github.com/inbarhub/DDPM_inversion)<br>:house:[project](https://inbarhub.github.io/DDPM_inversion)
 * [CoDi-2: Interleaved and In-Context Any-to-Any Generation](https://arxiv.org/abs/2311.18775)<br>:star:[code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)<br>:house:[project](https://codi-2.github.io/)
@@ -2501,7 +2504,7 @@
   * [Close Imitation of Expert Retouching for Black-and-White Photography]()
 * 图像增强
   * [Color Shift Estimation-and-Correction for Image Enhancement](https://arxiv.org/abs/2405.17725)
-  * [FlowIE：Efficient Image Enhancement via Rectified Flow]()
+  * [FlowIE：Efficient Image Enhancement via Rectified Flow](https://arxiv.org/abs/2406.00508)
   * [Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring]()
   * [Specularity Factorization for Low Light Enhancement]
   * [Specularity Factorization for Low-Light Enhancement](https://arxiv.org/abs/2404.01998)
@@ -2908,7 +2911,7 @@
 * [AM-RADIO: Agglomerative Models - Reduce All Domains Into One]
 * [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)<br>:star:[code](https://github.com/NVlabs/RADIO)
 * [Practical Measurements of Translucent Materials with Inter-Pixel Translucency Prior]()
-* [Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation]()<br>:star:[code](https://github.com/xiaoyuanpigo/maxlin)
+* [Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation](https://arxiv.org/abs/2406.00699)<br>:star:[code](https://github.com/xiaoyuanpigo/maxlin)
 * [Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling](https://arxiv.org/abs/2405.04309)
 * [Seeing Motion at Nighttime with an Event Camera](http://arxiv.org/abs/2404.11884v1)<br>:star:[code](https://github.com/Liu-haoyue/NER-Net)
 * [Batch Normalization Alleviates the Spectral Bias in Coordinate Networks]()
@@ -2953,7 +2956,7 @@
 * [Scaling Laws for Data Filtering: Data Curation cannot be Compute Agnostic]
 * [Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic](https://arxiv.org/abs/2404.07177)br>:star:[code](https://github.com/locuslab/scaling_laws_data_filtering)
 * [Learning to Rank Patches for Unbiased Image Redundancy Reduction](https://arxiv.org/abs/2404.00680)
-* [Plug-and-Play Diffusion Distillation]()
+* [Plug-and-Play Diffusion Distillation](https://arxiv.org/abs/2406.01954)
 * [Minimal Perspective Autocalibration](https://arxiv.org/abs/2405.05605)
 * [Differentiable Micro-Mesh Construction]()
 * [PointBeV: A Sparse Approach for BeV Predictions]()

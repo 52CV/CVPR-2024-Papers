@@ -1099,7 +1099,7 @@
 <a name="22"/>
 
 ## 22.Deepfake Detection
-* [AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection]()
+* [AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951)
 * [Preserving Fairness Generalization in Deepfake Detection](http://arxiv.org/abs/2402.17229v1)<br>:star:[code](https://github.com/Purdue-M2/Fairness-Generalization)
 * [Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection](http://arxiv.org/abs/2403.06592v1)<br>:house:[project](https://openaccess.thecvf.com)
 * [Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection](https://arxiv.org/abs/2312.10461)<br>:star:[code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
@@ -1928,7 +1928,7 @@
   * [OmniSDF: Scene Reconstruction using Omnidirectional Signed Distance Functions and Adaptive Binoctrees](http://arxiv.org/abs/2404.00678v1)
   * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](http://arxiv.org/abs/2402.17427v1)<br>:star:[code](https://vastgaussian.github.io)
   * [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)<br>:star:[code](https://github.com/ingra14m/Deformable-3D-Gaussians)<br>:house:[project](https://ingra14m.github.io/Deformable-Gaussians/)<br>:thumbsup:[CVPR 2024满分论文：浙大提出基于可变形三维高斯的高质量单目动态重建新方法](https://mp.weixin.qq.com/s/VY3XdR2gsXsHcLfO2z1zWA)
-  * [Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts]()
+  * [Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts](https://arxiv.org/abs/2406.03461)<br>:house:[project](https://light.princeton.edu/publication/pollidar)
 * 3D 场景合成
   * [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://arxiv.org/abs/2312.00093)<br>:house:[project](https://graphdreamer.github.io/)
   * [DiffInDScene: Diffusion-based High-Quality 3D Indoor Scene Generation](https://arxiv.org/abs/2306.00519)<br>:star:[code](https://github.com/AkiraHero/diffindscene)
@@ -2879,7 +2879,7 @@
 * [ProMotion: Prototypes As Motion Learners]()
 * [Move Anything with Layered Scene Diffusion](http://arxiv.org/abs/2404.07178v1)
 * [GLACE: Global Local Accelerated Coordinate Encoding]()
-* [Quantifying Task Priority for Multi-Task Optimization]()
+* [Quantifying Task Priority for Multi-Task Optimization](https://arxiv.org/abs/2406.02996)
 * [Model Adaptation for Time Constrained Embodied Control]()
 * [A theory of volumetric representations for opaque solids]()
 * [EvDiG: Event-guided Direct and Global Components Separation]()

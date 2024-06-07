@@ -47,9 +47,12 @@
 
 -----------ASDF
 
-6月4日更新
-* [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://arxiv.org/abs/2406.01820)<br>:house:[project](https://iurada.github.io/PX)
-
+6月7日更新
+* [Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization](https://arxiv.org/abs/2406.04155)<br>:house:[project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/lpo/)
+* [How Far Can We Compress Instant-NGP-Based NeRF?](https://arxiv.org/abs/2406.04101)<br>:star:[code](https://github.com/yihangchen-ee/cnc/)<br>:house:[project](https://yihangchen-ee.github.io/project_cnc/)
+* [Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling](https://arxiv.org/abs/2406.03723)<br>:house:[project](https://merl.com/research/highlights/gear-nerf)
+* [Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories](https://arxiv.org/abs/2406.03625)
+* [C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction](https://arxiv.org/abs/2406.03902)<br>:star:[code](https://github.com/xmed-lab/C2RV-CBCT)
 
 <a name="62"/>
 
@@ -531,6 +534,8 @@
 * [Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes]()<br>:thumbsup:[摘要](https://informatics.xmu.edu.cn/info/1053/36349.htm)
 * [NeRF Analogies - Example-Based Visual Attribute Transfer for NeRFs]()
 * [Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling](https://arxiv.org/abs/2405.14847)<br>:star:[code](https://github.com/lwwu2/nde)
+* [Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling](https://arxiv.org/abs/2406.03723)<br>:house:[project](https://merl.com/research/highlights/gear-nerf)
+* [How Far Can We Compress Instant-NGP-Based NeRF?](https://arxiv.org/abs/2406.04101)<br>:star:[code](https://github.com/yihangchen-ee/cnc/)<br>:house:[project](https://yihangchen-ee.github.io/project_cnc/)
 * [BANF: Band-limited Neural Fields for Levels of Detail Reconstruction](https://theialab.github.io/banf/paper.pdf)<br>:star:[code](https://theialab.github.io/banf/)<br>:house:[project](https://theialab.github.io/banf/)
 * [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534)<br>:star:[code](https://github.com/Dou-Yiming/TaRF/)<br>:house:[project](https://dou-yiming.github.io/TaRF)
 * [NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://arxiv.org/abs/2405.18715)<br>:house:[project](https://nerf-on-the-go.github.io/)
@@ -930,6 +935,7 @@
 
 ## 24.ML(机器学习)
 * [Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision]()<br>:thumbsup:[摘要](https://sai.jlu.edu.cn/info/1026/4601.htm)
+* [Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization](https://arxiv.org/abs/2406.04155)<br>:house:[project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/lpo/)
 * 对抗
   * [Infrared Adversarial Car Stickers](https://arxiv.org/abs/2405.09924)
   * [Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples]()
@@ -1961,6 +1967,7 @@
 * [Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images](http://arxiv.org/abs/2404.01464v1)<br>:star:[code](https://github.com/jungeun122333/UVI-Net)
 * [PairAug: What Can Augmented Image-Text Pairs Do for Radiology?](http://arxiv.org/abs/2404.04960v1)<br>:star:[code](https://github.com/YtongXie/PairAug)
 * [Tumor Micro-environment Interactions Guided Graph Learning for Survival Analysis of Human Cancers from Whole-slide Pathological Images]()
+* [C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction](https://arxiv.org/abs/2406.03902)<br>:star:[code](https://github.com/xmed-lab/C2RV-CBCT)
 * CT
   * [QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction](http://arxiv.org/abs/2402.17951v1)<br>:star:[code](https://towzeur.github.io/QN-Mixer/)
   * [Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models](http://arxiv.org/abs/2404.04936v1)
@@ -2337,7 +2344,7 @@
     * [SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors](https://arxiv.org/abs/2311.17261)<br>:house:[project](https://daveredrum.github.io/SceneTex/)
     * [Single Mesh Diffusion Models with Field Latents for Texture Generation](https://arxiv.org/abs/2312.09250)
 * 文本-3D
-  * [DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data]()
+  * [DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data](https://arxiv.org/abs/2406.04322)<br>:star:[code](https://github.com/qihao067/direct3d;)<br>:house:[project](https://direct-3d.github.io/)
   * [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585)<br>:star:[code](https://github.com/gsgen3d/gsgen)<br>:house:[project](https://gsgen3d.github.io/)
   * [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](http://arxiv.org/abs/2403.09140v1)<br>:star:[code](https://stellarcheng.github.io/Sculpt3D/)
   * [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284)<br>:star:[code](https://github.com/EnVision-Research/LucidDreamer)
@@ -2701,7 +2708,7 @@
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
-* [Matching Anything by Segmenting Anything]()
+* [Matching Anything by Segmenting Anything](https://arxiv.org/abs/2406.04221)<br>:star:[code](https://github.com/siyuanliii/masa)
 * [MESA: Matching Everything by Segmenting Anything](https://arxiv.org/abs/2401.16741)
 * [MRFS: Mutually Reinforcing Image Fusion and Segmentation]()
 * [RobustSAM: Segment Anything Robustly on Degraded Images]()
@@ -2878,7 +2885,7 @@
 * [Seeing the World through Your Eyes]()
 * [ProMotion: Prototypes As Motion Learners]()
 * [Move Anything with Layered Scene Diffusion](http://arxiv.org/abs/2404.07178v1)
-* [GLACE: Global Local Accelerated Coordinate Encoding]()
+* [GLACE: Global Local Accelerated Coordinate Encoding](https://arxiv.org/abs/2406.04340)<br>:star:[code](https://github.com/cvg/glace)<br>:house:[project](https://xjiangan.github.io/glace)
 * [Quantifying Task Priority for Multi-Task Optimization](https://arxiv.org/abs/2406.02996)
 * [Model Adaptation for Time Constrained Embodied Control]()
 * [A theory of volumetric representations for opaque solids]()
@@ -2911,6 +2918,7 @@
 * [AM-RADIO: Agglomerative Models - Reduce All Domains Into One]
 * [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)<br>:star:[code](https://github.com/NVlabs/RADIO)
 * [Practical Measurements of Translucent Materials with Inter-Pixel Translucency Prior]()
+* [Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories](https://arxiv.org/abs/2406.03625)
 * [Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation](https://arxiv.org/abs/2406.00699)<br>:star:[code](https://github.com/xiaoyuanpigo/maxlin)
 * [Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling](https://arxiv.org/abs/2405.04309)
 * [Seeing Motion at Nighttime with an Event Camera](http://arxiv.org/abs/2404.11884v1)<br>:star:[code](https://github.com/Liu-haoyue/NER-Net)

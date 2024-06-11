@@ -47,12 +47,9 @@
 
 -----------ASDF
 
-6月7日更新
-* [Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization](https://arxiv.org/abs/2406.04155)<br>:house:[project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/lpo/)
-* [How Far Can We Compress Instant-NGP-Based NeRF?](https://arxiv.org/abs/2406.04101)<br>:star:[code](https://github.com/yihangchen-ee/cnc/)<br>:house:[project](https://yihangchen-ee.github.io/project_cnc/)
-* [Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling](https://arxiv.org/abs/2406.03723)<br>:house:[project](https://merl.com/research/highlights/gear-nerf)
-* [Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories](https://arxiv.org/abs/2406.03625)
-* [C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction](https://arxiv.org/abs/2406.03902)<br>:star:[code](https://github.com/xmed-lab/C2RV-CBCT)
+6月11日更新
+* [ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models](https://arxiv.org/abs/2406.06133)
+* [M&M VTO: Multi-Garment Virtual Try-On and Editing](https://arxiv.org/abs/2406.04542)<br>:house:[project](https://mmvto.github.io/)
 
 <a name="62"/>
 
@@ -555,6 +552,7 @@
 * [Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes](http://arxiv.org/abs/2403.16141v1)<br>:star:[code](https://otonari726.github.io/entitynerf/)
 * [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)<br>:star:[code](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)
 * [LAENeRF: Local Appearance Editing for Neural Radiance Fields](https://arxiv.org/abs/2312.09913)<br>:star:[code](https://github.com/r4dl/LAENeRF)<br>:house:[project](https://r4dl.github.io/LAENeRF/)
+* [ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models](https://arxiv.org/abs/2406.06133)
 * [TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video](https://arxiv.org/abs/2312.06713)
 * [NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation](http://arxiv.org/abs/2403.17537v1)<br>:star:[code](https://cnhaox.github.io/NeRF-HuGS/)
 * [Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency](http://arxiv.org/abs/2403.17638v1)<br>:star:[code](https://github.com/HKCLynn/ReVoRF)
@@ -592,7 +590,7 @@
   * [Novel View Synthesis with View-Dependent Effects from a Single Image](https://arxiv.org/abs/2312.08071)<br>:house:[project](https://kaist-viclab.github.io/monovde-site)
 * 渲染
   * [NeRF Director: Revisiting View Selection in Neural Volume Rendering]()
-  * [Multiplane Prior Guided Few-Shot Aerial Scene Rendering]()渲染
+  * [Multiplane Prior Guided Few-Shot Aerial Scene Rendering](https://arxiv.org/abs/2406.04961)渲染
   * [Differentiable Point-based Inverse Rendering](https://arxiv.org/abs/2312.02480)逆渲染
   * [Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance](https://arxiv.org/abs/2312.04529)渲染
   * [Perceptual Assessment and Optimization of HDR Image Rendering]
@@ -842,7 +840,7 @@
   * [General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/abs/2312.09158)<br>:star:[code](https://github.com/FoundationVision/GLEE)<br>:house:[project](https://glee-vision.github.io/)<br>:thumbsup:[GLEE 华科与字节跳动联手打造全能目标感知基础模型](https://mp.weixin.qq.com/s/3RTxWRH7CM6_AbeLT6v0PA)
   * [Link-Context Learning for Multimodal LLMs](https://arxiv.org/abs/2308.07891)<br>:star:[code](https://github.com/isekai-portal/Link-Context-Learning)LLMs
   * [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://arxiv.org/abs/2312.16279)
-  * [LocLLM: Exploiting Generalizable Human Keypoint Localization via Large Language Model]()<br>:star:[code](https://github.com/kennethwdk/LocLLM)<br>:thumbsup:[成果速览 | CVPR2024细粒度视觉感知多模态大模型Pink、LocLLM](https://idm.pku.edu.cn/info/1012/1839.htm)
+  * [LocLLM: Exploiting Generalizable Human Keypoint Localization via Large Language Model](https://arxiv.org/abs/2406.04659)<br>:star:[code](https://github.com/kennethwdk/LocLLM)<br>:thumbsup:[成果速览 | CVPR2024细粒度视觉感知多模态大模型Pink、LocLLM](https://idm.pku.edu.cn/info/1012/1839.htm)
   * [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://arxiv.org/abs/2310.00582)<br>:star:[code](https://github.com/SY-Xuan/Pink)<br>:thumbsup:[成果速览 | CVPR2024细粒度视觉感知多模态大模型Pink、LocLLM](https://idm.pku.edu.cn/info/1012/1839.htm)
   * [LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge]
   * [LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge](https://arxiv.org/abs/2311.11860)<br>:star:[code](https://github.com/rshaojimmy/JiuTian)<br>:house:[project](https://rshaojimmy.github.io/Projects/JiuTian-LION)MLLMs
@@ -1284,6 +1282,7 @@
 * 虚拟试穿
   * [Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On](http://arxiv.org/abs/2404.01089v1)
   * [CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model](https://arxiv.org/abs/2311.18405)
+  * [M&M VTO: Multi-Garment Virtual Try-On and Editing](https://arxiv.org/abs/2406.04542)<br>:house:[project](https://mmvto.github.io/)
   * [StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2312.01725)<br>:star:[code](https://github.com/rlawjdghek/StableVITON)
   * [PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns](https://arxiv.org/abs/2312.04534)<br>:house:[project](https://ningshuliang.github.io/2023/Arxiv/index.html)
 * 抓取
@@ -1299,7 +1298,7 @@
 * [SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](http://arxiv.org/abs/2404.09502v1)
 * 自动驾驶
   * [Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory]()
-  * [DualAD: Disentangling the Dynamic and Static World for End-to-End Driving]()
+  * [DualAD: Disentangling the Dynamic and Static World for End-to-End Driving](https://arxiv.org/abs/2406.06264)<br>:house:[project](https://simondoll.github.io/publications/dualad)
   * [Uncertainty-Driven Continual Learning for Autonomous Driving]()
   * [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/abs/2310.08370)<br>:star:[code](https://github.com/Nightmare-n/UniPAD)
   * [Generalized Predictive Model for Autonomous Driving](http://arxiv.org/abs/2403.09630v1)
@@ -1483,7 +1482,7 @@
 * 开放词汇目标检测
   * [Exploring Region-Word Alignment in Built-in Detector for Open-Vocabulary Object Detection]()
   * [Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection](https://arxiv.org/abs/2406.00510)
-  * [OVMR: Open-Vocabulary Recognition with Multi-Modal References]()开放词汇识别
+  * [OVMR: Open-Vocabulary Recognition with Multi-Modal References](https://arxiv.org/abs/2406.04675)开放词汇识别
   * [SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection](https://arxiv.org/abs/2405.10053)
   * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)<br>:star:[code](https://github.com/AILab-CVC/YOLO-World)
   * [Retrieval-Augmented Open-Vocabulary Object Detection](http://arxiv.org/abs/2404.05687v1)<br>:star:[code](https://github.com/mlvlab/RALF)
@@ -2225,7 +2224,7 @@
     * [Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis](https://arxiv.org/abs/2212.03185)
     * [Unlocking Pretrained Image Backbones for Semantic Image Synthesis]
     * [Unlocking Pre-trained Image Backbones for Semantic Image Synthesis](https://arxiv.org/abs/2312.13314)
-    * [Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis]()
+    * [Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis](https://arxiv.org/abs/2406.05478)
     * 场景-文本图像合成
        * [TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields]()
   * 图像生成

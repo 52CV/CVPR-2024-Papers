@@ -47,9 +47,10 @@
 
 -----------ASDF
 
-6月11日更新
-* [ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models](https://arxiv.org/abs/2406.06133)
-* [M&M VTO: Multi-Garment Virtual Try-On and Editing](https://arxiv.org/abs/2406.04542)<br>:house:[project](https://mmvto.github.io/)
+6月12日更新
+* [Open-World Human-Object Interaction Detection via Multi-modal Prompts](https://arxiv.org/abs/2406.07221)
+* [Neural Visibility Field for Uncertainty-Driven Active Mapping](https://arxiv.org/abs/2406.06948)<br>:house:[project](https://sites.google.com/view/nvf-cvpr24/)
+* [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730)
 
 <a name="62"/>
 
@@ -483,6 +484,7 @@
   * [3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation](https://arxiv.org/abs/2403.09439)
   * [Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885)<br>:house:[project](https://zqh0253.github.io/SceneWiz3D/)3D 场景合成
 
+
 <a name="34"/>
 
 ## 34.Human–Computer Interaction(人机交互)
@@ -505,6 +507,7 @@
   * [G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis](http://arxiv.org/abs/2404.12383v1)<br>:star:[code](https://judyye.github.io/ghop-www)
 * 人物交互
   * [Discovering Syntactic Interaction Clues for Human-Object Interaction Detection]()
+  * [Open-World Human-Object Interaction Detection via Multi-modal Prompts](https://arxiv.org/abs/2406.07221)
   * [LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://arxiv.org/pdf/2312.08963.pdf)<br>:star:[code](https://github.com/yyvhang/lemon_3d)<br>:house:[project](https://yyvhang.github.io/LEMON/)
   * [Disentangled Pre-training for Human-Object Interaction Detection](http://arxiv.org/abs/2404.01725v1)<br>:star:[code](https://github.com/xingaoli/DP-HOI)
   * [GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://arxiv.org/abs/2401.00929)<br>:house:[project](https://genh2r.github.io/)
@@ -578,6 +581,7 @@
   * [NViST: In the Wild New View Synthesis from a Single Image with Transformers](https://arxiv.org/abs/2312.08568)<br>:star:[code](https://github.com/wbjang/nvist_official)<br>:house:[project](https://wbjang.github.io/nvist_webpage/)
   * [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://arxiv.org/abs/2312.01305)<br>:house:[project](https://jgkwak95.github.io/ViVid-1-to-3/)
   * [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937)<br>:star:[code](https://github.com/yihua7/SC-GS)<br>:house:[project](https://yihua7.github.io/SC-GS-web/)
+  * [Neural Visibility Field for Uncertainty-Driven Active Mapping](https://arxiv.org/abs/2406.06948)<br>:house:[project](https://sites.google.com/view/nvf-cvpr24/)
   * [EscherNet: A Generative Model for Scalable View Synthesis](https://arxiv.org/abs/2402.03908)<br>:star:[code](https://github.com/kxhit/EscherNet)<br>:house:[project](https://kxhit.github.io/EscherNet)
   * [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis](https://arxiv.org/pdf/2312.02155.pdf)<br>:star:[code](https://github.com/ShunyuanZheng/GPS-Gaussian)<br>:house:[project](https://shunyuanzheng.github.io/GPS-Gaussian)新视图
   * [DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization](http://arxiv.org/abs/2403.06912v1)<br>:star:[code](https://github.com/Fictionarry/DNGaussian)<br>:house:[project](https://fictionarry.github.io/DNGaussian/)
@@ -615,6 +619,9 @@
 * 目标重建
   * [Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction](https://arxiv.org/abs/2312.01196)<br>:house:[project](https://geometric-rl.mpi-inf.mpg.de/npg)
   * [SAOR: Single-View Articulated Object Reconstruction](https://arxiv.org/abs/2303.13514)<br>:house:[project](https://mehmetaygun.github.io/saor)
+
+
+
 
 <a name="32"/>
 
@@ -870,6 +877,7 @@
   * [What If the TV Was Off? Examining Counterfactual Reasoning Abilities of Multi-modal Language Models](https://arxiv.org/abs/2310.06627)<br>:house:[project](https://bzhao.me/C-VQA/)
   * [Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception](https://arxiv.org/abs/2403.02969)
   * [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472)
+  * [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730)
   * [Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations](http://arxiv.org/abs/2403.07241v1)
 * 视觉基础模型
   * [Three Pillars improving Vision Foundation Model Distillation for Lidar](https://arxiv.org/abs/2310.17504)<br>:star:[code](https://github.com/valeoai/ScaLR)
@@ -1064,7 +1072,7 @@
 <a name="23"/>
 
 ## 23.Sound
-* [Hearing Anything Anywhere]()
+* [Hearing Anything Anywhere](https://arxiv.org/abs/2406.07532)<br>:house:[project](https://masonlwang.com/hearinganythinganywhere/)
 * [Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling](https://arxiv.org/abs/2312.01017)
 * [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)<br>:tv:[video](https://www.youtube.com/watch?v=tTsKhviukAE)
 * [DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction](http://arxiv.org/abs/2403.01226v1)
@@ -1814,7 +1822,7 @@
 * [Mosaic-SDF for 3D Generative Models](https://arxiv.org/abs/2312.09222)<br>:house:[project](https://lioryariv.github.io/msdf)
 * [Federated Online Adaptation for Deep Stereo](https://arxiv.org/abs/2405.14873)<br>:house:[project](https://fedstereo.github.io/)
 * 三维视觉
-  * [Situational Awareness Matters in 3D Vision Language Reasoning]()
+  * [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544)<br>:house:[project](https://yunzeman.github.io/situation3d)
   * [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/abs/2312.14132)
   * [Towards 3D Vision with Low-Cost Single-Photon Cameras](https://arxiv.org/abs/2403.17801)
 * 三维重建
@@ -2573,7 +2581,7 @@
   * [Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering]()
 * 视频去模糊
   * [Frequency-aware Event-based Video Deblurring for Real-World Motion Blur]()
-  * [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring]()<br>:star:[code](https://github.com/huicongzhang/BSSTNet)<br>:house:[project](https://vilab.hit.edu.cn/projects/bsstnet/)
+  * [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring](https://arxiv.org/abs/2406.07551)<br>:star:[code](https://github.com/huicongzhang/BSSTNet)<br>:house:[project](https://vilab.hit.edu.cn/projects/bsstnet/)
   * [FMA-Net: Flow Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring](https://arxiv.org/abs/2401.03707)<br>:star:[code](https://github.com/KAIST-VICLab/FMA-Net)<br>:house:[project](https://kaist-viclab.github.io/fmanet-site/)
   * [DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://arxiv.org/abs/2403.10103)<br>:house:[project](https://huiqiang-sun.github.io/dyblurf/)
 * 视频增强
@@ -2876,7 +2884,7 @@
 ## 1.其它(other)
 * [Implicit Motion Function]()
 * [Rewrite the stars]()
-* [Adapters Strike Back]()
+* [Adapters Strike Back](https://arxiv.org/abs/2406.06820)<br>:star:[code](https://github.com/visinf/adapter_plus)
 * [Motion Diversification Networks]()
 * [Ungeneralizable Examples](https://export.arxiv.org/abs/2404.14016)
 * [Generalized Event Cameras]()

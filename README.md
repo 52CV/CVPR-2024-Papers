@@ -47,10 +47,13 @@
 
 -----------ASDF
 
-6月12日更新
-* [Open-World Human-Object Interaction Detection via Multi-modal Prompts](https://arxiv.org/abs/2406.07221)
-* [Neural Visibility Field for Uncertainty-Driven Active Mapping](https://arxiv.org/abs/2406.06948)<br>:house:[project](https://sites.google.com/view/nvf-cvpr24/)
-* [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730)
+6月13日更新
+* [Fitting Flats to Flats](https://openaccess.thecvf.com/content/CVPR2024/papers/Dogadov_Fitting_Flats_to_Flats_CVPR_2024_paper.pdf)
+* [Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf)
+* [HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding](http://arxiv.org/abs/2312.03050)
+* [MarkovGen: Structured Prediction for Efficient Text-to-Image Generation](http://arxiv.org/abs/2308.10997)
+* [Fusing Personal and Environmental Cues for Identification and Segmentation of First-Person Camera Wearers in Third-Person Views](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Fusing_Personal_and_Environmental_Cues_for_Identification_and_Segmentation_of_CVPR_2024_paper.pdf)
+* [Towards HDR and HFR Video from Rolling-Mixed-Bit Spikings](https://openaccess.thecvf.com/content/CVPR2024/papers/Chang_Towards_HDR_and_HFR_Video_from_Rolling-Mixed-Bit_Spikings_CVPR_2024_paper.pdf)
 
 <a name="62"/>
 
@@ -996,7 +999,7 @@
   * [Dual-consistency Model Inversion for Non-exemplar Class Incremental Learning]()
   * [FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning]()
   * [Gradient Reweighting: Towards Imbalanced Class-Incremental Learning](http://arxiv.org/abs/2402.18528v1)
-  * [DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning]()
+  * [DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/He_DYSON_Dynamic_Feature_Space_Self-Organization_for_Online_Task-Free_Class_Incremental_CVPR_2024_paper.pdf)
   * [NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning]()<br>:star:[code](https://github.com/BurakGurbuz97/NICE)
   * [Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning](http://arxiv.org/abs/2403.12030v1)<br>:star:[code](https://github.com/sun-hailong/CVPR24-Ease)
   * [Text-Enhanced Data-free Approach for Federated Class-Incremental Learning](http://arxiv.org/abs/2403.14101v1)<br>:star:[code](https://github.com/tmtuan1307/lander)
@@ -1025,7 +1028,7 @@
   * [Unlocking the Potential of Prompt-Tuning in Bridging Generalized and Personalized Federated Learning](https://arxiv.org/abs/2310.18285)
   * [Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices](https://arxiv.org/abs/2311.18129)
   * [FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning]()
-  * [Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity]()<br>:star:[code](https://github.com/yuhangchen0/FedHEAL)
+  * [Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Fair_Federated_Learning_under_Domain_Skew_with_Local_Consistency_and_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/yuhangchen0/FedHEAL)
   * [Global and Local Prompts Cooperation via Optimal Transport for Federated Learning](https://arxiv.org/abs/2403.00041)
   * [PerAda: Parameter-Efficient Federated Learning Personalization with Generalization Guarantees](https://arxiv.org/abs/2302.06637)<br>:star:[code](https://github.com/NVlabs/PerAda)
   * [Relaxed Contrastive Learning for Federated Learning](https://arxiv.org/abs/2401.04928)
@@ -1095,7 +1098,7 @@
 * 视频和音频同步
   * [DiVAS: Video and Audio Synchronization with Dynamic Frame Rates]()
 * 视听表征学习
-  * [Looking Similar, Sounding Different: Leveraging Counterfactual Cross-Modal Pairs for Audiovisual Representation Learning](https://arxiv.org/abs/2304.05600)
+  * [Looking Similar Sounding Different: Leveraging Counterfactual Cross-Modal Pairs for Audiovisual Representation Learning](https://arxiv.org/abs/2304.05600)
 * 说话人检测
   * [LoCoNet: Long-Short Context Network for Active Speaker Detection](https://arxiv.org/pdf/2301.08237.pdf)<br>:star:[code](https://github.com/SJTUwxz/LoCoNet_ASD)
 * 音频描述
@@ -1341,7 +1344,7 @@
   * [Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction](http://arxiv.org/abs/2403.18447v1)<br>:star:[code](https://github.com/inhwanbae/LMTrajectory)
   * [Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture](http://arxiv.org/abs/2404.03789v1)<br>:star:[code](https://github.com/PurdueDigitalTwin/seneva)
 * 车道线检测
-  * [LaneCPP: Continuous 3D Lane Detection using Physical Priors]()
+  * [LaneCPP: Continuous 3D Lane Detection using Physical Priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Pittner_LaneCPP_Continuous_3D_Lane_Detection_using_Physical_Priors_CVPR_2024_paper.pdf)
   * [Lane2Seq: Towards Unified Lane Detection via Sequence Generation](http://arxiv.org/abs/2402.17172v1)<br>:house:[project](https://zkyseu.github.io/lane2seq.github.io/)
 * 车载凝视估计
   * [What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation](http://arxiv.org/abs/2403.15664v1)<br>:house:[project](https://yihua.zone/work/ivgaze)
@@ -2157,7 +2160,7 @@
 * [ProMark: Proactive Diffusion Watermarking for Causal Attribution](http://arxiv.org/abs/2403.09914v1)
 * [DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception](http://arxiv.org/abs/2403.13304v1)
 * GAN
-  * [StyLitGAN: Image-based Relighting via Latent Control](https://anandbhattad.github.io/files/2024_CVPR_StyLitGAN.pdf)<br>:star:[code](https://github.com/anandbhattad/stylitgan)<br>:house:[project](https://anandbhattad.github.io/stylitgan/)
+  * [StyLitGAN: Image-Based Relighting via Latent Control](https://openaccess.thecvf.com/content/CVPR2024/papers/Bhattad_StyLitGAN_Image-Based_Relighting_via_Latent_Control_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/anandbhattad/stylitgan)<br>:house:[project](https://anandbhattad.github.io/stylitgan/)
   * [What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs](https://arxiv.org/abs/2401.02411)<br>:house:[project](https://research.nvidia.com/labs/nxp/wysiwyg/)
   * [Diversity-aware Channel Pruning for StyleGAN Compression](http://arxiv.org/abs/2403.13548v1)<br>:star:[code](https://jiwoogit.github.io/DCP-GAN_site)
   * [Rendering Every Pixel for High-Fidelity Geometry in 3D GANs]()
@@ -2240,7 +2243,6 @@
     * [Clockwork Diffusion: Efficient Generation With Model-Step Distillation](https://arxiv.org/abs/2312.08128)
     * [UniGS: Unified Representation for Image Generation and Segmentation](https://arxiv.org/abs/2312.01985)<br>:star:[code](https://github.com/qqlu/Entity)图像生成
     * [Exact Fusion via Feature Distribution Matching for Few-shot Image Generation]()
-    * [LAKE-RED: Camouflaged images generation by latent background knowledge retrieval-augmented diffusion](https://arxiv.org/abs/2404.00292)
     * [FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)<br>:star:[code](https://github.com/aim-uofa/FreeCustom/tree/main)<br>:house:[project](https://aim-uofa.github.io/FreeCustom/)
     * [Adversarial Text to Continuous Image Generation](https://openreview.net/forum?id=9X3UZJSGIg9)
     * [Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)<br>:house:[project](http://style-aligned-gen.github.io/)
@@ -2482,7 +2484,7 @@
 * 去阴影
   * [HomoFormer: Homogenized Transformer for Image Shadow Removal]()
 * 去模糊
-  * [Unsupervised Blind Image Deblurring Based on Self-Enhancement]()
+  * [Unsupervised Blind Image Deblurring Based on Self-Enhancement](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.pdf)
   * [Latency Correction for Event-guided Deblurring and Frame Interpolation]()
   * [LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://arxiv.org/abs/2307.09815)
   * [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
@@ -3027,7 +3029,7 @@
 * [Pick-or-Mix: Dynamic Channel Sampling for ConvNets](https://openreview.net/forum?id=Howb7fXB4V)
 * [AutoAD III: The Prequel - Back to the Pixels](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_AutoAD_III_The_Prequel_-_Back_to_the_Pixels_CVPR_2024_paper.pdf)<br>:house:[project](https://www.robots.ox.ac.uk/vgg/research/autoad/)
 * [Training-free Pretrained Model Merging](https://arxiv.org/abs/2403.01753)<br>:star:[code](https://github.com/zju-vipa/training_free_model_merging)
-* [Overcoming Generic Knowledge Loss with Selective Parameter Update](https://openreview.net/forum?id=n8UYBYE9SQ)
+* [Overcoming Generic Knowledge Loss with Selective Parameter Update](http://arxiv.org/abs/2308.12462)
 * [Selective nonlinearities removal from digital signals](https://arxiv.org/abs/2403.09731)
 * [Memory-Scalable and Simplified Functional Map Learning](https://arxiv.org/abs/2404.00330)
 * [Fully Exploiting Every Real Sample: Super-Pixel Sample Gradient Model Stealing](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Fully_Exploiting_Every_Real_Sample_SuperPixel_Sample_Gradient_Model_Stealing_CVPR_2024_paper.pdf)

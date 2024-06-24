@@ -125,8 +125,17 @@
 
 
 -----------ASDF
-
-
+6月23日更新
+* [Open-Vocabulary Object 6D Pose Estimation](http://arxiv.org/abs/2312.00690)
+* [GenZI: Zero-Shot 3D Human-Scene Interaction Generation](http://arxiv.org/abs/2311.17737)
+* [Cross-Dimension Affinity Distillation for 3D EM Neuron Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Cross-Dimension_Affinity_Distillation_for_3D_EM_Neuron_Segmentation_CVPR_2024_paper.pdf)
+* [Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks Methods and Applications](http://arxiv.org/abs/2311.18168)
+* [LASO: Language-guided Affordance Segmentation on 3D Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf)
+* [Detector-Free Structure from Motion](http://arxiv.org/abs/2306.15669)
+* [Towards Surveillance Video-and-Language Understanding: New Dataset Baselines and Challenges](http://arxiv.org/abs/2309.13925)
+* [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf)
+* [DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](http://arxiv.org/abs/2403.19235)
+* [Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Dispel_Darkness_for_Better_Fusion_A_Controllable_Visual_Enhancer_based_CVPR_2024_paper.pdf)
 
 <a name="62"/>
 
@@ -860,7 +869,7 @@
 * [WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification](https://openaccess.thecvf.com/content/CVPR2024/papers/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/UCSB-VRL/WildlifeMapper)
 * [Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://arxiv.org/abs/2403.02746)<br>:star:[code](https://github.com/LiZhuoHong/Paraformer)
 * 遥感
-  * [GeoChat: Grounded Large Vision-Language Model for Remote Sensing]()
+  * [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](http://arxiv.org/abs/2311.15826)
   * [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)
   * [3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions](http://arxiv.org/abs/2404.04823v1)<br>:star:[code](https://github.com/opendatalab/MLS-BRN.git)
   * [Poly Kernel Inception Network for Remote Sensing Detection](https://arxiv.org/abs/2403.06258)
@@ -970,7 +979,7 @@
   * [OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation](https://arxiv.org/abs/2311.17911)<br>:star:[code](https://github.com/shikiw/OPERA)多模态大语言模型
   * [Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Low-Rank_Approximation_for_Sparse_Attention_in_Multi-Modal_LLMs_CVPR_2024_paper.pdf)LLMs
   * [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692)<br>:star:[code](https://github.com/dvlab-research/LISA)
-  * [Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model]()
+  * [Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Querying_as_Prompt_Parameter-Efficient_Learning_for_Multimodal_Language_Model_CVPR_2024_paper.pdf)
   * [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://arxiv.org/abs/2311.17076)<br>:star:[code](https://github.com/chancharikmitra/CCoT)
   * [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)<br>:house:[project](https://tsb0601.github.io/mmvp_blog/)
   * [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://arxiv.org/abs/2312.06742)<br>:star:[code](https://github.com/kakaobrain/honeybee)LLM
@@ -1616,7 +1625,7 @@
 * [Semantic Line Combination Detector](http://arxiv.org/abs/2404.18399)
 * [Language-conditioned Detection Transformer](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_Language-conditioned_Detection_Transformer_CVPR_2024_paper.pdf)
 * [Unsupervised Salient Instance Detection]()
-* [Neural Exposure Fusion for High-Dynamic Range Object Detection]()
+* [Neural Exposure Fusion for High-Dynamic Range Object Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.pdf)
 * [LEOD: Label-Efficient Object Detection for Event Cameras](http://arxiv.org/abs/2311.17286)
 * [SFOD: Spiking Fusion Object Detector](http://arxiv.org/abs/2403.15192v1)<br>:star:[code](https://github.com/yimeng-fan/SFOD)
 * [Exploring Orthogonality in Open World Object Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Exploring_Orthogonality_in_Open_World_Object_Detection_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/feifeiobama/OrthogonalDet)
@@ -1872,7 +1881,7 @@
 * 语音驱动的人体动画
   * [Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion](https://arxiv.org/abs/2312.04466)<br>:star:[code](https://github.com/kiranchhatre/amuse)<br>:house:[project](https://amuse.is.tue.mpg.de/)
 * 文本提示的人体动画  
-  * [HOIAnimator: Text-Prompt Human-Object Animations Generation with Perceptive Diffusion Models]()(https://english.bistu.edu.cn/xwdt/kxyj/202403/t20240305_443147.html)
+  * [HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.pdf)
 * 手语翻译
   * [LLMs are Good Sign Language Translators](http://arxiv.org/abs/2404.00925v1)
   * [Representing Signs as Language: A New Method for Sign Language Translation from Videos]()
@@ -1892,7 +1901,7 @@
 * 类别无关的姿势估计
   * [ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_ESCAPE_Encoding_Super-keypoints_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf)
 * 视频估计人体动力学
-  * [PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos]()
+  * [PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos](http://arxiv.org/abs/2404.04430)
 * 人体姿势回归
   * [Video-Based Human Pose Regression via Decoupled Space-Time Aggregation](https://arxiv.org/abs/2403.19926)<br>:star:[code](https://github.com/zgspose/DSTA)
 * 3D人体模型
@@ -2032,8 +2041,7 @@
 * [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/abs/2310.15008)<br>:house:[project](https://www.xxlong.site/Wonder3D/)
 * [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903)<br>:star:[code](https://github.com/luhr2003/UniGarmentManip)服装操作
 * [GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo](http://arxiv.org/abs/2404.07992v1)<br>:star:[code](https://github.com/Wuuu3511/GoMVS)<br>:star:[code](https://wuuu3511.github.io/gomvs/)
-* [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Priors]
-* [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior](https://arxiv.org/abs/2308.13223)<br>:house:[project](https://efficientdreamer.github.io/)
+* [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Priors](https://arxiv.org/abs/2308.13223)<br>:house:[project](https://efficientdreamer.github.io/)
 * [MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation](https://arxiv.org/abs/2404.03656)<br>:house:[project](https://mvd-fusion.github.io/)
 * [Digital Life Project: Autonomous 3D Characters with Social Intelligence](https://arxiv.org/abs/2312.04547)<br>:house:[project](https://digital-life-project.com/)
 * [Image Sculpting: Precise Object Editing with 3D Geometry Control](https://arxiv.org/abs/2401.01702)<br>:house:[project](https://image-sculpting.github.io/)
@@ -2796,7 +2804,7 @@
   * [LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://arxiv.org/abs/2307.09815)
   * [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
   * [Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains](http://arxiv.org/abs/2403.16205v1)<br>:star:[code](https://zero1778.github.io/blur2blur/)
-  * [AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring]()<br>:star:[code](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)<br>:star:[code](https://github.com/INVOKERer/AdaRevD)
+  * [AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring](https://openaccess.thecvf.com/content/CVPR2024/papers/Mao_AdaRevD_Adaptive_Patch_Exiting_Reversible_Decoder_Pushes_the_Limit_of_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)<br>:star:[code](https://github.com/INVOKERer/AdaRevD)
   * [A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning](https://arxiv.org/abs/2403.02611)<br>:star:[code](https://github.com/PieceZhang/MPT-CataBlur)
 * 去雾
   * [ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing](http://arxiv.org/abs/2404.17825)

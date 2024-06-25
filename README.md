@@ -45,85 +45,6 @@
 |[57.Visual Relationship Detection(视觉关系检测)](#57)|[58.Fisheye Images(鱼眼图像)](#58)|[59.Clustering(聚类)](#59)|[60.Sketch(草图)](#60)|
 |[61.Gaze](#61)|[62.全家桶](#62)|
 
-
-6月21日更新
-
-* [Fully Exploiting Every Real Sample: SuperPixel Sample Gradient Model Stealing](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Fully_Exploiting_Every_Real_Sample_SuperPixel_Sample_Gradient_Model_Stealing_CVPR_2024_paper.pdf)
-* [Solving Masked Jigsaw Puzzles with Diffusion Vision Transformers](http://arxiv.org/abs/2404.07292)
-* [ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)
-* [CapsFusion: Rethinking Image-Text Data at Scale](http://arxiv.org/abs/2310.20550)
-* [On the Content Bias in Frechet Video Distance](http://arxiv.org/abs/2404.12391)
-* [POPDG: Popular 3D Dance Generation with PopDanceSet](http://arxiv.org/abs/2405.03178)
-* [Towards More Accurate Diffusion Model Acceleration with A Timestep Tuner](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Towards_More_Accurate_Diffusion_Model_Acceleration_with_A_Timestep_Tuner_CVPR_2024_paper.pdf)
-* [Rethinking Generalizable Face Anti-spoofing via Hierarchical Prototype-guided Distribution Refinement in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Rethinking_Generalizable_Face_Anti-spoofing_via_Hierarchical_Prototype-guided_Distribution_Refinement_in_CVPR_2024_paper.pdf)
-* [GenesisTex: Adapting Image Denoising Diffusion to Texture Space](http://arxiv.org/abs/2403.17782)
-* [Beyond Seen Primitive Concepts and Attribute-Object Compositional Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Saini_Beyond_Seen_Primitive_Concepts_and_Attribute-Object_Compositional_Learning_CVPR_2024_paper.pdf)
-* [HOIST-Former: Hand-held Objects Identification Segmentation and Tracking in the Wild](https://openaccess.thecvf.com/content/CVPR2024/papers/Narasimhaswamy_HOIST-Former_Hand-held_Objects_Identification_Segmentation_and_Tracking_in_the_Wild_CVPR_2024_paper.pdf)
-* [AUEditNet: Dual-Branch Facial Action Unit Intensity Manipulation with Implicit Disentanglement](http://arxiv.org/abs/2404.05063)
-* [OneLLM: One Framework to Align All Modalities with Language](http://arxiv.org/abs/2312.03700)
-* [MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation](http://arxiv.org/abs/2404.02790)
-* [Rotation-Agnostic Image Representation Learning for Digital Pathology](http://arxiv.org/abs/2311.08359)
-* [Super-Resolution Reconstruction from Bayer-Pattern Spike Streams](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_Super-Resolution_Reconstruction_from_Bayer-Pattern_Spike_Streams_CVPR_2024_paper.pdf)
-* [Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences](http://arxiv.org/abs/2312.09337)
-* [SLICE: Stabilized LIME for Consistent Explanations for Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Bora_SLICE_Stabilized_LIME_for_Consistent_Explanations_for_Image_Classification_CVPR_2024_paper.pdf)
-* [Revisiting Counterfactual Problems in Referring Expression Comprehension](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Revisiting_Counterfactual_Problems_in_Referring_Expression_Comprehension_CVPR_2024_paper.pdf)
-* [EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars](http://arxiv.org/abs/2404.19110)
-* [VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation](http://arxiv.org/abs/2308.14710)
-* [Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance](http://arxiv.org/abs/2312.10671)
-* [ControlRoom3D: Room Generation using Semantic Proxy Rooms](https://openaccess.thecvf.com/content/CVPR2024/papers/Schult_ControlRoom3D_Room_Generation_using_Semantic_Proxy_Rooms_CVPR_2024_paper.pdf)
-* [Non-Rigid Structure-from-Motion: Temporally-Smooth Procrustean Alignment and Spatially-Variant Deformation Modeling](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_Non-Rigid_Structure-from-Motion_Temporally-Smooth_Procrustean_Alignment_and_Spatially-Variant_Deformation_Modeling_CVPR_2024_paper.pdf)
-* [Cross-view and Cross-pose Completion for 3D Human Understanding](http://arxiv.org/abs/2311.09104)
-* [VISTA-LLAMA: Reducing Hallucination in Video Language Models via Equal Distance to Visual Tokens](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_VISTA-LLAMA_Reducing_Hallucination_in_Video_Language_Models_via_Equal_Distance_CVPR_2024_paper.pdf)
-* [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Compositional Understanding](http://arxiv.org/abs/2306.08832)
-* [Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld](http://arxiv.org/abs/2311.16714)
-* [Towards Co-Evaluation of Cameras HDR and Algorithms for Industrial-Grade 6DoF Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/papers/Kalra_Towards_Co-Evaluation_of_Cameras_HDR_and_Algorithms_for_Industrial-Grade_6DoF_CVPR_2024_paper.pdf)
-* [360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries](http://arxiv.org/abs/2311.17389)
-* [Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding](http://arxiv.org/abs/2312.02244)
-* [MetaCloak: Preventing Unauthorized Subject-driven Text-to-image Diffusion-based Synthesis via Meta-learning](http://arxiv.org/abs/2311.13127)
-* [HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_HiPose_Hierarchical_Binary_Surface_Encoding_and_Correspondence_Pruning_for_RGB-D_CVPR_2024_paper.pdf)
-* [Modality-Collaborative Test-Time Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_Modality-Collaborative_Test-Time_Adaptation_for_Action_Recognition_CVPR_2024_paper.pdf)
-* [PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection](http://arxiv.org/abs/2312.08371)
-* [Generative Proxemics: A Prior for 3D Social Interaction from Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Muller_Generative_Proxemics_A_Prior_for_3D_Social_Interaction_from_Images_CVPR_2024_paper.pdf)
-* [CPR-Coach: Recognizing Composite Error Actions based on Single-class Training](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_CPR-Coach_Recognizing_Composite_Error_Actions_based_on_Single-class_Training_CVPR_2024_paper.pdf)
-* [Self-Supervised Dual Contouring](http://arxiv.org/abs/2405.18131)
-* [BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_BlockGCN_Redefine_Topology_Awareness_for_Skeleton-Based_Action_Recognition_CVPR_2024_paper.pdf)
-* [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](http://arxiv.org/abs/2311.16813)
-* [HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data](http://arxiv.org/abs/2403.12011)
-* [The Neglected Tails in Vision-Language Models](http://arxiv.org/abs/2401.12425)
-* [Dynamic Support Information Mining for Category-Agnostic Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Dynamic_Support_Information_Mining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf)
-* [GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Khanna_GOAT-Bench_A_Benchmark_for_Multi-Modal_Lifelong_Navigation_CVPR_2024_paper.pdf)
-* [From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation](https://openaccess.thecvf.com/content/CVPR2024/papers/Tirado-Garin_From_Correspondences_to_Pose_Non-minimal_Certifiably_Optimal_Relative_Pose_without_CVPR_2024_paper.pdf)
-* [Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging](https://openaccess.thecvf.com/content/CVPR2024/papers/Ghanekar_Passive_Snapshot_Coded_Aperture_Dual-Pixel_RGB-D_Imaging_CVPR_2024_paper.pdf)
-* [Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification](http://arxiv.org/abs/2403.01944)
-* [Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf)
-* [LightIt: Illumination Modeling and Control for Diffusion Models](http://arxiv.org/abs/2403.10615)
-* [Single View Refractive Index Tomography with Neural Fields](http://arxiv.org/abs/2309.04437)
-* [Neural Lineage](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Neural_Lineage_CVPR_2024_paper.pdf)
-* [CoDe: An Explicit Content Decoupling Framework for Image Restoration](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_CoDe_An_Explicit_Content_Decoupling_Framework_for_Image_Restoration_CVPR_2024_paper.pdf)
-* [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](http://arxiv.org/abs/2311.13231)
-* [Multiview Aerial Visual RECognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](http://arxiv.org/abs/2312.04548)
-* [Learned Representation-Guided Diffusion Models for Large-Image Generation](http://arxiv.org/abs/2312.07330)
-* [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning](http://arxiv.org/abs/2311.13612)
-* [Weakly Supervised Video Individual Counting](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Weakly_Supervised_Video_Individual_Counting_CVPR_2024_paper.pdf)
-* [3D Neural Edge Reconstruction](http://arxiv.org/abs/2405.19295)
-* [FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](http://arxiv.org/abs/2312.17681)
-* [StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN](http://arxiv.org/abs/2403.14186)
-* [Universal Novelty Detection Through Adaptive Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Mirzaei_Universal_Novelty_Detection_Through_Adaptive_Contrastive_Learning_CVPR_2024_paper.pdf)
-* [Dual Prior Unfolding for Snapshot Compressive Imaging](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.pdf)
-* [BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning](http://arxiv.org/abs/2311.12075)
-* [Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors](http://arxiv.org/abs/2312.02196)
-* [Higher-order Relational Reasoning for Pedestrian Trajectory Prediction](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf)
-* [VAREN: Very Accurate and Realistic Equine Network](https://openaccess.thecvf.com/content/CVPR2024/papers/Zuffi_VAREN_Very_Accurate_and_Realistic_Equine_Network_CVPR_2024_paper.pdf)
-* [LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs](http://arxiv.org/abs/2312.04372)
-* [OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2403.18550)
-* [Scaled Decoupled Distillation](http://arxiv.org/abs/2403.13512)
-* [NeRFiller: Completing Scenes via Generative 3D Inpainting](http://arxiv.org/abs/2312.04560)
-* [KD-DETR: Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_KD-DETR_Knowledge_Distillation_for_Detection_Transformer_with_Consistent_Distillation_Points_CVPR_2024_paper.pdf)
-* [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA-Diffusion_MultiModal_Attack_on_Diffusion_Models_CVPR_2024_paper.pdf)
-* [Benchmarking Audio Visual Segmentation for Long-Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Benchmarking_Audio_Visual_Segmentation_for_Long-Untrimmed_Videos_CVPR_2024_paper.pdf)
-* [Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](http://arxiv.org/abs/2403.18360)
-
-
 -----------ASDF
 6月23日更新
 * [Open-Vocabulary Object 6D Pose Estimation](http://arxiv.org/abs/2312.00690)
@@ -526,6 +447,7 @@
 * [How to Configure Good In-Context Sequence for Visual Question Answering](https://arxiv.org/abs/2312.01571)<br>:star:[code](https://github.com/GaryJiajia/OFv2_ICL_VQA)
 * [Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models](https://arxiv.org/abs/2312.06685)
 * [Question Aware Vision Transformer for Multimodal Reasoning](http://arxiv.org/abs/2402.05472)
+* [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf)
 * Video-QA
   * [Grounded Question-Answering in Long Egocentric Videos](https://arxiv.org/abs/2312.06505)<br>:star:[code](https://github.com/Becomebright/GroundVQA)
   * [Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels](http://arxiv.org/abs/2403.14430v1) 
@@ -614,6 +536,7 @@
 * [DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback](https://arxiv.org/pdf/2311.10081.pdf)<br>:star:[code](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)交互
 * [Towards Open-Vocabulary HOI Detection via Conditional Multi-level Decoding and Fine-grained Semantic Enhancement]()
 * [HOI-M^3: Capture Multiple Humans and Objects Interaction within Contextual Environment](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOI-M3_Capture_Multiple_Humans_and_Objects_Interaction_within_Contextual_Environment_CVPR_2024_paper.pdf)
+* [GenZI: Zero-Shot 3D Human-Scene Interaction Generation](http://arxiv.org/abs/2311.17737)
 * 人体运动跟踪
   * [HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations](http://arxiv.org/abs/2403.03561v1)<br>:star:[code](https://pico-ai-team.github.io/hmd-poser)<br>:house:[project](https://pico-ai-team.github.io/hmd-poser)
 * 新运动合成
@@ -1136,6 +1059,7 @@
   * [PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor](http://arxiv.org/abs/2403.06668v1)
   * [Revisiting Adversarial Training under Long-Tailed Distributions](http://arxiv.org/abs/2403.10073v1)<br>:star:[code](https://github.com/NISPLab/AT-BSL)
   * [Towards Fairness-Aware Adversarial Learning](http://arxiv.org/abs/2402.17729v1)
+  * [Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Dispel_Darkness_for_Better_Fusion_A_Controllable_Visual_Enhancer_based_CVPR_2024_paper.pdf)
   * [Soften to Defend: Towards Adversarial Robustness via Self-Guided Label Refinement](http://arxiv.org/abs/2403.09101v1)
   * [Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM](http://arxiv.org/abs/2403.11448v1)
   * [Boosting Adversarial Training via Fisher-Rao Norm-based Regularization](http://arxiv.org/abs/2403.17520v1)<br>:star:[code](https://github.com/TrustAI/LOAT)
@@ -1392,6 +1316,7 @@
   * [FAR: Flexible Accurate and Robust 6DoF Relative Camera Pose Estimation](https://arxiv.org/abs/2403.03221)<br>:star:[code](https://github.com/crockwell/far)<br>:house:[project](https://crockwell.github.io/far/)
   * [6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation](https://arxiv.org/abs/2401.00029)
   * [MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images](https://arxiv.org/abs/2403.01517)
+  * [Open-Vocabulary Object 6D Pose Estimation](http://arxiv.org/abs/2312.00690)
   * [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344)<br>:house:[project](https://nvlabs.github.io/FoundationPose/)
   * [GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects](https://arxiv.org/abs/2403.11510)
   * [Open-vocabulary object 6D pose estimation](https://arxiv.org/abs/2312.00690)<br>:house:[project](https://jcorsetti.github.io/oryon/)
@@ -1970,7 +1895,7 @@
 * 电影描述
   * [MICap: A Unified Model for Identity-Aware Movie Descriptions](http://arxiv.org/abs/2405.11483)<br>:house:[project](https://katha-ai.github.io/projects/micap/)
 * 视频监控
-  * [Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges](https://arxiv.org/abs/2309.13925)<br>:sunflower:[dataset](https://xuange923.github.io/Surveillance-Video-Understanding)
+  * [Towards Surveillance Video-and-Language Understanding: New Dataset Baselines and Challenges](http://arxiv.org/abs/2309.13925)<br>:sunflower:[dataset](https://xuange923.github.io/Surveillance-Video-Understanding)
 * 视频预测
   * [Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrivastava_Video_Prediction_by_Modeling_Videos_as_Continuous_Multi-Dimensional_Processes_CVPR_2024_paper.pdf)
   * [ExtDM: Dual distribution extrapolation diffusion model for video prediction]()
@@ -2318,7 +2243,6 @@
 * [Anatomically Constrained Implicit Face Models](https://arxiv.org/abs/2312.07538)
 * [Face2Diffusion for Fast and Editable Face Personalization](http://arxiv.org/abs/2403.05094v1)<br>:star:[code](https://mapooon.github.io/Face2DiffusionPage/)<br>:star:[code](https://github.com/mapooon/Face2Diffusion)
 * [Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection](http://arxiv.org/abs/2405.09882)<br>:star:[code](https://github.com/HansSunY/DiffAM)
-* [LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example](https://arxiv.org/abs/2403.15227)<br>:star:[code](https://github.com/kwanyun/LeGO_code)<br>:house:[project](https://kwanyun.github.io/lego/)
 * [Self-Supervised Facial Representation Learning with Facial Region Awareness](https://arxiv.org/abs/2403.02138)
 * [Facial Identity Anonymization via Intrinsic and Extrinsic Attention Distraction](https://openaccess.thecvf.com/content/CVPR2024/papers/Kuang_Facial_Identity_Anonymization_via_Intrinsic_and_Extrinsic_Attention_Distraction_CVPR_2024_paper.pdf)
 * [VOODOO 3D: Volumetric Portrait Disentanglement For One-Shot 3D Head Reenactment](http://arxiv.org/abs/2312.04651)
@@ -2335,6 +2259,8 @@
 * 人脸合成
   * [Deformable One-shot Face Stylization via DINO Semantic Guidance](http://arxiv.org/abs/2403.00459v1)<br>:star:[code](https://github.com/zichongc/DoesFS)
   * [Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation](https://arxiv.org/abs/2401.01207)
+  * [DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](http://arxiv.org/abs/2403.19235)
+  * [LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example](https://arxiv.org/abs/2403.15227)<br>:star:[code](https://github.com/kwanyun/LeGO_code)<br>:house:[project](https://kwanyun.github.io/lego/)
   * [Text-conditional Attribute Alignment across Latent Spaces for 3D Controllable Face Image Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Text-conditional_Attribute_Alignment_across_Latent_Spaces_for_3D_Controllable_Face_CVPR_2024_paper.pdf)
   * [UV-IDM: Identity-Conditioned Latent Diffusion Model for Face UV-Texture Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_UV-IDM_Identity-Conditioned_Latent_Diffusion_Model_for_Face_UV-Texture_Generation_CVPR_2024_paper.pdf)
   * [Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation](https://arxiv.org/abs/2405.04356)
@@ -2386,6 +2312,7 @@
 * 三维人脸
   * [3D Face Tracking from 2D Video through Iterative Dense UV to Image Flow](http://arxiv.org/abs/2404.09819v1)
   * [FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance](https://arxiv.org/abs/2406.02074)
+  * [Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks Methods and Applications](http://arxiv.org/abs/2311.18168)
 * 4D 头像合成
   * [Portrait4D: Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data](https://arxiv.org/abs/2311.18729)<br>:star:[code](https://github.com/YuDeng/Portrait-4D)<br>:house:[project](https://yudeng.github.io/Portrait4D/)
 * 头像重建
@@ -3223,6 +3150,8 @@
 * 3D 分割
   * [OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning](https://arxiv.org/abs/2311.11666)
   * [PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation](http://arxiv.org/abs/2312.04016)
+  * [Cross-Dimension Affinity Distillation for 3D EM Neuron Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Cross-Dimension_Affinity_Distillation_for_3D_EM_Neuron_Segmentation_CVPR_2024_paper.pdf)
+  * [LASO: Language-guided Affordance Segmentation on 3D Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf)
 
 <a name="1"/>
 
@@ -3230,6 +3159,7 @@
 * [Implicit Motion Function](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Implicit_Motion_Function_CVPR_2024_paper.pdf)
 * [Rewrite the stars](http://arxiv.org/abs/2403.19967)
 * [Adapters Strike Back](https://arxiv.org/abs/2406.06820)<br>:star:[code](https://github.com/visinf/adapter_plus)
+* [Detector-Free Structure from Motion](http://arxiv.org/abs/2306.15669)
 * [Utility-Fairness Trade-Offs and How to Find Them](http://arxiv.org/abs/2404.09454)
 * [Learning Degradation-Independent Representations for Camera ISP Pipelines](http://arxiv.org/abs/2307.00761)
 * [Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion](http://arxiv.org/abs/2312.00852)
